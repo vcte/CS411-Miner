@@ -1,0 +1,9799 @@
+﻿# page 104 is bad gateway
+# companies named 'Delete' are removed
+# duplicate companies removed
+# script: 
+# for i in range(1, 104): # + range(105, 227 + 1):
+#	d = pq("http://www.giantbomb.com/companies/?page=" + str(i), timeout = 30)
+#	e = d("ul.editorial")
+#	for li in e("li"):
+#		gb_list.append(li.find("a").find("h3.title").text_content().strip())
+
+Pigasus Games
+FobTi interactive
+TouchFactor
+Hassey Enterprises, Inc.
+Bad Games
+Engine Software
+Haymaker Team
+Vetra Games
+God Hates Games
+Giant Enemy Crab
+Clapfoot
+Caramel Box Ichigo-aji
+Caramel Box
+Final Boss Entertainment
+Talaiot Studio
+Connor Ullmann
+4gency
+13AM Games
+Lunarch Studios
+Mike Bithell Games
+Mobot Studios
+Division 8
+Hamster Republic Productions
+Wonderstruck
+Italic Pig
+Rogue Factor
+Deniam Corp.
+Amuse World
+Aqua Rouge
+Icing Candy
+XTAL SWORD
+3rd Dimension Creations LTD
+Wahlap Technology
+AlphaNuts
+Bruneras
+Archetype Global
+Demon Wagon Studios
+White Cat
+Zeiva Inc
+Studio Super63 Ltd
+Chensterrain
+Palette
+Boomzap Entertainment
+CodeHatch
+Coconut Island Studio
+Airship Syndicate
+Tic Toc Games
+AtomicTorch
+Iron Bit
+Shinra Technologies
+R8 Games
+Silverstring Media
+sprite
+Black Bandit Q Limited
+Nacelle Games, LLC
+H2 Interactive Co. Ltd.
+Yandere Translations
+Twincle Drop
+FiolaSoft Studio
+Dovetail Games
+Mikeware
+Aria Soft
+Rainy Frog
+Glitchy Pixel
+La Cosa Entertainment
+Pulsetense Games
+Bitbox Ltd.
+Bomb Dog Studios
+Match Gems
+Inner Void Interactive
+Joshua Wise
+Witt Interactive Software
+Quantic Lab
+Nexon Europe
+Social Game Universe
+Lemon Games, SL
+South Winds Games
+Alpha Six Productions
+Awoker Games
+H2F Informationssystems GmbH
+Quickfire-Games
+Kitsune Games
+inkle
+Captain Games
+Genius Products
+Corncrow Games
+Tiny Lab Productions
+MogoTXT
+Grenadetree Games
+Red Katana
+Mayhem Games USA
+Nippon Columbia
+Guts Department
+Graphite Lab
+Dolores Entertainment
+LeftHanded Games Studios
+MadFox Games
+Gambitious
+Urban Games
+Tasty Poison Games
+Dynamix Software
+Execution Labs
+One Legged Seagull
+Turbo Nuke
+Wihlborg Entertainment
+Wánlè Wúxiàn Kējì
+War Drum Studios
+Stir Fry Games
+Gameloft Bulgaria EOOD
+Magic Mouse
+Tangrin
+War Drum Games
+Complex Games
+InspiringApps
+Smartpix
+Chillingo Ltd.
+Self Aware Games
+The Layabouts
+Ninja Crime
+Animedia Entertainment Games
+Samson Core
+HiTech Creations
+Force Of Habit
+Tchagata Games
+Cinematic Force
+Levels Ltd.
+iqsoup
+Crosse Studios
+HeSaw
+Ubisoft Finland Oy
+Ubisoft Abu Dhabi
+Dreamlords Digital
+Rolito
+patapon-game.com
+Neon Drawing Studios
+PsyWorks
+Nexus Game Studios
+Extreme Reality
+Softkinetic
+Net Games Laboratory
+Square Visual Works
+SuperJoeBob
+Hope Animation
+BeaverTap Games
+Grumpyface Studios
+Heavy Boat Games
+X-Nauts
+Magenta Factory
+P2 Games
+AiCherry
+PalaceGame
+Reverb Triple XP
+LOOT Entertainment
+Two Desperados
+JosPlays
+Ysbryd Games
+Sukeban Games
+CreativeForge Games
+Anisoptera Games
+Lachhh & Friends
+Farmergnome
+TwinSky Games
+Cirque Verte
+Spice Games
+Keys Factory
+Imagination Vent
+3PM Games
+Pure FPS
+Future Games of London
+SinnDevelopment
+THQ San Diego
+Golden Ruby Games
+Daniel Benmergui
+Minimega
+Greg Batha
+Wildgrass
+White Lotus Interactive
+Juggernaut Games
+Kitfox Games
+Funktronic Labs
+Lohika
+Keep Talking Team
+Team Gemini
+Alan Zucconi
+artmove, Inc.
+Team RED
+Lionant
+animdude
+SuckerFree Games
+rdein
+Elektronite
+Onion Software
+Andalusian
+CAZAP
+cTools Studio
+SuperSoft
+Artificial Life, Inc.
+Forge Reply
+Ben Esposito
+Auxillary Power
+Dream Link Entertainment
+ApolloSoft
+Duaik
+Tech Dealer
+Spilt Milk Studios
+The Mustard Corporation
+Osprey Publishing
+System Vision
+A Crowd of Monsters
+Gato Salvaje S.L.
+SeithCG
+Disparity Games
+Wombat Source
+Hammer & Chisel
+gnifrebel Games UG
+Nosebleed Interactive
+Entrada Interactive
+Nineteen Stone Ninjas
+Sean O'Connor's Games
+Mr. Game
+SMG Studio
+88mm Games
+Defiance Game Studio
+BMG Japan Inc.
+Gunfire Games
+Pioneer Developers
+Meteoric Games
+Bevel Studios
+Deco Digital
+La Moustache Studio
+Not Robot
+QUICKTEQUILA
+Swordtales
+Screwy Lightbulb
+Clickteam
+DarkElite
+Filament Games
+Ice Water Games
+Allods Team
+Boondoggle Studios
+Kayac
+Nautilus Mobile
+Imagine Studios
+The Cornsoft Group
+Enitvare
+Anawiki Games
+Big Pixel Studios
+Winged Pixel Inc.
+Section Games
+TAD Productions AB
+Zero Rock Entertainment
+Rail Slave Games
+Reakktor
+Studio Fizbin
+Wild Sheep Studio
+Dark Roast Entertainment
+Codemasters Digital
+Collectorvision
+Alekmaul
+Creability
+Interabang Entertainment
+Gomiya Games
+Deep Silver Dambuster Studios
+DragonSix
+Skatanic Studios
+GSProductions Ltd.
+Thomas Bowker
+Reign Bros
+Kabam
+Tribe Studios
+Headless Wizard
+Propeller
+General Arcade
+Sheepy Games
+Silvertime
+MAGStudios
+Rigid-Soft
+Float Hybrid
+GL33k
+ATGames
+SYZYGY
+Stegersaurus Software Inc.
+Hearthfire Studios
+Kerberos Productions Inc.
+Creobit
+PhobosLab
+Strategy 3 Tactics
+Saito Games
+Spray
+SmashGames
+Welldone and Sunnyside up Creative
+Dragontech
+30.06 Studios
+initials
+JCR Soft Co.
+Megafuzz
+Little Worlds Interactive
+Blueberry Soft
+Innocent Grey
+Petit Reve
+Bitfinity
+Candescent Games
+Section Studios
+Mebio Software
+TawStudio Entertainment
+Creoterra
+Vetasoft
+Really Slick
+DropWave Inc.
+Noble Empire Corp.
+Trickster Face
+Polygon Toys
+FlukeDuke Ltd
+Icon Games
+Cricket Moon Media
+toby3d
+Nelson Sexton
+COMFORT
+Wonderfling
+stillalive studios
+Game-Labs
+RVL Games
+Sideline Amusements
+ViWo Games
+Tap it Games
+Poni-Pachet
+Waterlily Games
+Night Light Interactive
+Epic Minds
+Room 8 Studio
+Astroll
+Ocean Media
+Ubiquitous Entertainment
+Open System
+Bedtime Digital Games
+RageSquid
+Carlsen Games
+Smolders
+Bumpkin Brothers
+Highcastle Studios
+Fancy Bytes
+Legend Studio
+OPQAM
+Team Flow
+Ludimedia
+Supergazol
+Ubisoft EMEA
+RobTop Games
+DSD Consulting Services
+XYLA Entertainment LLC
+Boss Key Productions
+Making Fun
+Junglevision Software
+Sekai Project
+[erka:es]
+Faultline Games
+xeen Inc.
+Bat Country Games, LLC
+Edge Computers
+A2A Simulations
+Failbetter Games
+NVIDIA Tegra Partners
+Green Neko
+Elliptic Games
+SleepNinja Games
+AGM PLAYISM
+Fly System
+XELF
+Farsky Interactive
+Rotary Games
+Database Educational Software
+CBL Technology
+Tequibo
+Tindalos Interactive
+North Side
+Simple Designs Gaming
+Double Stallion
+Feycraft
+Gojira
+Black Curtain Studio
+Bushiroad
+KLab Inc.
+Mobage, Inc.
+Studio Mono
+Numantian Games
+Aoineko Studios
+Finji
+Brunner Mobile
+Friend & Foe
+Silesia Games
+Actoz Soft
+Modoka Studios
+MURA Interactive
+A Thinking Ape
+Collavier Corporation
+Favorite
+Red Blue Games
+Qute Corporation
+Archive Entertainment
+NewGen Interactive
+SkyBox Labs
+Santa Clara Games
+Gaibrain
+opGames
+Pixelopus
+Shorebound Studios
+Tamugaia
+Acid Nerve
+Metaversal Studios
+Nova Co., Ltd.
+nDreams
+Valkyrie Entertainment
+Stolen Couch Games
+Asobism
+Electric Boys
+Digital LM
+Bee Tribe
+IMGN.PRO
+Oovee Game Studios
+Storm in a Teacup
+Studio MDHR
+GriN
+Blowfish Studios
+Osome Studio
+Gateway Interactive
+Giant Squid
+Neople
+Proxy Studios
+Whalebox Studio
+Stage 2 Studios
+Infamous Quests
+Locomalito
+Norse
+KENIX SOFT
+Question Games
+Evil Twin Artworks
+Petit Depotto
+Cuve Games
+Digerati Distribution
+Mirball Games
+Dreamworlds
+Glass Knuckle Games
+Urban Logic Games
+Yanim Studios
+Nerd Monkeys
+Ynnis Interactive
+EoEGames
+Inglenook
+Sortasoft
+New Leaf Game Studios
+BitCake Studio
+Gamekiss
+EuroVideo Medien GmbH
+FarSpace Studios
+Tortuga Team
+TransHuman Design
+Micro Factory Games
+B-Alive GmbH
+INTENSE CO., Ltd
+Variable State
+Windybeard
+Goldhawk Interactive
+HectorSoft
+Traplight Ltd.
+Ubisoft Pune
+Indietopia Games
+Concave Studio
+Puuba
+Binary Takeover
+Zircon International, Inc.
+Faveo Entertainment
+BattleCry Studios
+Day For Night Games
+Coda Games
+Ekuator Games
+Heaviest Matter
+Nowhere Studios
+Megas
+Visual Imagination Software
+WiZ
+Furrtek Software Engineering
+Osao Games
+ORG Corporation
+Dennou Kenkyusho
+Project F
+Upperland Studios
+Imaekgames
+Awesome Enterprises
+Curve Digital
+Peter Moorhead
+Disk Original Group
+Dynamic Planning, Inc.
+Magnetic Realms
+Perihelion Interactive
+Digital Happiness
+Night Node Software
+HullBreach Studios
+Cthulhi Games
+SoftEgg Enterprises
+Hypnotic Owl
+BeebApps
+Kaken
+Contraband Entertainment
+Racoonsoft
+Dark Gaia Studios
+RosePortal Games
+bitHuffel
+Ruud Koorevaar
+Psydra Games
+Utopian World of Sandwiches
+Gamatic
+Stage Clear Studios
+Hypercane Studios
+Ivory Tower
+Aduge Studio
+tinyGIANT Games
+Visit
+Ubisoft Chengdu
+Funbox Media Ltd.
+Lumodokate Studios
+1337 Gallery
+VizionEck
+Charlie's Games
+Zomboko Entertainment
+Gone North Games
+Kisareth Studios
+Liquid Flower Games
+Crazy Moo Games
+Haruneko Entertainment
+Portalarium
+The War Room
+Fistful of Frags Team
+Reward Studios
+O2 Games
+Upper One Games
+Defrost Games
+Whalenought Studios
+Alex Gelinas
+Passtech Games
+Astral Byte
+Panzer Gaming Studios
+Yakiniku Banzai!
+Tenco
+Incal Product
+Kuma Reality Games
+Freaky Creations
+Blue Mammoth Games
+Industrial Toys
+Space Inch, LLC
+Cryptic Sea
+2D Heroes
+Tiny Mob Games
+Thoughtshelter Games
+The Domaginarium
+Team Aurora
+SWD Tech Games
+Skunkwerks Kinetic
+Scry Interactive
+The Net Champs
+Hippomancer
+That Brain
+Risen Phoenix Studios
+Green Lava Studios
+Protobird Games
+Polycrime
+PHL Collective
+Victory Simulations
+Berserk Games
+Noble Whale Studios
+9heads Game Studios
+Nevernaut Games
+Last Limb Games
+Kinifi Games
+Sunken Places
+souvenir circ.
+Chris Chung
+Imminent Games
+Celsius Game Studios
+Seabass & Gazelle Studios
+Enter Skies
+FreeForm Interactive LLC
+Time Killer Games
+Midgar Studio
+Wide Pixel Games
+Boolat Games
+Mimimi Productions
+Unity Games
+Trese Brothers 
+Dirigo Games
+sppa4apps
+Kihon Games
+Prismatic Games
+Cave Barn Studios
+Hololabs
+Hanakai Studio
+Flying Carpets Games
+RGCD Publishing
+GGN Game Studios
+Faravid Interactive
+Vigilant Addiction Studios
+Decaying Logic
+Digital Tentacle
+Dissident Logic
+Current Circus
+Crooked Tree Studios
+M-trix
+Dynamite
+True Axis
+C63 Industries
+Broken Crown Games
+Vogelsap
+Pixel Ferrets
+Broken Crayon Games
+MLB.com
+Binary Solo
+Batterystaple Games
+Algo Crunch
+Team Jolly Roger
+South East Games
+VRESKI
+Quantized Bit
+Mad Otter Games
+Neonga
+CJ E&M Corp.
+Tannhauser Gate
+Crowbar Collective
+Elysian Shadows Team
+Swift Jewel
+ProSIM
+Maximum Charisma Studios
+Étienne Périn
+Vertex4 Entertainment Ltd.
+Amnesty Visual
+SuperCrit LLC
+Geomind Entertainment
+Legacy Games
+Arcade County
+Disney Mobile
+Ayyo Games
+ClickGamer
+dmm.com
+Veewo Studio
+Ironstone Partners
+USTWO
+Man c.c.
+Amazon Game Studios
+Caffeine Monster Software
+Tiny Colossus
+Studio Virtys
+NextGen Pants
+The Amiable
+Robin Arnott
+Timbre Interactive
+Willy Chyr
+LearnDistrict
+Andy Makes Games
+Team Karmaflow
+Jason Roberts
+Brain&Brain
+Trichotomy
+E McNeill
+KillHouse Games
+TreeFortress Games
+Swacksoft Softworks Workshop: Dra'ngle Division
+Sunbreak Games
+Game Oven
+Zotnip
+Cross-Product
+Rocket 5 Studios
+Asteroid Base
+Tomato Animation
+Fenix Fire
+Apocoplay
+Will O'Neill
+Kaolink SAS
+Dramatic Create
+Toge Productions
+Leuvision
+Critical Studio
+Guru Games
+Dancing Dragon Games
+Degica
+OUSEGames
+Jetdogs Studios
+Tomoaki Sugeno
+SpookyFish Games
+RetroMasters
+Noble Master Games
+Stun Games
+Jayenkai
+Segasa
+CodeRunners
+Libredia
+Neutron Games
+3T Games
+Investigate North
+Team Kakumei
+Lever Games
+No More Room in Hell Team
+Black Feather Games
+BlankMediaGames LLC
+My.com
+Grey Box
+2DEngine
+Mi-Clos Studio
+Slak Games
+Tekneo
+Metro
+Den'Z
+Rogue Play
+E2 Soft
+IDG Poland SA
+Abalon Studio
+Kanda
+On5
+Goodbye Galaxy Games
+Wyrmbyte, LLC
+Lonely Cat Games
+Gambrinous
+PenguiNet
+Kinelco Ltd
+Surprise Attack Games
+OT Sports LLC
+Night Dive Studios
+Game in a Bottle
+Cartoon Network Games
+Dead Alien Cult
+Byking
+Dead Pixel Arcade
+White Paper Games
+Space Budgie
+7 Raven Studios
+American Technos, Inc.
+Turbo Studios
+Idle Games
+Goodbye Galaxy
+The World Federation Entertainments Network
+Enitity Gaming
+Full Circle Game Studios
+Phantom Compass
+SUTD Game Lab
+Cross Eaglet
+Mighty Mill Games
+Dracue Co.
+Doppler Interactive
+Nuchallenger
+Humagade
+Lemon Studios
+Sodan Design
+Big Deez Productions
+Mu and Heyo
+Powerhoof
+Arrow Soft
+Three Fields Entertainment
+Phenomenon Games
+Tricktale
+ROSA:6
+Hapa Games
+Creaky Corpse Ltd.
+Interlink
+Pocket Starship
+Dark Archon
+Plug in Digital
+InsGames
+MixedBag
+8-Bit Underpants
+Finish Line Games
+Scarab Entertainment
+Coilworks
+app2fun
+Celant Interactive
+Dancing Dinosaur Games
+Flump Studios
+Polynetix Studio
+Merge Games
+Loveshack Entertainment
+Springloaded Software
+RCMADIAX
+MADSOFT Games, inc.
+Varia Games
+Superboss Games
+Riftwalker Ltd.
+GamesPub ltd.
+Riccardo Deias
+BitsAlive
+Wasteland Interactive
+Daniele Giardini
+Jellyfish Games
+B.B. Studio
+RuneStorm
+Art of Mind Productions
+Boneloaf
+Brilliant Skies
+GigasDrop.
+Splapp-Me-Do
+Amzy
+GREE
+DeNA
+Nkidu Games
+Niffler
+Steve Good
+Adam Presley
+Shaun Hollingworth
+Hardlight Studios
+Chris Kerry
+Antony Crowther
+Peter Harrap
+Stellar Jockeys
+Three One Zero
+Panic Arts
+EnvyGames
+NetEase
+TT Fusion
+mutenmiller
+Sirvo LLC
+Mojo Bones
+Sakura River Interactive
+Deadly Red Cube
+Triada Studio Games
+Maxis South
+Chainsawesome Games
+Reality Pump Studios
+Centropolis Gaming
+The Wargamer Project
+Pandora Play
+Bumblebee
+Ian Snyder
+.Gears Studios
+Netdol
+Hucast Games
+Amber Games
+Gakken Kyouiku Shuppan
+Ragequit Corporation
+Montrezina
+Casual Labs
+Aartform Games
+Slashkey
+5 Minutes
+Daylight Studios
+DK Multimedia
+激辛spice
+king.com
+Yukito Products
+Head Games Publishing
+Tantrum Entertainment
+Mind Magic
+Red Dot Games
+Creative Core
+Cyberdice Interactive
+Game Stage
+Art of War
+Rusty Arcade
+Boss Alien
+Gamestorm
+Neon Deity Games
+Necrosoft Games
+Magma Fortress
+HKFiftyOne Games
+Douglas Cowley
+Winged Cloud
+Idea Factory International
+Marcin M. Drews
+Won-O-Soft
+Simon and Schuster
+Nintendo EAD Tokyo Group No.2
+Nintendo EAD Tokyo Group No.1
+AlwaysGeeky Games
+Phime Studio
+Keys of Nine
+Casualogic
+Sumom Games
+RenRen Games USA
+Omnigon Games
+Liar-soft
+Carnivore Studio
+Zagrava Games Studio
+Game Mechanics
+Playdek
+Freejam
+Ludometrics
+Andrews UK
+Good Deal Games
+Visionary Realms
+Walltone Software
+Scarab Studio
+ALU
+Ronove
+Net Corporation
+CommSeed
+D-Technico
+Yamasa
+FutureScope
+Bitsy
+Versus Evil
+Phr00t's Software
+SmashRiot
+Free Lives
+Atmark
+Six to Start
+Infinite Fall
+Pajamas Soft
+Ilusis Interactive Graphics
+Zevia Inc.
+IN|Framez Technology Corp.
+Jason Oda
+SAS Sakata
+Pulltop
+Run 8 Studios
+Yard Team
+SkyVu Entertainment
+Radiant Entertainment
+Artist Soft
+Candy Soft
+Revolution
+Daylight Interactive
+Robotronic Games
+KAJ
+iS Games
+Thumbstar Games
+Hook Soft
+SGN
+Dutch Pinball
+One True Game Studios
+Feathered Ether
+TRIS-GRAM
+Polygon Entertainment
+Broken Bulb Studios
+Oersted
+AbstrAKT Games
+Niantic Labs
+Nullism
+Fantasy Flight Games
+Modesty Creative Agency
+Lucky Frame
+DigiToys
+Smile-Lab
+Dai Nippon Printing Co. Ltd.
+Minori
+Invision Entertainment
+Game Room
+Ganz Studios
+Mediamuse
+Nintendo SDD Software Development Group
+Nintendo SPD Group No.4
+Nintendo SPD Group No.3
+Nintendo SPD Group No.2
+Vector
+ProtoBytes
+Ikaron
+United Independent Entertainment GmbH
+Actalogic
+Party Room 21
+Area 52
+Days of Wonder
+Cat Banana Studios
+Fireproof Studios
+Archibaldi Studio
+Nom Nom Games
+Maxistentialism
+Dreadlocks
+Villains for Hire
+Capital Games
+Techno Soleil
+Open Sesame
+Piko Interactive LLC
+2x2 Games
+Klimmsword
+QuinRose
+5 Ants
+Rovio Stars
+enkisoftware
+G3 Studios
+Interdimensional Games
+Heart Machine
+Arcadia S.A.
+Frogmind Games
+DoubleDutch Games
+Firesprite
+NUBEE Pte Ltd.
+Wales Interactive
+Fishcow Studio
+Kure Software Koubou
+Freedom Factory Studios
+Amateur Pixels
+Compac
+Elijah Newman-Gomez
+Himo
+TINYAN
+Kyy Games
+Reliance Games
+Nano Studio
+Templar Studios, LLC.
+Rapport
+P Studio
+Game The News
+Studio Jandora
+Agharta Studio
+Touch Foo
+Uppercut Games
+Starcraft
+Cynus
+Artifex Mundi
+Wicked Loot
+NiKo MaKi
+Actress
+Digiturbo
+Princess Soft
+Ignite Game Technologies
+IMC Games
+Christophe Lacaze
+Frédérick Raynal
+Subsurface Games
+The Tiniest Shark
+Positech Games
+ParityBit
+Yarin Productions
+Athletic Design AB
+Retroguru
+The Game Kitchen
+Endnight Games
+Yuan Works
+Curious Panda Games
+Epic Llama Games
+Sumersion Studio
+Revolution System Games
+Diffusional Arts
+HeroCraft
+Drool
+Mohawk Games
+Ludeon Studios
+Red Reindeer Studio
+Snow Arc
+Pig Farmer Productions
+TOMAGameStudio
+Tadpole Productions
+National Audubon Society
+Microblast Games
+Matt Cohen
+Iron Helmet Games
+pvk
+TSA
+Game Audio Lab Ltd
+Orteil
+VD-Dev
+Midnight City
+GunHo
+Modern Dream
+Alienman Tech
+Little Big MMO
+Gristmill Studios
+Rowdy Baron Games
+I Fight Bears
+C-Territory
+Retrowax Games
+Flix Interactive
+Ninth Dimension Studios, LLC
+Koboldgames
+Debonosu Works
+atebits
+PennyPop
+Hinterland Studio Inc.
+Ben Johnson
+Avidly Wild Games
+Dumb & Fat Games
+Views Label
+Soft Studio Wing
+F&C
+PolyPusher Studios
+GBE Games
+Project EGG
+Poppermost Productions
+Space Ape Games
+Google
+Daiki
+Jarokn Games
+Red Hook Studios
+Fig Hunter
+Semanoor International
+MoaCube
+Game Forest
+BioWare Montreal
+WeMade Entertainment
+Ramadan Soft
+Mercenary Technology
+Giant Box Games
+MoeNovel
+All Civilized Planets
+Synthetic Light Studios
+Synthlight
+Kuno Interactive
+Pixel Molotov
+Machine 22
+Chromatic Dream
+Nemoria Entertainment
+We The Force Studios
+Awesome Games Studio
+ClickShake Games
+Jez San
+Spotkin
+Quantum Tiger Games
+White Whale Games
+Cream
+The Brotherhood Games
+Phobic Studios
+One Aperture
+Swift Creek Games
+Grindhead Games
+Osiris Studios
+Arcane Kids
+Panic
+Mercenary Games
+One Dimension Games
+EpicBeyond Studios
+Hailstorm Games
+Evelend Games
+Raspina
+Lost Sector Technologies
+Crunching Koalas
+Drunken Lizard Games
+Subvert Games
+Leafy Games, LLC
+Pixowl
+Marauder Interactive
+4friendsgames
+Idle Creations
+ACNE Play
+Fincon
+Necrophone Games
+Big Paw Games
+Abrakam
+Overmax Studios
+Nordeus
+Crescent Moon Games
+Black Lab Games
+Just A Pixel
+SeaPandas Studios
+Lost Pixel
+Infernum
+Pearl Abyss
+Forged Chaos LLC
+Supercell
+SakeVisual
+U-Play Studios
+Hiro
+Worthless Bums
+Robotality
+Gamepires
+Shinko Music
+Jonas Kyratzes
+HeartBit Interactive
+Over The Moon
+Amble
+Campo Santo
+GameComplex
+Xchange inc
+Views
+Cicada Marionette
+Quark Games, Inc.
+Keen Software House
+Mechanical Starling
+Apparition Games
+Artisiti
+Ghost UK
+Arkalis Interactive
+Minor Key Games
+Digital Works Entertainment
+Velocigames
+Stolidus Simulations
+Arsenic Playground
+Ironward
+Jungle Japan
+Visiontrick Media
+Hotsauce Interactive
+Neojac Entertainmnet inc.
+Handmark Inc.
+BitRabbit
+Pantheonyx
+Handyman Studios
+Studio Fazzy
+Dead Shark Triplepunch
+Wicked Witch Software
+Conatus Creative
+MuuMuu
+Exit
+Studio Twinkle
+Divergent Games
+Cuve
+Ansimuz Games
+Tapjoy
+LL Group, LLC
+Time Machine Games
+Neilo
+GameCrafterTeam
+CTS Games
+Flyleap Studios
+Detocroix
+Epsicode
+FUN Creators
+Juicy Beast Studio
+Madman Theory Games
+Forever Entertainment
+BlueMoon
+Hashbang Games
+OpenRealms
+Nitrome
+LoPoly Games
+Jigxor
+Hitcents
+Saibot Studios
+Z2
+Imadio
+Phantomery Interactive
+UIG Entertainment
+YoYo Games
+Norstedts Rabén Multimedia
+Playrise Digital
+Portal Publishing
+Big Daddy's Creations
+BlitWorks
+Knitted Pixels
+ActiveWorlds, Inc.
+The Fun Pimps
+Ovosonico
+Infinite State Games
+Tama Games
+Gala Pocket
+Jaywalkers Interactive
+Nitro+CHiRAL
+Askiisoft
+Witch Beam
+Harvester Games
+Soap Creative
+On The Metal
+Zeque
+Blackmill Games
+Crackshell
+Rezoner
+Gamegou Limited
+Reiza Studios
+Wildebeest Games
+Depressed Panda Studios
+Teku Studios
+Bandello
+Proletariat Inc.
+Rad Dragon
+Kermdinger Studios
+High Class Kitsch
+Untame
+Barking Mouse Studio
+Addo Games
+Glass Bottom Games
+Reactive Studios
+PixelMega
+Pixelsaurus Games
+Cartwheel Games
+Above and Beyond Technologies
+Ryan Green
+Steve Swink
+Teknopants
+Reentry Games
+Infinite Monkeys Entertainment
+Ivy Games
+Tinkerhouse Games
+Brace Yourself Games
+The Started Hare
+Dylan Fitterer
+League of Geeks
+Vagabond Dog
+Lumenox Games
+Koalabeast
+Kiki Co., Ltd.
+Team2Bit
+Navel
+Vridge
+Kawamoto Sangou
+Intergrow
+Red Coin Games
+Matt White
+Tick Tock
+Deconstructeam
+Rain Games
+Xiotex Studios
+BeautiFun Games
+Henchmen Studio
+Castle Pixel
+Playism
+UpperByte Studio
+Siege Games
+Gravity Sensation
+Blackpowder Games
+Quacker Blaster
+BluBee Games
+3909 LLC
+Kelly Elton
+First Post Studios
+Kevan Davis
+Northway Games
+Swappz Interactive
+Mojang Hideout
+Manta Research
+Chilli Hugger Software
+Image & Form
+Mojang Cyborg Hippos
+Mojang Giraff Macka
+Mojang Striped Zebras
+Choice of Games
+Hosted Games
+Informatica
+Novocortex
+MobilityWare
+The Incite Group
+Happylatte
+Pavel Tarabrin
+SIO2 Interactive
+Brisk Mobile
+Flipside 5
+Discovery Informatic
+Beast Games
+Nerd Kingdom
+Infinitap Games
+Near Enough Games
+Galactic Cafe
+ERS G-Studio
+Inertia Game Studios
+MI studios
+NorbSoftDev
+Moonshark
+ThreeGates Studios
+Gears for Breakfast
+8Floor Ltd.
+Kama Digital Entertainment
+Garam & Baram
+Pantech
+LOTUM GmbH
+Imba Entertainment
+Somadev
+Seppia Interactive
+Jellygrade
+Aldorlea Games
+Kunos Simulazioni
+Lightmare Studio
+Lightmare Studios
+Ludeme Games
+Solite Studio
+Codemasters Birmingham
+Desunoya
+UemeU
+Floppy Entertainment
+Triple B Titles
+Turned On Digital
+Line Corporation
+No Goblin
+City State Entertainment
+Sphinx Entertainment
+Massive Damage
+Mad Head Limited
+Chocolate Lab Games
+Comad
+Picroma
+Ian Campbell
+Aromarie
+3DrunkMen
+Frogames
+We R Interactive
+SOF Studios
+schema
+Grumdrig
+Objectify LLC
+Yatagarasu
+Akatsuki Works
+Kikiyama
+ripatti
+Funsuma Games
+Greyhound Games
+Kalio Ltda.
+Radical Play
+Wings For Cats
+Quill Pen Studio
+Istom Games Kft.
+XMG Studio Inc.
+Gouder Co.
+Viz Media
+Egg Ball
+Kokuzeichou
+TRU FUN Entertainment
+5 Lives Studios
+Sunny Tam
+Crazy Viking Studios
+baKno games
+CodeBrush Games
+Millenium Kitchen
+TheIndieForge
+Pyrodactyl Games
+CocoaChina
+Ea CO, LTD
+Wintechno
+Astec 21
+Watabou
+Rubicon Organization
+Seann Barbour
+Priority Interrupt
+Digital Dream Forge
+Arktos Entertainment
+JV Dialog
+ScrewAttack Games
+Freakzone Games
+Suspicious Developments
+Subutai Corporation
+Team Dakota
+Black Tower Studios
+Semaphore
+KnapNok Games
+Arzest
+iFun4all
+Psychoz Interactive
+Pandamonium Entertainment
+Bexide
+Rayark
+Larva Labs
+PES Productions
+FAB Communications
+Cellar Door Games
+Ivent Games
+caiysware
+Pencil Test Studios
+Owl Cave
+Hopoo Games
+Logic Artists
+Nocturnal Works
+Manjyudo
+Fayju
+Code Avarice
+Never Ending Soft Team
+King Tec Information Co., Ltd.
+Ming Super Chip Electronic Co., Ltd.
+CodeAvarice
+Trendverlag
+FilmCow
+ChuanPu Technology Co.
+Pelikan13
+Front Wing
+Rocket City Studios
+Atu Works
+Cardboard Lemon
+Big Head Mode, Inc.
+Active Enterprises LLC
+RetroZone
+Andrew Morrish
+Nekcom Entertainment
+aayars
+I-Illusions
+Gamepot Inc.
+Syrenaica
+CartFob
+Girih Games
+Evolutionary Games
+mur
+lavalse
+SHiNKA
+Kamiyu
+cyclia
+Exequor
+UGF
+Combit Studios
+Pippin Barr
+Mouldy Toof Studios
+Abbey Games
+Mutiny, LLC.
+Dhruva Interactive
+Curious Sense
+Seaven Studio
+Winning Blimp
+Tin Giant
+Roll7
+Pixelbionic
+Waystone Games
+GMF
+ChangYou
+Bridea
+Plophet
+Xax Entertainment
+SnowCastle Games
+Design Factory
+Otomate
+CollegeHumor.com
+The Binary Mill
+Cryptozoic Entertainment
+Earthly Soft
+DarkSeas Games
+Onipunks Studio
+Grab Games
+Man Fight Dragon
+Dynamighty
+Pixel
+T.Dogs
+aniwey
+Warballoon Games
+Precursor Games
+Stratotainment
+LEVEL-5 International America, Inc.
+Fat Bat Studios
+Hit the Sticks
+Arachnid Games
+10th Art Studio
+Twin Bottles
+Game Club Cafe
+Codeminion
+NHK Software
+Rejet
+Kogado Studio
+Mixed Up
+Akabei Soft
+Allgraf
+Fallen Tree Games
+thatsmytrunks
+Entropixel
+Fruitbat Factory
+TORaIKI
+Ghost House Pictures
+Trigger Apps LLC
+Cube Roots
+Cosmonaut Games
+46 To Shinjuku Medialab
+International Games System Co., Ltd.
+FlyingShine
+Game Machine Studios
+The Metrotainment Network
+Dream Island Co.
+Fabtek Inc
+Tuning Electronic
+Man Vs Games
+Voltage Inc.
+Zenasprime
+Mortis Ghost
+Unproductive Fun Time
+Mechanist Games
+Dreamatrix
+T’s Music
+Moonbot Studios
+Paco Project
+GPTouch
+Full Control
+Delirium Studios
+Shanblue Interactive
+Pixel Toys
+Good Hustle
+Witching Hour Studios
+Tista Games
+Thefty Jack Studios
+Tenwall Creatives
+Forge Ahead Studios
+Snowrunner Games
+Snowed In Studios
+Skylance Studio
+Threaks
+Reality Squared Games
+Qbots
+Plastic Piranha
+Chasing Carrots
+Mass Creation
+Nine Dots
+Breadbrothers Games
+Mugen Studios
+Metalhead Software
+Little Box Apps
+Kiz Studios
+Intrepid Pursuits
+Initive
+Vermont Digital Arts
+Terrible Posture Games
+Incandescent Workshop
+Gargoyle Mechanics
+Paulina Pabis
+Detune Ltd.
+Gun Media
+Giant Spacekat
+Gentleman Squid Studio
+Cypronia
+Gamesbymo
+NinjaKiwi
+Flying Helmet Games
+Flippfly
+Fancy Force
+Experimental Gamer Studios
+Digital Code Works
+elefantopia
+CoolioNiato
+jordibr7
+Dinosaur Games
+Decoy Games
+Creative Game Theory
+Banov
+Matriarch Entertainment
+3f Interactive
+Asinine Games
+AdaptivElite
+Heydeck Games
+Space Bullet Dynamics Corporation
+EA Vancouver
+EA Shanghai
+Marsbound
+PokPoong Games
+Turtle Cream
+Flexile Studio
+DarkWave Games
+Little Orbit
+Shiro Games
+Anima Game Studio
+Project Whitecard Inc.
+Project Whitecard
+GMO Internet Group
+G
+Serious Parody
+ParaPhray
+Right Stuff
+Kerosine Games
+Luma Arcade
+Amenip
+Flyhigh Works
+Strangelands
+Eden Industries
+Belsimtek
+Snappy Touch
+Danbi System
+gog.com
+Aproman
+Daou Infosys Corp.
+Switchblade Monkeys
+Coded Emotion
+Stone Blade Entertainment
+Shining Rock Software
+inkthirsty
+Richard Hofmeier
+Ron Minor
+Noodlecake Studios
+Lucas Pope
+Brainware
+Uncade Games
+Spearhead Games
+oovee
+Screwfly Studios
+Faber and Faber
+The Story Mechanics
+Behold Studios
+Faber And Faver
+Avanquest
+KISS ltd
+Tern Digital
+Steel Wool Games
+Forstride
+The Tap Lab
+Nowcom
+Little Bit Games
+Sinister Design
+Ferry Game
+LifeSpark Entertainment
+82 Apps
+Lunchtime Studios
+Disco Pixel
+New World Interactive
+Shobu Games
+RatDog Games
+Michael Todd Games
+Vivid Games
+Super Soul
+FrogDice
+Gameprix
+SoWhat! Software Studios
+CyberPhobX
+Yacht Club Games
+SFC Rodeo Games
+Atomicom
+ORiGO Games
+Toybox
+Zero Sum Games
+House on Fire
+RobotLovesKitty
+Red Winter Software Limited
+Nano Games
+Wreck Center Games LLC
+HitPoint Studios
+Commotion Games
+Firedance Games
+Circle Entertainment
+Echo Peak
+Retromite
+Leotaku
+Nomad Games
+Ben4Views
+Fresh Aces Videogames
+Ubisoft Kiev
+Aftershock Innovations
+World Forge
+Warzone 2100 Project
+eigoMANGA
+Game Plan Incorporated
+Action Button Entertainment LLC
+Adult Swim Games
+FIX Korea
+Crotch Zombie Productions
+Bossa Studios
+Maxium Family Games
+Artifice Studio
+Badland Studio
+Towers Associates
+Edcom Ltd.
+Grimm Bros
+NostalgiCO
+Swirve.com
+Jolt Online Gaming
+Didatech
+Michaelsoft
+Kaiju Empire
+Sunstone Games
+David Kanaga
+Ed Key
+PD Design Studio
+Mario Castañeda
+The Quantum Astrophysicists Guild
+Ty Taylor
+AMI Co., Ltd.
+ParanomalDev
+Classic Game Creations
+Abstraction Games
+Studio HIVE
+Immanitas Entertainment
+Artizens, Inc.
+MDF
+LookAtMyGame
+GDI Inc.
+HoneyBee
+Storybird Games
+Hoei
+Women Wise
+Cloud Imperium Games Corporation
+Tom Sennett
+Axcho & Knivel
+Division2
+Senri
+Irshappa
+3Division
+Demergo Studios
+Ambient Studios
+Quirkat
+Halcyon Media
+Caipirinha Games
+Notion Games
+Maestro Interactive Games
+David C. May
+Fireproof Games
+Mighty Rocket Studio
+Yipee! Entertainment
+Sivak Games
+Conifer Games
+Celery Emblem
+Puny Human
+Analgesic Productions
+Web Prancer
+Gala Networks
+Games Foundry
+Tubby Games
+Team Psykskallar
+Fortyfive
+Daidai Inc.
+WarChest
+Orion Games
+yaystuff
+Ostrich Banditos
+1-UP Studio
+LambdaMu Games
+RedJade
+Ironhide Game Studio
+Crytek Austin
+Rock Pocket Games
+Mechanic Arms
+Gaia Online
+Mighty Rabbit Studios
+Trinket Studios
+PagodaWest Games
+ClutchPlay Games
+Dohi Sweden
+Junebud AB
+Fanista
+flaregames
+Oceanhouse Media
+Refactored Games
+Mutant Labs
+Seven Stars Multimedia
+Rosso Index
+GodSpeed Games
+Sawfly Studios
+StarGem Inc
+Paradox Development Studio
+RayForce
+CSR-Studios
+Axios Games
+Digital Addiction
+Krypton Force
+Western Civilization Software
+Rocking Pocket Games
+Crytek Istanbul
+Games Faction
+Skymap Games
+TACS Games
+Perpetual Games, LLC
+Whole Hog Games
+Sleeping Beast Games
+Greenheart Games
+Seed Studio
+Crytek Shanghai
+Crytek Seoul
+Crytek Budapest
+Crytek Kiev
+Applicus AS
+Red Wagon Games
+2K Play
+Studio Ghibli
+Wendros AB
+SFB Games
+Cardboard Computer
+One Spear Entertainment
+hiptic Games
+Royal Railway
+Code Mystics
+Netchubiyori
+Applied Systems Engineering Inc.
+Nosotek
+Level Four Software
+SSI Tristar Corporation
+Proteus Developments
+Almost Software
+Dakko Dakko
+Moment Studio
+Adventure Productions
+Arcadia
+Act Japan
+Disruptor Beam
+LeGrudge & Rugged
+Felistella
+Twinbeard Studios
+Kee Games
+Ideas Live! Inc.
+Zed
+GZ Storm
+Firemonkeys
+Old School Games
+Rooster Teeth Productions
+Horberg Productions
+Maximum Games
+Digifloyd
+Blue Isle Studios
+Realta Studios
+Realta Entertainment Group, Inc.
+Shindenken
+Easy Interactive
+Ringmasters LLC
+Dreamagination Entertainment
+QLOC
+Marker Metro
+Ghost Games
+PlayCoo
+HappySoft
+Grapefrukt Games
+Snowbird Game Studios
+BL Logic
+The Working Parts
+Moby Dick Studio
+I-Friqiya
+IronNos
+Refract Studios
+Gory Detail
+Ragtag Studio
+AAC Stunts
+JoubleDump
+IonFx Studios
+Purple Moon
+Soho Productions
+Escape Hatch Entertainment
+Jayit Inc
+Hope This Works Games
+Digital Tribe
+Black Tusk Studios
+GameFly Games
+Dark Vale Games
+Goko
+Heavy Spectrum Entertainment Labs
+d3t Ltd.
+Keystone Game Studio
+Born Ready Games
+Lab Zero Games
+ScaryPatato
+CyberSports Ltd.
+2n Productions
+Studio Evil
+bignic
+Tales of Game's
+woflox
+RetroSouls
+Bent Spoon Games
+Pure Bang Games
+Blanket Fort Games
+Rat King Entertainment
+Bit Barons
+EMcNeill
+Epicycle
+Studio Bean
+Lo and Behold! Games
+Red Thread Games
+One Loop Games
+Studio Miniboss
+Airtight Mobile
+Minakuchi Engineering
+8888888 Labs
+Powerful Robot Games
+Matmi
+Chucklefish Games
+Golgoth Studio
+Byulbram Creature
+Brainsqueez
+Zojoi
+Boxer8
+Four Door Lemon
+Crash Lab
+Shiver Games
+Lantana Games
+Transolar Entertainment
+Level Up Labs
+Fractal Softworks
+Cherry Pop Games
+Headbone Interactive
+Razor Sharp Studios
+Thumbs Up Games
+Happion Laboratories
+Seventh Chord
+Yagoda Production
+Ackk Studios
+GlitchSoft
+Reptile
+Wish Studios
+Make
+Trigger Happy
+Lazy 8 Studios
+Seraku
+Studio Zan
+Defiant Development
+Retora Game Studios
+Falcon
+Lady Shotgun
+Those 30 Ninjas
+Steel Minions
+Sony Pictures Home Entertainment
+North of Earth
+SunA
+Runewaker Entertainment
+Red Hare Studios
+Coke and Code
+Red Barrels
+Beatshapers
+QubicGames
+Green Hill Studios
+Ripstone
+Box Entertainment
+Use Corporation
+Avination Virtual Limited
+Pixelbite Games
+SmashMouth Games Ltd
+Happy Giant
+Wired Productions
+The Astronauts
+PlayWay
+vDog
+osao
+Krea Medie
+Attractive Games
+Software MacKiev
+Crispy's!
+CC & SH
+Sparpweed
+Crystal Empire Games
+Blue Bottle Games
+Dark Artz Entertainment
+Tikipod
+Clever Beans
+SCE XDev Studio
+FuturLab
+StormBASIC games
+Westka Kommunikation GmbH
+Data Realms
+Poisoft
+AquaFox
+Convict Interactive
+Black Forest Games
+General Support
+Hyperware
+Wolfgame
+Meteor Entertainment
+Warbird Games
+FiveOneNine Games
+FTL - Faster Than Light
+DFour Games
+Hyperduck
+Total Eclipse
+Triniti Interactive
+Worlds of Wonder
+Just A Game
+Bacon Wrapped Games
+Kill3rCombo
+Magnetar Games
+Tomkorp Computer Solutions Inc.
+FuGenX Technologies Pvt Ltd
+React Games
+Aleksey Abramenko
+The Indie Stone
+Winterkewl Games LLC.
+Big Bit Ltd
+Cervo Media GmbH
+Frozen Utopia
+Dedication Games
+4sdk
+Sulus Games
+Green Clover Games
+Big Men Games
+Liquid Development
+Exigent 3D
+Kouyousha
+Okugi Studio
+Musical Plan
+Amuzenet
+Elephant Games
+Orneon
+Circle Edge
+Big Bucket Software
+Magical Formation
+Oasis Games
+Benjamin Rivers
+CanDax Productions
+Tencent Games
+IGameArt
+Straight Right
+Culture Publishers
+FireFlame Games
+Origin8
+O-TWO
+F.O.G.
+Allumer, Ltd.
+Smudged Cat Games
+Shovsoft
+Sun L
+Smudged Cat
+Akaoni Studio
+Solus Games
+Gakken Co., Ltd.
+Wubyu
+WB Games Montréal
+Erik Svedäng
+SaintXi
+Exato Game Studios
+Moon Spider Studio
+Primer Labs
+Radial Games
+Red Robot Labs
+Spry Fox
+The Voxel Agents
+Ctenophore
+Studio Pepwuper
+Yobonja!
+Dennaton
+Rodeo Games
+Caramelpot
+Green Meteor Team
+Try2 Games Ltd.
+Graflandia Ltd.
+Familia Games
+Dead Pixel Entertainment
+Elephant Entertainment, LLC
+Gimagin
+Lifetime Games
+GameShastra Solutions Pvt Ltd
+Seven Sails
+Bruto Memo Entertainment
+Max Gaming Technologies, LLC
+Dark Pathogen Studios
+Grey Alien Games
+JoyBits
+Blue Tea Games
+Gold Sun Games
+Lazy Turtle Games
+G5 Entertainment AB
+Voodoo Dimention
+Casual Box Games
+Gamgo Games
+Subsoap
+Specialbit
+Fully Bugged Software
+FunPause
+4am Entertainment
+Grindhouse
+Scorpion Soft
+Lunar Software
+Leviathan Interactive, LLC
+Wormwood Studios
+Reverie World Studios
+Molecube
+Puppy Punch Productions
+United Minds Games, LLC
+Packom Interactive
+Dusk2Dawn Interactive Limited
+The Easy Company
+Blue Door Productions
+Aroma
+Impossible Studios
+Daletto
+Talawa Games
+GalaxyTrail Games
+RealAxis Software
+Sieco
+Atomic Motion
+Hanako Games
+Pixelscopic
+Hunt Game Studios
+Young Horses
+Mattrified Games
+Amused Sloth
+PointFive Projects
+Bothec
+Silverball Studios
+Only Human Studios
+GeneX
+David Williamson
+Kraflab
+Engient
+B-AI
+Stompy Bot Productions
+Mr Computer Products
+Trazzy Entertainment
+Interceptor Entertainment
+Stack
+EightyEight Games
+Ludorum Studios
+Spike Chunsoft
+Arcade Moon
+Wired Developments Pty. Ltd.
+Hammerpoint Interactive
+ACONY Games
+Kixeye
+Yeti Trunk
+Vipah Interactive Inc.
+BBG Entertainment GmbH
+Empty Clip Studios
+Nordic Games GmbH
+HMH Interactive
+SevenOne Intermedia GmbH
+Ranmantaru Games
+Kolkom International LLC
+Connect 2001
+MoonCake Games Inc.
+ApathyWorks
+pixon interactive media development GmbH
+Inverse Entertainment GmbH
+Gameyus Interactive
+Sparsevector
+Min Communications
+Gustav Olsson
+Europa Barbarorum Development Team
+Scarab
+TQ Digital Entertainment
+Dreampainters
+BitMonster Games
+Mars Corp.
+Studio Kontrabida
+GameBrains
+Tennen-sozai
+Astro Port
+Edelweiss
+Parsec Productions
+Mekensleep
+bitSmith Games
+Craveyard
+Mango Down!
+Turtle Sandbox
+The Tetris Company
+Artplant AS
+Megadev
+Namco Networks America Inc.
+The Cartoon Mavericks
+Bulldog Interactive
+Midas Computer Games GmbH
+Riley Computer Services
+Age
+Nigoro
+Computer Entertainment Rating Organization
+Endgame Studios
+Ultra Runaway Games
+Asgard
+Kyle Pulver
+Sollmo
+Jet Set Games
+Angry Mango
+Pathea Games
+Magicule Inc.
+M2H
+Oddlabs
+JoyMasher
+Geeta Games
+Skygoblin
+Sega Studios Australia
+Zaxis Games
+SkyGoblin
+PixelJAM Games
+Pwnee Studios
+Sos
+Slitherine Software UK Ltd.
+Firepower Entertainment
+Zinkia Entertainment
+V.2 Play
+TameTick
+ILIKESCIFI Games
+The Hideout
+Kitty Lambda Games Inc.
+Wax Lyrical Games
+Sol
+ITL Co., Ltd.
+Penny Arcade, inc.
+Wizard Soft Ltd.
+Amytis Games
+React Entertainment
+Jersey Jack Pinball
+Revo Solutions Games
+Spark Creative SARL
+DC Software Studios
+Software Horizons
+Ndemic Creations
+Soft Machine
+Konjak
+Med-Art
+Eggtooth Team
+Uplion
+Deep Silver Vienna
+Boost On
+Utopioneer Games
+DigitalDNA Games
+Studio Light Cross
+Stryde Games
+Blind Fist Software
+Summer Camp Studios
+Beeline Interactive, Inc.
+Blind Wink Games
+Union Studio
+Hidden Variable Studios
+Mind Candy
+Hutch Games
+Black Pants Game Studios
+Krillbite
+HyperKat Games
+Side-Kick Ltd.
+Different Pixel
+Greater Good Games
+Membranos
+Masangsoft
+Wicked Interactive
+Gratuitous Games
+GungHo Online Entertainment
+GIGA
+Edible Hammer Games
+Vir2L Studios
+Phoenix Online Studios
+Fullbright
+Cockroach Inc.
+Facepalm Games
+Misfits Attic
+Elex Technology
+Pentavision Global, Inc.
+Tasuke Co Ltd.
+Cyclone Zero.,Ltd.
+CBE Software
+Subset Games
+Amplitude Studios
+Land Ho!
+ZeniMax Online Studios
+Monkey Barrel Games
+Camel 101
+Stella Games
+AMA Studios
+Dojodoo Enterprise
+Camshaft Software
+Flying Squirrel Entertainment
+12 Gauge Studio
+Octane Games
+Pinkerton Road Studio
+MagicIndie Softworks
+Virtual Prophecy Entertainment
+Kabod Entertainment
+Redacted Studios
+Smash 16
+Forum
+Adventure Mob
+42 Entertainment
+Replay Games Inc
+SuperBot Entertainment
+Vostok Games
+Theory Interactive
+Smestorp Limited
+InfoGenius
+Koolhaus Games
+Robotoki
+Kukouri Mobile Entertainment
+darkForge
+2 Dawn Games Inc
+Visual Outbreak
+Tanukii Studios
+Room 4 Games
+SmartPhone Labs Limited
+Gelid Games
+Codemasters Racing
+Dischan Media
+Japan Vistec
+Roppy Chop
+Beamdog
+Overhaul Games
+Woolly Mammoth Productions
+Bad Egg Studios
+Wither Studios
+Torn Banner Studios
+The Men Who Wear Many Hats
+On the Level Game Studios
+Nuukster
+Night Owl Games
+Muteki Corporation
+Minicore Studios
+Toylogic
+Nippon Data Works
+Kan's
+Lukewarm Media
+RSBLSB Games
+Crankshaft Games
+Casual Brothers Games
+Turbo Tape Games
+TheCodingMonkeys
+Soulfire Software, LLC
+Moguraya Soft
+Media5
+Pixel Wolf Studios
+Icebox Studios
+Shangri-La
+Squad
+Humble Hearts
+Kohei Gallery
+Locked Door Puzzle
+Demruth
+Marc ten Bosch
+Devalley Entertainment
+Serellan
+A&B Soft
+Seed9
+Team DTR
+EZ Soft
+Spear Head
+Include
+Recom
+Teichiku Co., LTD.
+Dorasu, Inc.
+Trickstar Games
+Superflat
+Altor Systems
+Active Zone Group
+Serious Brew
+Eyebrow Interactive
+ALL CAPS
+Noobware
+Robit Studios
+Omgpop
+SpinTop Games
+Flashcube Studios
+Agatsuma Entertainment
+BlurredVision
+Fazecat
+7th Road
+3 Sprockets
+965 Studios
+King Soukutu
+Shiba Satomi
+Serellean LLC
+Itatake
+Increpare Games
+Kung Fu Factory
+Exit Strategy Entertainment
+22Cans
+Compulsion Games
+Lantern
+Bootsnake Games
+Playground Games
+Lost World Creations
+Another Place Productions
+Stoic
+Tecfri
+Version2Games Limited
+N-Game Online
+Black Wing Foundation
+Dreamlore
+Happymonitor Games Studio
+7Sixty
+Qooc Soft
+GGGamers
+Dwarf Biter
+levliv
+Maximinus
+C.P. Brain
+PixelFoundry Games
+Team Shuriken
+Wild Shadow Studios
+Andreil Game
+Flattened Pixel
+Advance Communication Company
+Osmeh Igrice
+CyberArts
+stfj
+Bad Pilcrow
+Lunar Enigma
+Kumobius
+Little Green Men
+Sur de Wave
+Big Robot
+Instant Kingdom
+Raoghard
+Becker Games LLC
+Six Shooter Games LLC
+Rocket Studio, Inc.
+Fun Bits Interactive
+Sea Tribe
+Actual Screenshots
+SegaSoft Networks Inc.
+GN Software
+UberGeekGames
+Vision
+Digisoft Australia PTY. Ltd
+Stinky Badger Games
+RichMakeGame
+Love Conquers All Games
+Crocodile Entertainment
+Unigine Corp
+INix Soft, Co., LTD.
+Gazido Gaming
+Satelight Inc.
+Koya Game
+Cliffhanger Productions
+Artery Studios
+The Fighter Collection
+Dawn of Play
+Devil's Details
+X-Legend Entertainment
+Tequila Works
+Alaplaya
+PigeoNation Inc.
+CMUNE
+Orbital Games Limited
+Kwalee
+PlayBerries
+glpeas
+Hitbox Team
+ZeptoLab
+Bitreaction Game Studios
+Sauropod Studio
+RicolaVG
+Freelance Games
+Four Leaf Studios
+MindsEdge
+American Greetings
+3Crew Games
+BatCat Games
+Stegersaurus
+Chaosoft Games
+Dooyong
+Iron Realms Entertainment
+Kasco
+Playmatics
+Anakan GmbH
+CyberWarrior Inc.
+Mnemosyne LLC
+Toxic Games
+Bitfield GmbH
+Nyu Media, Ltd.
+atelier773
+Boss Baddie
+Espris Studio
+Screenlife, LLC
+Thrust Interactive
+Ladybird Games
+NovaLink
+Emobigames
+Team GrisGris
+Loot Drop
+Square Enix Montreal
+ΩTH
+Die Gute Fabrik
+Unicorn Games Studio
+Copenhagen Game Collective
+Infinite Game Publishing
+Duranik
+Freebird Games
+3G Studios, Inc.
+Playerthree
+Firebase Industries Ltd.
+Feerik SAS
+White Rabbit Interactive
+Digital Arrow
+Eclipse Games
+Mando Productions
+Max Entertainment
+Iridium Studios
+KTX Software
+Cateia Games
+Galapagos
+Starfire Studios
+Project Aces
+Rojak Mobile Entertainment
+Game Syndicate Productions
+Zeroscale
+Dark Computer Entertainment
+GameVilliage
+MADFINGER Games
+ATR Multimedia
+Biox
+Seams
+Play Mechanix
+Phosfiend Systems
+Blue Manchu
+Makivision
+Dark Realm Studios
+Uncanny Games
+Mystic Box
+Preloaded
+J-Wing
+Entersphere Co., Ltd.
+Xendex
+The Innocent Devils
+Telecomsoft
+Illyriad Games
+Tribute Games
+Squid In A Box
+8th Wonder Games
+Novacore Studios
+Camouflaj
+Taitale Studios
+SRRN Games
+Playpen Studios
+Fuzzy Wuzzy Games
+Almost Human
+OutSide Directors Company
+Motiga
+GameSamba
+KingsIsle Entertainment
+tinyBuild
+Planet Texas Studios
+Ryu ga Gotoku Studio
+Comptiq
+Vlambeer
+Discord Games
+Feel Every Yummy
+Rokumendo Co., Ltd.
+Tactile Entertainment
+Phoenix Game Studio
+Harebrained Schemes
+Corecell Technology Co. Ltd.
+Milkstone Studios
+Going Loud Studios
+LotusXP
+Swing Swing Submarine
+Ironsun Studios
+Judo Baby Inc
+KING Art games
+Noumena
+Cedar Hill Games
+Winking Entertainment Ltd.
+Clochette
+Yotsubane
+iNK stories
+Barrelman Games
+Laughing Jackal
+Dapper Swine Games
+Nyamyam
+Sailon Soft
+Mirinae Entertainment
+Hazardous Software
+Subdued Software LLC
+DotEmu
+betaDwarf Entertainment
+Konstantin Koshutin
+EA Interactive
+EA Play
+KMM Games
+4th & Battery
+QCF Design
+Munkadoo Games LLC
+ClearCut Games
+Streum On Studio
+Endless Fluff Games
+Fish Factory Games
+Polarbit
+XiMAD
+different cloth
+Warhorse studios
+Special Effect
+Santa Ragione
+Techo Soleil
+Seamless Entertainment
+Amuseworld
+Lost Decade Games
+Bento Smile
+Urbanscan
+Vae Victis
+Vogat Interactive
+GamersFirst
+SpikySnail Games
+Spiders
+Catnip Games
+Lizsoft
+Be-Rad Entertainment
+Flying Wild Hog
+Tiny Speck
+The Sims Studio
+Exe-Create
+Firehazard Studio
+Banzai Interactive
+Blossom Minds
+Carbon Games
+The Game Bakers
+Targa Games
+Zivix
+Snail Game
+Candygun Games
+Com2Us
+Glass Cannon Games
+Casual Arts
+Gagne International
+Double 11
+The Balrog
+OneNine Studios
+HolyWaterGames
+Orange Pixel
+Totem Games
+Games Farm
+Ubisoft San Francisco
+Sanrio Digital
+L33t Labs
+Murudai
+MinMax Games LTD
+ApGames
+THQ Montreal
+Minority Media Inc.
+BaseSon
+Magic Pixel Games
+Final Form Games
+Cobra Mobile Ltd.
+Wild Games Studio
+345 Games
+Hammerware, s.r.o.
+Overkill Software
+Travian Games GmbH
+East Cube
+Zordix AB
+Mad Catz
+ThunderHawk Studios
+Maximum Family Games
+BSG Cologne
+InnoGames GmbH
+Untold Entertainment
+Gaslamp Games
+Alvin G. & Co.
+Laser Shot, Inc.
+Sandswept Studios
+Kindling Games
+Brawsome
+Retronyms
+Entex
+Kot-in-Action Creative Artel
+Re-Logic
+Playdom
+Metaplace Inc.
+System Sacom
+State of Play
+EivaaGames
+Masterdom Productions
+Squad Interactive Media
+Duck's Den﻿ Productions Inc.
+Destrax Games
+DADIU
+Nemesys Games
+Big Fat Alien
+Power of Two
+Giant Army
+Babaroga
+Dingo Inc
+Twisted Tribe Ltd.
+Kadokawa Games
+Dead Mage
+ZeeGee Games
+Epic Pixel
+Ivanovich Games
+DigitalDNA
+Artix Entertainment
+Loose Cannon Studios
+Tachyon Inc.
+Team Tachyon
+Straandlooper
+Dialog
+BioWare San Francisco
+Adventure Planning Service
+Orbital Studios
+The Armchair Travel Company
+Asymmetric Publications
+Bitcrafters Inc.
+Hogbear Software
+Nimblebit
+Blitz 1UP
+Spyn Doctor Games
+MediaLink Development
+Idoru
+07th Expansion
+Colibri Games
+Herringbone Software
+X-Pressive
+Comport Interactive
+Warehouse Multimedia
+Elzenga-Uitgeverij Zwijsen Algemeen
+Franksoftware
+TORCS Team
+Xona Games
+Althi
+Row Sham Bow
+Team Blaze
+Kookie Soft
+Abyss Game
+Playmatic
+Coffee Stain Studios
+Hidden Path Entertainment
+FaMe Software
+Damasys
+Aeon Flame
+VectorCell Studios
+Mika Mobile
+Abramania
+Siesta
+Magiko Gaming
+BOKstuff
+Alpha Secret Base
+Article Seezak
+AIM Technology
+Metarica
+GamePark
+Virtual Spaghetti
+Shibuya Interactive
+MARS Corporation
+Overture
+OPC Soft
+Office Koukan
+NT System Create
+Cornfox & Brothers
+Mountain Sheep
+Ultravision
+NConsulting
+Angry Mob Games
+SSD Company Limited
+RCA
+Studio MekTek Inc
+Nixxes Software BV
+Cykan Entertainment
+Hogrocket
+Physmo
+Fluttermind
+Third Stage
+Studio Walljump
+Zamuse
+Fuelcell Games
+Miracle Kidz
+Blind Mind Studios
+Gaikai
+Retro Affect
+Team Uncertainty
+Owlchemy Labs
+Isopod Labs
+Moonshot Games
+Wulven Game Studios
+Knuckle Cracker
+Soft Vision International
+Aprinet
+XLGames
+Adhesive Games
+Notorious Games
+Zallag
+Stout Games
+Digital Ranch Interactive
+800 North
+Zachtronics Industries
+Easy Studios
+RedCandy Games
+Radica Games
+Quantum Squid Interactive
+Phosphor Games
+Digitalmindsoft
+Open Emotion Studios
+Lucid Games
+Gradient Games
+Gradient Studios, LLC
+Curly Rocket
+Bertius Games
+Halfbot
+FK Digital
+Dot Zo Games
+Aerosoft GmbH
+Dragon Divide
+Frog the Door Games
+StarQuail
+TML-Studios
+Barnyard Intelligence Games
+Excalibur Studios
+Aah Games
+My Owl Software
+M-R Software
+AdamTheOtaku
+thechineseroom
+Oxeye Game Studio
+Magical Time Bean
+Sorcery Games
+The Miracle
+Input 64
+Shining Gate Software
+mif2000
+Undead Labs
+Extend Interactive
+Reverge Labs, LLC
+Autumn Games
+Zeboyd Games
+Social Loner Studios
+Meruvia Game Studio
+Run Jump Duck Entertainment
+Broke Trophy Games
+Pennybridge Game Studio
+Gnomic Studios
+Pixelbit Games
+Onslaught Studios
+MichaelArts
+DUALHAZE
+Red Crest Studios
+Saturnine Games
+8bits Fanatics
+1BillionHex
+TrinoTeam
+TT Games
+Lunar Giant Studios
+Bluegiant Interactive
+Simogo
+Armor Games
+Tecmo
+Namco
+Appy Entertainment
+Lunatic Studios
+Alchemist
+Realmforge Studios GmbH
+Little Worlds Studio
+FDG Entertainment
+Fun Factory
+N.V. Philips Gloeilampenfabrieken
+Silver Sphere Studios
+Brightside Games
+Zaph LLC
+Circle Enterprises
+IUGO Mobile Entertainment Inc
+Image Computer Products
+Speakeasy Software Ltd
+Macadamia Soft
+CSK Software Products
+PSK
+NSI
+Netmarble
+Madcap Studios
+Banalex
+Senscape
+Lexaloffle Games
+Big Club
+SLAM Productions
+Nissimo
+Donut Games
+Playful Art
+Millennium Kitchen
+Black Package
+Striker
+JeremyVerchick48
+Apple Pie
+Doctor Entertainment
+Wernersoft
+EpicForce Entertainment
+Guyzware
+Maimai
+Nikukyuu
+Nichikonren Kikaku
+Sekilala
+Iocaine studios
+Locaine Studios
+N3V Games Pty Ltd
+Comcept
+Reverb Communications Inc.
+Trendy Entertainment
+Puppy Games
+Cryptic Comet
+Wave Master
+Dentsu
+Bane Games
+Scientifically Proven
+NIC
+Nexus Interact
+Spaces of Play
+Experience Inc.
+Moon Studios
+Fantastic Software
+Mossmouth, LLC
+Undrawn Reality
+11 Bit Studios
+Joshyy
+beyondthepillars
+Eyehook
+Blackbird Interactive
+Mediatonic
+Hexage Ltd
+Magifact
+Grigon Entertainment
+Liminal Studio
+Hyper-Devbox s.a.r.l.
+Black Lion Studios
+Nexton
+New System House Oh!
+NenGollo Software
+Nekomimi Soft
+Pileated Pictures LLC
+Lightning Fish
+Prodigium Game Studios
+The DePaul Gaming Experience
+Mills Novelty Company
+indiePub Entertainment, Inc.
+MachineGames
+Teotl Studios
+Borne Games
+Vanguard Games
+Trapdoor
+Marvel Studios
+Fearless Studios
+Snowberry Connection
+Societe Pollene
+Gimmick House
+Nampurrow
+Landisoft
+Good Science
+Grip Games
+Game Circus LLC
+Expanding Minds
+TeamLava
+Cooking Mama Limited
+Virtual Air Guitar Company
+Tanaka Brothers
+A-Inn
+Noumenon Games
+Overdrive
+Quadriga Games
+RailSimulator.com
+Darkside Game Studios
+Honeyslug
+Kairosoft Co., LTD
+Poof Games
+Orange House
+Silent Dreams
+Little White Bear Studios
+Incinerator Games
+MonkeyPaw Games
+Edge Games
+Naturally Formed Studios
+Immersion Games
+Neocore Games
+Virtual Play Inc.
+Bip Media
+Compact Disc Incorporated
+GameInvest, S.A.
+Expansive Worlds
+Tin Man Games
+Deep Fried Entertainment
+KineticNovel
+Dan-Ball
+vectrLab
+Stray Bullet Games
+Deceased Pixel LLC
+Nintendo SPD Group No.1
+Mojang AB
+Hand Circus
+Grounding Inc.
+Bigpixel Studios
+Bedlam Games
+Thunder Game Works
+Fugazo
+Fire Hose Games
+Dust Devil Studios
+Drumskull Games
+Carpe Fulgur
+Big Sandwich Games
+White Moon Dreams
+Stunlock Studios
+Supermassive Games
+Triptych Games, LLC
+ROBLOX Corporation
+IGG
+Nemesis Games
+gamescampus
+Tactics
+Playstation C.A.M.P
+EasyGameStation
+Visual Art's
+One Man Down
+Nevercenter
+Team Plane Weaver
+Pixelante
+Panic Button
+Grinding Gear Games
+Cranky Pants Games
+Eric Ruth Games
+Going Down in Flames
+DoubleBear Productions
+Singapore-MIT GAMBIT Game Lab
+Epiphany Games
+Zindagi Games
+Bigpoint Games
+Colossal Order
+Arrowhead Game Studios
+Onteca
+Massive Bear Studios
+Monochrome Games
+FATHOM
+Hyperbees
+Spiral Game Studios
+Pixel Tales
+GameHi
+Team Meat
+Silverback Productions
+Chartec
+BitFlip Games
+Overplay
+Whiteout
+Office Of Film and Literature Classification
+Orpheus
+Danger Close Games
+Silicon Sisters Interactive
+Neuron-Age
+Headlock
+Bottom Up
+CAProductions Co. Ltd.
+kunst-stoff
+Malibu Grand Prix
+Silverfox
+TTR Development
+Windysoft
+Shanda Interactive Entertainment Limited
+Sonic Boom Games
+Graviteam
+Sneaky Games
+SK iMedia
+D-Rockets
+Arcen Games
+EA*Kids
+Schell Games
+eGenesis
+The Bearded Ladies Consulting
+WorkJam
+Strange Loop Games
+OGPlanet
+Slang
+Strata
+Virtual Heroes
+BlackFoot Studios
+Pollux Gamelabs
+Osiris Games
+Popcannibal
+Active Gaming Media Co., Ltd
+Dark Water Studios
+BioWare Austin
+CCP Newcastle
+Zen United
+Citérémis
+Beast Studios
+Slackcircus
+Zener Works Inc.
+Gazillion Entertainment
+Gigablast
+Maiklsoft
+CyberStep
+Zeebo Inc.
+Neowiz Games
+The Workshop
+Melody
+Darkling Room
+PictureHouse
+Super Awesome Hyper Dimensional Mega Team
+Foundation 9 Entertainment
+Lima Sky
+Watermelon
+UTV True Games
+DrinkBox Studios
+Titanic Entertainment
+Storm 8
+Rock Hippo Productions
+Hanbitsoft
+17-Bit
+Red-Zone
+5th World Media
+Route24
+Void Star Creations
+doublesix
+Vblank Entertainment
+SD Enternet
+Verlagsgruppe Weltbild
+Electric Bat Interactive
+8lb Gorilla
+August
+Isotx
+En Masse Entertainment
+Revolutionary Concepts
+DreamRift
+BooYAH!
+Muse Games
+Nordic Games Publishing AB
+Sonic Mayhem
+Cipher Prime Studios
+Korner Entertainment S.L.
+Intoxicate Studios
+Giant Sparrow
+Playdead
+Holmade Games
+Layernet
+StudioS
+Basilisk Games
+Dagger Games
+WAM! Games ltd.
+Sanuk Games
+Blendo Games
+Beefy Media
+Atomhawk Design
+Gaming Minds
+Bergsala
+Ishisoft
+Running Pixel
+Patelware LLC
+Frozen North Productions
+Sibling Interactive
+Broken Rules
+delicioussoft
+Enjoy Gaming Ltd
+Robir
+Coatsink Software
+Candle Light Studios
+Monkey Gods
+Nimbly Games
+Kempston Micro Electronics
+Nabi Studios
+Cold Beam Games
+Regolith Games
+Might and Delight
+Team 3
+Yumedia
+Vectorpark
+Godzilab
+Glu Mobile
+Spacetime Studios
+Makeshift Games
+Quazar Studio
+Detn8 Games Ltd
+91 Entertainment
+JoyCity Entertainment
+Gazelle Co, Ltd
+Bamtang Games
+rayteoactive
+Mad Monkey Studio
+Resolution Interactive
+U-Me Soft
+Mode 7 Games
+Universomo
+Highwaystar
+Respawn Entertainment
+Killspace Entertainment
+Twin Galaxies
+Tootle Games
+Bitforge
+No Monkeys
+WaveGroup Sound
+Low Five Games
+One Man Left Studios
+gamedoctors
+Panzar Studio
+Spider Games
+Code Force Limited
+Young Genius
+Vioma
+Carbine Studios
+Zynga With Friends
+Spooky Squid Games Inc.
+Esoterica
+Underground Development
+Ubisoft Toronto Studios
+Frima Studio
+Fanafzar Game Studios
+Thriller
+Vatra Games
+Games Distillery
+2K China
+ZoopTEK
+Neverland
+The Freeciv Project
+Industrial Light & Magic
+Zenimax Media Inc
+ICE Game Studios
+Bitsquid AB
+Xaviant LLC
+Elite Games Team
+Gamestar (China) Ltd.
+Fall Line Studios
+Kreatoriet AB
+Studio Alex
+WHA Entertainment
+Fun Infused Games
+Daikoku
+Cadenza Interactive
+D-pad Studio
+Tango Gameworks
+Pocketwatch Games
+EA Singapore
+Illfonic
+Ucom
+Dapper Gentlemen
+TRUSH
+Storm Impact
+Tomorrow Corporation
+Supergiant Games
+Codemasters Studios Guildford
+errcw
+Disruptive Games
+Lemon
+Square EA
+Vulcando Games
+Intec Inc.
+Mint co., LTD
+Tsukuda Original
+Sekai Bunka Publishing, Inc.
+Wastelands Interactive
+Silver Dollar Games
+Valhalla Game Studios
+Subatomic studios
+Seven45 Studios
+Radiangames
+Bluehole Studio
+Punchers Impact
+Biodroid Entertainment
+JoyImpact
+Denki Onkyō
+Big John Games
+iSquared Games
+Beagle Bros
+Gremlin Industries
+5000ft, Inc.
+Triangle Studios
+Vector Unit
+MORSEL
+8monkey Labs
+Tetris Online, Inc
+4Pockets.com
+System Prisma
+Grimoire Assembly Forge
+Paragon Studios
+Designation
+Kydos
+Assoria
+Crafts & Meister
+Crackpot Entertainment
+VooFoo Studios
+Ocean Software Ltd.
+MACHINE Studios LLC
+Unconditional Studios
+NoWay Studio
+The Odd Gentlemen
+Crate Entertainment, LLC
+Randnet
+National Aeronautics and Space Administration
+Uber Entertainment
+Iron Galaxy Studios
+Rag Doll Software
+Candella Systems
+Eipix
+distractionware
+Press Play
+Rocketcat Games
+OneBigGame
+Microsoft Research Games
+The Game Atelier
+pQube
+Chicago Coin
+Nekogumi
+InterWave Studios
+Ateam Inc.
+Stickmen Studios
+Gevo Entertainment Pte Ltd
+FluffyLogic
+Eiconic Games Ltd
+Playnatic Entertainment
+Playstos Entertainment
+Sound Prestige
+PikPok
+IronMonkey Studios
+Elizabeth Báthory
+Witchcraft Studios
+Hervest
+Studio Saizensen
+Will
+Mobigame
+Team Mango
+Semi Secret Software
+Critical Thought Games
+Zoink!
+Ludosity Interactive
+1337 Game Design
+Pastagames
+Pasoket
+ViewTech Soft.
+Digi Ronin Games
+Lucifer Soft
+Great
+Pony Tail Soft
+Wendy Magazine
+Agumix
+Sega AM5 R&D Division
+Sega AM5 R&D
+Bitbox Games
+Tragnarion Studios
+Playbrains
+DoubleTap Games
+Exor Studios
+777 Studios
+Neoqb
+Sledgehammer Games
+Daewon Media
+NCSoft West
+Alt1
+Savannah Kids
+Savannah Interactive Entertainment A/S
+Meridian Digital Entertainment Ltd.
+Green Light Projects
+HumaNature Studios, Incorporated
+THQ Wireless
+Perpetual FX Creative
+Bongfish
+TrueThought
+Gadget Soft
+Haikuo Soft
+Endrant Studios
+Smoking Gun Interactive Inc.
+Grasland Production
+Cascade Game Foundry
+Mangled Eye Studios
+G-Crazy
+Digital Tricks
+Carry Soft
+MP Soft
+Magical Zoo
+Witch Craft
+Black Jacket Studios
+Technopolis Soft
+Sein Soft Inc.
+Zereo
+Junction Point Studios
+Bond Soft
+Leben Pro
+BigPark
+Prosumer
+Login Software
+We Are Colin
+Interactive Services for Amusement Online
+Phantom Entertainment
+Star Vault
+Tsukumo
+XTALSOFT
+Kusanagi
+Playbox Limited
+Hemisphere Games
+NDOORS Corporation
+Bird Studio
+Imangi Studios
+Westlake Interactive
+Mondo Media
+DS Media Labs
+The Iconfactory
+Signal Studios
+Takuyo
+Yojigen
+Khaos
+Chat Noir
+Natsu System
+Iceberg Interactive
+Gaps
+Mahou
+Bullets Co., Ltd.
+KSS
+Point Pictures
+C-Lab
+Fupac
+G-Style
+Kuusou Kagaku
+Pawapuro Production
+Pure Sound Inc.
+Digital Dimension
+Prism Kikaku
+Magical Company
+Carrozzeria
+A-Max
+DnS Development
+Planning Office Wada
+Eleca
+Nippon Clary Business
+Family Soft
+Storm City Games
+Island Officials
+GIANTS Software GmbH
+DiezelPower Studios
+Black Inc.
+Coreplay
+Gamerizon
+Ubisoft Nagoya
+Smallware LLC
+Backflip Studios
+Aurora Feint Inc.
+Astragon Software
+Intrinsic Games
+Commotion Interactive
+Inkling Games
+Ordilogic Systems
+GameVision
+Lace Mamba Global
+Pixelcage GmbH
+Phantometry Interactive
+Methodic Solutions
+audio
+Kawada, Co. Ltd
+Awesome Play Ltd
+Headup Games
+Red Rocket Games
+Unigame Bunko
+Vitei
+SEM&O
+Project Aftermath
+Basiscape
+Procyon Studio
+Glyphic Entertainment
+NiK NaK
+epics
+SOE Denver
+Ecole Software
+bitComposer Games
+Takara Tomy
+CCP Shanghai
+Silicon Studio
+Game Entertainment Europe
+Pieces Interactive
+ProjectorGames
+fyto
+Silver Star Japan
+Dark Omen Games
+Genterprise
+Powerfist Productions
+Outbreak Studios
+Powerhead Games
+Tiger Style Games
+Satory
+Fatshark AB
+Nikoli
+Digital Legends Entertainment
+GungHo Works
+Perpetual Entertainment
+Perception Pty
+Digital-Red Mobile Software
+Radius9
+Red Zone Games
+Epic Games China
+Epic Games Korea
+Ubisoft Singapore
+Hello Games
+Norseman Games
+Ghostfire Games
+Endlife Studios
+Grezzo
+Intrepid
+Tirnanog
+Love-de-Lic
+Big Finish Games, Inc
+Y'sk
+Prototype
+Tag Games
+SLB Software
+Sony Computer Entertainment Korea
+Tatem Games
+343 Industries
+Kaplan, Inc.
+Super Icon
+Invent 4 Entertainment
+Publisher X
+South Park Digital Studios
+24 Caret Games
+Trine Game Studios
+RndLabs
+Rough Cookie
+Bulkypix
+CosMind
+Otokonoko Club
+Size Five Games
+Wingnut Interactive
+Brandissimo!
+Sports Director Limited
+Underworld Entertainment Limited
+Big Head Games
+Nibris
+Ample Software
+Controlled Chaos Media
+Escapist Games Limited
+10Tacle Studios Belgium
+Just Add Water Developments, Ltd.
+iFantastic
+MangaGamer
+ESTsoft Corp
+Boolat
+Artefacts Studio
+NIS Europe
+Ossian Studios
+icehole
+Devolver Digital
+Bolt Creative
+Semnat Studios
+Arkedo Studio
+Fuel Industries, Inc.
+Zero
+Casino
+Berkeley Softworks
+Dagmusic
+Hoplon Infotainment
+Timeline Interactive
+Lapland Studio
+United Front Games
+Sakari Games
+Stargate Productions
+Escalation Studios
+Recoil Games
+SherylApps
+Anda Miro Entertainment Co. LTD
+Tornado Studios
+Other Ocean Interactive
+MacDaddy Entertainment
+Centurion Games
+GAMECO Studios
+Global VR
+Teyon
+Shady Games
+Sprytes Ltd.
+Dark Energy Digital
+T-Enterprise
+Cellius
+A Different Game
+4mm Games
+Chillingo
+Secret Exit
+Ubisoft Vancouver
+Flying Tiger Entertainment
+Think Garage
+Boll AG
+Axis Entertainment
+light
+Ingram Entertainment
+Capy
+GameForge
+Hatena
+Whirlpool
+Wolfire
+Ronimo Games
+Codeglue
+Dyna Corporation
+SnapDragon Games GmbH
+Sulake Corporation Oy
+Bean Bag Studios
+RDI Video Systems
+Libre
+Nicalis, Inc.
+Spark Plug Games, LCC
+Tera Box
+SkyRockets
+mu soft
+LightBox Interactive
+Amstar Electronics
+Zynga New York
+Fairlady Media
+Longtail Studios
+Kalypso Media
+SpiderMonk Entertainment
+Adam Behr
+Creative Patterns
+MAIET Entertainment
+Cowboy Rodeo
+Bplus
+Nordcurrent
+Zynga
+Orange_Juice
+Rockin' Android
+Pelfast
+Gammick Entertainment
+Abylight
+Shinya Ebihara
+Masaru Arai
+Keiji Hara
+Rie Matsushita
+Eri Honma
+Giichiro Matsumoto
+Kouchi Takeda
+Nobuaki Tanaka
+Tadayuki Hikida
+Ryoji Arisaka
+Katsunori Yazawa
+Masanobu Suzui
+Yullaby
+Chimera Entertainment GmbH
+Elecorn
+Mercury Games Limited
+TRYFIRST
+Studio Archcraft
+Titmouse Games
+Windstorm Studios
+Paleo Entertainment
+Nimrod Productions Ltd.
+Perfect World Entertainment
+Masthead Studios
+Activision o2
+EA Casual Entertainment
+GOSHOW
+Atlus Online
+EA Sports Freestyle
+Gamelion
+Chedburn Networks
+Tozai Games
+Voyager Software
+Illusion Labs
+Paradox Development
+Efzed
+Technetium Games LLC
+Mad Ninja Skillz
+Fujitsu
+Exkee
+0verflow
+Hit Maker
+Robot Entertainment
+Zynga Dallas
+Udon Entertainment
+Lancarse
+Grendel Games
+CyberPlanet Interactive
+Double Helix Games
+DONTNOD Entertainment
+indies zero
+Volatile Games
+Pumpkin Beach
+Polytron
+Heatwave Interactive
+Slightly Mad Studios
+Verant Interactive
+Hexa Drive
+FuRyu
+Bloober team
+Advent Software
+Cotton Software
+Town Factory
+Zerodiv
+Russell.pure
+Think & Feel
+Over The Top Games
+Killaware
+mero mero cute
+Carré Multimédia
+Langmaor
+Inventive Dingo
+Cinematico Incorporated
+Fenixsoft Co., Ltd.
+Scynacore
+Monumental Games
+Ruffian Games
+Ketsujin Studios
+Ricotta
+Diva
+Fishing Cactus
+Medaverse Studios
+Aeria Games & Entertainment
+RiverMan Media LLC
+Allied Kingdoms Inc.
+Lump of Sugar
+Choice Provisions
+asmodee editions
+gPotato
+Adair & Armstrong
+Indiecisive Games
+Zero Point software
+ZAPiT Games
+ZigZag Island
+Gaijinworks
+Image Art
+ColorWare
+Denyu-Sha
+Prophecy Games
+Fuzzyeyes Studio
+Kokoromi
+Pan-European Game Information
+Synergy Software Development
+Game Mechanic Studios
+ngmoco
+Surge
+Interactive Media Consulting
+ACE Team
+Studio Hunty
+Animal Software
+RUNE
+CROSSNET
+Digi-Guys
+Roxor
+CAGE
+NetDragon
+Digital Cute
+Fast Motion Media Group
+PerBlue
+Nerjyzed Game Studios
+Dancing Dots
+Shortfuse Games
+2K Czech
+Mommy's Best Games, Inc.
+Sharp Corporation
+Raw Thrills
+UNiSONSHIFT
+Twilight Frontier
+Titan Studios
+Bloom Handle
+Arberth Studios
+Arbeth Studios
+Hi-Rez Studios
+Toast Dept.
+Gonzo Games
+Empress
+130cm
+Audiovisual SA
+Epicenter Studios
+Regista
+Yeti
+Square Enix Ltd.
+G.J?
+Atlus U.S.A., Inc.
+LeapFrog Enterprises
+Career Soft
+Team Bondi
+Emerson Radio Corporation
+Joju Games
+8-4, Ltd.
+5pb.
+Lucas Learning Ltd.
+Prope Ltd.
+Plastic
+Computer Opponents Software
+Riot Games
+Cunning & Devious Games
+Entertainment Software Ratings Board
+Access Games
+Netherock Ltd.
+Outspark
+Rhino Studios
+Calypso
+New-Deal Productions S.A.
+Good Feel
+Armature Studio
+Smith & Tinker
+Semicolon Software
+Curve Studios
+Sony Computer Entertainment Australia
+Beatnik Games Ltd.
+Eidos-Montreal
+Leaf
+Star Craft, Inc.
+Team Colorblind
+EMV Software
+Gameware Development
+Ongakukan
+EPOS Game Studios
+STUDIO CrossFire
+OPTiM
+Windmill
+TWOFIVE
+Vanpool
+Tiger Hill Entertainment
+ODENIS Studio
+Karin Entertainment
+Nitroplus
+Circus
+Futuremark Games Studio
+Action Pants Inc.
+Eversim
+Shogakukan Productions Co., Ltd.
+Big Red Button Entertainment
+Reactor Zero
+Makura
+JANIS
+SP-JANIS
+Biart Studio
+Icarus Studios
+Ciel
+Puzzlebox
+Dark Fox
+Magic Hat Software, Inc.
+Ankama Games
+Autumn Moon Entertainment
+Razer
+Runic Games
+Magic Carpet Software
+Arise
+SkyRiver Studios
+Gaijin Entertainment
+DVS
+SeaWolf
+Koios Works, LLC
+Twisted Pixel Games
+Strange Flavour Ltd.
+Litera
+SPLine Inc.
+Seaward.ru
+Foley Hi-Tech Systems
+F3 Games
+Meteor Games
+Mutable Realms
+Bottlerocket Entertainment
+Echelon Software
+Fantasoft
+Gyrocade
+Number None Inc
+Examu
+989 Studios
+Vivendi Games
+Activision Blizzard, Inc.
+Newtonic Studio
+YNK Interactive
+Katauri Interactive
+KranX Productions
+Creoteam
+Compile Heart, Inc.
+BROCCOLI Co., Ltd.
+Spicy Horse
+Tapulous
+Jollygood Games
+The Farm 51
+CipSoft GmbH
+Gamania
+Asiasoft
+Aventurine SA
+Soft Circle French-Bread
+Type-Moon
+Wizet
+Nexon Corporation
+Playful Entertainment Inc.
+Definitive Studios
+Offset Software
+Rubicon Development
+Webzen Games Inc.
+Tigon Studios
+Big Rooster
+Unknown Worlds
+Matt Makes Games
+Nifflas
+.400 Software Studios
+Grey Dog Software
+ABC Interactive
+Coolhouse
+Tarsier Studios
+Firemint
+The Designers Republic
+Demiforce LLC
+Nutting Associates
+Red Shift Ltd
+Messhof
+Team Shanghai Alice
+Nude Maker Co., Ltd.
+Black Rock Studio
+Cohort Studios Ltd
+Phantom EFX
+2K Marin
+Red 5 Studios
+Seed Studios
+Torpex Games
+Taleworlds
+NVIDIA Corporation
+Gulti Co., Ltd.
+Feel Plus
+Darkstar
+FireSky
+Cheyenne Mountain Entertainment
+Bluepoint Games
+Enix Corporation
+Capcom Game Studios Vancouver
+Havok
+Trion Worlds
+Hothead Games
+38 Studios
+2D Boy
+Nnooo
+imageepoch
+Venan Entertainment
+B-Cool Interactive
+Koei Canada, Inc.
+8Bit Games
+Proper Games
+Squaresoft
+Monkey Bar Games
+Rockstar London
+PlatinumGames
+Media Molecule
+Hijinx Studios, LLC
+Hoget
+Ludia Inc.
+Tenky
+ManaSoft
+Firebrand Games
+Jack of All Games
+D2C Games
+Twelve Interactive
+LucasArts Singapore
+Zoonami
+Ivolgamus UAB
+Slapdash Games
+Vigil Games
+Vogster Entertainment
+NaturalMotion
+Sora
+Vid Kidz
+4A Games
+2XL Games
+Kando Games
+Blue Omega Entertainment
+Farmind
+Sonic Powered
+Nunchuck Games
+Sanzaru Games
+PAM Development
+W!Games
+Slant Six Games
+Replay Studios
+Mistwalker Corporation
+Brash Entertainment
+Red Fly Studio
+Redtribe
+IBA Group
+Propaganda Games
+Touchstone Games
+Certain Affinity
+Razerworks
+EA Sports BIG
+Blueside
+Hellbent Games
+SilverBirch Studios
+Slick Entertainment
+A.C.R.O.N.Y.M. Games
+Frozen Codebase
+Chair Entertainment
+Zen Studios
+Ubisoft Sofia
+Sierra Online Shanghai
+Six Degrees Games
+Facepunch Studios
+Million Co.
+Greenwave
+Tiki Games
+Bionic Games
+Studio e
+Robomodo
+Airtight Games
+Acclaim Games
+EA Games
+EA Sports
+Scuba Gear Inc.
+Strawdog Studios Ltd.
+Magecom
+FreeGamePick.com
+Shen Technologies SARL
+Laser Beam Entertainment Pty. Ltd.
+Sunmark Electronics
+GAMEPLAN21
+Animagination
+Rebel Planet Creations
+Starvision
+Bit Town Inc.
+Lyriq International Corp.
+TDK Marketing Europe GmbH
+Quazi Delict Records
+Ratracer
+Ponder Labs
+Rolling Without Slipping
+Softini
+Amisoft
+Elmer Productions
+LEGO Interactive
+Drew Pictures
+Mechanical Arms
+Klei Entertainment Inc.
+Roadshow Entertainment
+The Real Ologram
+Cascade Mountain Publishing
+Mindscape Asia Pacific Pty Ltd.
+Gusto Games Ltd.
+Evil 3, The
+Stratos, Asociacion de Desarrolladores
+Island Dream
+Kid Genius Pty Ltd.
+Blast Entertainment Ltd.
+Linden Lab
+Exclusive Games, LLC
+Daft Co., Ltd.
+Fakt GbR
+Escape Programming
+Lumental Games
+MakeItSo Software
+JoeWare
+Douglas Associates
+Kemsx
+Century Communications
+Hutchinson Computer Publishing
+Konami Digital Entertainment Ltd. Korea Branch
+Grisewood & Dempsey Computer Publishing
+iWin Division 90
+BAM! Studios Europe Ltd.
+Mascot Entertainment
+Xing Interactive, Inc.
+Falcon Studios
+Guillemot Inc.
+Rainbow Educational Media
+Empower
+Sega Racing Studio
+Electra Concepts International Corp.
+Sirius Publishing, Inc.
+Soggy In Seattle Productions, Inc.
+Amivision
+Orion
+SSG ApS
+Oxyron
+Myriad
+Full Armor Studios, Inc.
+Nine Dragons Software
+Alcazar Entertainment LLC
+Eat, Sleep, Play, Inc.
+Double Aught, Inc.
+OTM Publications & Promotions Ltd.
+MediaPlazza Games
+Jet Multimédia France S.A.S.
+Odisea Software
+Golden Games
+7th Sign Production
+Foxchange Software
+Ska Studios, LLC
+Outerlight Ltd.
+Parachute Press
+RCY
+Think!Ware Development
+BMB Compuscience Canada Ltd.
+Make-A-Wish
+ITDA
+Nébula Entertainment, s.l.
+Locomotive
+Aegis Games
+Runt time
+Mineloader Software Co., Ltd.
+Visionary Design Technologies Inc.
+Battle Phase Games
+Jochen Kaercher Gamedesign
+Talos Interactive
+JFreeware
+Classified Games
+Mojave
+Amiga Corporation
+United Software Artists
+Grokksoft
+The9 Limited
+Interbec
+Blizzard Entertainment Korea
+Capital S Software
+WOW Software
+The Guild
+Advanced Software Company Tasc BV, The
+Silverback Entertainment
+Safari Fliteware
+Elite Systems International Ltd.
+EC-NET Co.,Ltd.
+rude scotsman studios
+Mere Mortals
+Muzzy Lane Software Inc.
+Interactive Strip
+Orca Multimedia
+Platine Dispositif
+Sirius Games A/S
+J & J Gameware
+DHG games
+Virgin Studios London
+Serendipity Software Design Ltd.
+Kinetica Software
+Cold River Studios
+Crom Software
+Level Infinity
+Corélane
+JME Engineering
+Greenleaf
+Kaos Studios
+Interactive
+Bear Systems
+Cryo UK Ltd
+Turner Interactive
+Emerging Ventures and Arts
+Live for Speed
+TSSX Mobile
+Toyo Recording Co.
+Wonder Amusement Studio
+MicroProse Japan K.K.
+Mouse Systems Corporation
+Mama Game
+Alien Bill
+Venture Software
+Software Communications Ltd.
+Torus
+Nordic Software, Inc.
+Basis Applied Technology
+GMD Group Pty Limited
+NiceMCmedia
+Jones and Jones Multimedia
+Challenge Inc.
+P.A.S. Systems
+Bianchi Soft
+FrozenSand, LLC
+Cybadyne
+Hayden Book Company, Inc.
+Khaeon Gamestudio
+Sunset Entertainment
+Future Endeavors, Inc.
+Most Significant Bits, Inc
+Mad Genius Software Ltd.
+.theprodukkt
+Media Kite
+New Line Software
+CineACTIVE, LLD
+Great Planes
+Mind Games
+GameFX Technology
+Ignition
+Voyager
+PolyMedia Communications
+D.C. Heath and Company
+ISD
+Petsoft
+Orbis Games LLC
+Lance Investments
+Acclaim Studios Manchester
+Knight Soft, Ltd.
+Mirinae Software
+Archetype Interactive Corp.
+Yeti Studios Limited
+Single Cell Software
+PIPE studio
+Arda Team
+R-Tsa Games
+disintegrator
+Boundless Planet
+Perceptum Informática Ltda.
+Infinite Laser Dog
+Optimum Resource
+AussieSoftTM
+DICE (Germany)
+Compulsive Development, LLC
+CKYDT
+Chime
+Esser & Hauffe GbR
+Star Mountain Studios
+Focus Creative Enterprises Ltd.
+Carrere Video Distribution
+Philips Media GmbH
+Pixelhazard
+Apex Designs
+Science of Tomorrow
+Cognetics Corporation
+SheepArcade
+Horizont Entertainment
+Sagittarian Software
+OUAT Entertainment
+Cheeky Wireless
+Réunion des Musées Nationaux
+Not Our Productions
+Will Interactive
+EIM Ltd.
+Anino Entertainment
+Midnight Oil, The
+Silent Grove Studios
+Yahoo Software
+Lego Group, The
+M2
+Sleepless Software Inc.
+Pixel Escape Studios Inc.
+Twilight Software
+Button Soft
+Doki Denki Studio
+GST Video
+imagon GmbH
+Vibes
+IQ Media
+ZIMA software
+Roger Soft
+SIVEK
+Ladyluck Digital Media Inc.
+PyroSoft
+TNT Games
+Terrors 2 Project
+Ageod Sarl
+Societe En Participation BOA
+Gameloft China
+Program Techniques Ltd.
+Activ Pub Studios
+Outlaw
+Open Mind
+Hutchins Software
+Cooes Co., Ltd.
+Palmscape Mobile Software Co., Ltd.
+Einstein Multimedia s.r.l
+Aragon Ltd.
+Xenquin Software
+Alten8 Ltd.
+Dark Inertia Studios
+Liquid Edge Entertainment
+Conan
+Southern Lake
+Oceanus Communications
+Interactive Brains
+HARD
+Warlock Studio
+Silicon Warriors
+Zac Soft
+Heliotrope Studios
+Gammafon Multimedia AB
+Plasma Touch
+Tenth Planet
+Music Pen
+Fluent Entertainment, Inc.
+Lion Entertainment Inc.
+Bright Light Productions
+Foreign Media
+Live Planning
+Inti Creates Co., Ltd.
+Ceridus Software, Inc.
+The Game Equation
+Ocean France
+Azeroth, Inc.
+Ace Software
+Continuum Development Team
+Digital Mind Studio
+Gizmondo Europe Ltd.
+Motelsoft
+iWin.com
+Smartmelon Games
+Dodekaedron Software Creations, Inc.
+Butterfly-Mediasoft
+Simbiosis Interactive
+Brad P. Taylor, LLC
+Infinite Dreams
+Gray Games
+Tarann Ltd.
+Kinesoft Development Corp.
+Dingo Games
+Chalksoft Ltd.
+Softpal Inc.
+Extreme AI, Inc.
+Dark Technologies
+Efecto Caos S.L.
+Intellivision Productions Inc.
+The Fourth Dimension Team
+Gagne Software
+Ernieware
+Ubisoft Barcelona
+System Error
+EMG Publishing
+A Couple 'A Boys Pty Limited
+EAS Software
+Micro Vision Software
+Hypothermia
+CIC Interactive
+Mug Software
+CyberSites
+Slam Software
+Sumea
+Avalanche Studios
+Deep Space, Inc.
+Intelek
+Abersoft Limited
+xii games
+Boyle and Elggren Games, Inc.
+Ziggurat Interactive
+Childware
+Arcade Animation, Inc.
+Saber Software
+Amuze AB
+Hori Electric Co., Ltd.
+Pronto Games, Inc.
+Interscan
+Creative Capers Entertainment
+NuvoStudios, Inc.
+Dejobaan Games
+Red Herring
+Bad Dog
+Grafix Zone
+Kinemation
+Cross Media Soft
+Any Channel
+EA Montreal
+I-Deal Games Studios
+School Zone Interactive
+Sunrise Games Ltd.
+School Zone Publishing Company
+onesong partners, Inc.
+ServantWare
+LIVE Studios, Inc.
+PhysTechSoft, Ltd.
+Negative
+Five Miles Out
+Silverline Software
+Animation Arts Creative GmbH
+Unicorn Software Company
+Military Simulations Inc.
+ShadeTree Games
+Tago Electronics
+Wandering Monster Studios
+Alchemist Research
+Softswap
+MC2 France
+Delos Software
+Left Behind Games Inc.
+Cinesra Software
+Exile Interactive Inc.
+RD Technologies
+Lightbox Creative Software
+mind.frame.com
+Hexagon Entertainment LLC
+Spiceware
+Pixel Technologies, Inc.
+iWin, Inc.
+Strobe
+Thompsonsoft
+XGen Studios, Inc.
+MediaQuest direct
+Joyce Hakansson Associates, Inc.
+Imergy
+Zablac Entertainment
+Aneiva Interactive, Inc.
+Exortus Inc.
+Sega/Gremlin
+Bonnier Multimedia
+New Star Games
+GSI
+Miga Studio
+Blam!
+Game Studios
+Advantage Artworx
+Radioactive Software
+Flying Chicken Software
+dbi Games
+Distinctive Developments Ltd.
+Ricochet
+Mentrix Software
+LOADED Studio
+Zapptrio, Inc.
+Marvelous Liveware Inc.
+Krentek Software
+Virgin Interactive España
+Digital Evolution
+Cybertech
+Stanley Design Team
+Heuristic Software
+A Sharp, LLC
+Le Lombard
+P Squared
+Ubisoft S.A.
+Mindspan Technologies Corp.
+United Nations World Food Programme
+Deepend
+Yamisoft Entertainment Inc.
+Sheppard Company, Inc.
+Future Vision, Inc.
+Electric Sheep
+Leading Edge
+Red When Excited
+Consult Software Ltd.
+Umweltbundesamt
+The Behemoth
+Wanderlust Interactive
+Asciiware
+Wargaming West
+Dragonlore
+Data Wave Software Technology
+Galactic Software
+TSi, Inc.
+Apple Inc.
+Nite Time Games
+Interactive Simulations Inc.
+Elocom Mobile Entertainment GmbH
+GULNY Games
+Meldac of Japan
+YooStar Entertainment Group Inc.
+CLCE
+Terminal Software
+Nuclear Meltdown Productions
+Soap Bubble Productions
+Variant
+Elorginform
+Marble Eyes Development
+Moonstruck
+DC True
+Pixis
+Kudosoft Interactive
+In Utero
+INtex Publishing GmbH & Co. KG
+Galaxy Games
+Towa Chiki
+Zero Sum Software
+Artogon Games
+Fragile Bits
+Futique, Inc.
+Philips Interactive Media Benelux B.V.
+The Vision Factory
+Rumic Soft
+EvilX Systems
+Anvil Entertainment
+Jugibugi Entertainment
+Shoecake Games
+Backspace Software
+Remdy Software
+Grupo Editorial Jackson
+Pentavision Entertainment
+Revival Multimedia
+Media Age software
+Pumpkin Studios
+Wizard Developments
+Quex Development Ltd.
+Nisus Development & Technology
+ParrotSoft
+D.L. Multimedia
+Second South Studios
+Zarathrustra
+Melon Dezign
+Eagle Games, Inc.
+Donohoe Digital LLC
+Sherwood Forest Software
+Robot Super Brain, LLC
+Hi-Score
+Boat Drinks LLC
+comp-sci
+Jonquil Software
+D-Designs
+Climax Graphics
+Application Systems Heidelberg Software GmbH
+OTA A/S
+Svenska OTA AB
+Game Outlet
+Dixon's
+Virtual Design
+Arrakis Software
+Dexterity Software
+Ape Interactive
+General Entertainment
+Jagware
+Hybrid Arts, Inc.
+Delta Software
+KOCH Media GmbH
+Mirage Graphics, Inc.
+Ransom Interactive
+Magic Logic
+Gastronaut Studios LLC
+Pod Bay
+Southern Software, Ltd.
+Tahoe Software Productions
+Rockstar Vienna
+GameOver-Games, Ltd
+YAGER Development GmbH
+Jack Bean Ltd.
+Guppyworks
+Digital Bros. S.p.A.
+Stonefish Interactive
+Forbidden Gap
+Acer
+Bignet U.S.A., Inc.
+Dinky
+Tesseraction Games, Inc.
+Ex Animo Designs
+Flammarion
+Uitgeverij Bombilla
+IJsfontein Interactive Media
+Gallimard Multimédia
+Indie Built, Inc.
+Draconus Entertainment Ltd
+Discovery Communications, Inc.
+Artisan Entertainment
+Gravity CIS, Inc.
+PT. Lyto Datarindo Fortuna
+Amazing Games
+inCider Magazine
+Vidis Electronic Vertriebs GmbH
+Broken Arrow Entertainment Inc.
+Oxxo Media
+Primal Software
+Method Solutions
+Seatongrove Ltd.
+Gladiators Software
+Synthetic Reality
+Great Clips
+Digital Content
+Simply Silly Software
+Intellisoft
+JoyMax
+Pink Panther Produktion
+Electric Dreams Inc.
+Sorcerer
+American Interactive Media
+Reality Studios
+Argos Labs
+Awesome Softworx, Inc.
+FriendlySoft
+Abstract Concepts
+3Vision Interactive Pictures
+White Birds Productions
+Elemental Games
+Button Software
+M Bounce Ltd.
+ResQsoft Productions
+VCA Interactive
+Lerner Research
+Video 61 & Atari Sales
+Simutronics Corporation
+Infinite Monkey Systems
+Interactive Solutions Corporation
+Leadfoot Productions
+Bopscotch
+Re:Action Entertainment
+Megamedia Australia
+Gremlin Interactive Australia Pty Ltd.
+Warped Minds
+Wayward Design Limited
+Scenario Developments
+Delphieye Entertainment
+HI Corporation
+Condor, Inc.
+Sigma Designs, Inc.
+Playlogic Entertainment, Inc.
+Software Customization
+Panda, Inc.
+E.F. Dreyer, Inc.
+Procurion 9
+Anthill Studios
+Triniti Software
+Groove Alliance, Inc., The
+FirstRateGames
+Creative Carnage
+Pocket PC Studios
+Miracle Designs
+Third-I Productions
+Faceless Programmers' Corporation
+Jam-Games.NET
+Gravity Co., Ltd.
+Advance Software Ltd.
+Cross Co., Ltd.
+Mango Grits
+Tomcat System
+FRONTLINE Studios, Inc.
+Fidelity Electronics
+Kronos
+R.O. Software
+Dresdner Bank
+CogniScience Publishing Inc.
+CinéGroupe Interactive
+Firebird Licensees Inc.
+Yoyo Entertainment Ltd.
+Ganymede Technologies S.C.
+Alive Software
+Ruske & Pühretmaier Multimedia GmbH
+Wizard Software
+GraphicWares
+Wetware
+Simsalabim Software
+SPC Vision
+Circus Freak Studios
+Serious Cybernetics
+Peachtree Software
+Zone
+Phoenix Global Software Ltd.
+Ph03nix New Media
+Dremov SoftGroup
+Kinetic Designs
+Haggard Games
+LG Electronics Inc.
+GamesGang
+Prickly-Pear Software
+Illuminated Lantern, The
+N-Side Software
+Revival
+Mzone Studio
+Fused Software
+Z-Ware
+MindArk PE AB
+Gametrust
+Soup Games
+TransGaming Technologies
+Mediamond
+The Incredible Trio
+SMEI
+ART Co., Ltd.
+K-ero
+Studio Line
+Prokion
+Fizz Factor, The
+Artsoft Entertainment
+Acheron Design
+RealApex
+Aditus Inc.
+Rapid Eye Entertainment
+UA Limited
+New Era Software
+Wizard Games of Scotland, Ltd.
+cerasus.media GmbH
+Future Ideas Today Inc.
+Adventure LearningWare
+Beermat Software
+Shift
+ObjectFarm
+Pedestrian Entertainment
+Elven Software Company
+KENTAURI
+Rake in Grass
+Ruske & Puhretmaier Edutainment GmbH
+Strongbox Entertainment
+Artificial Intelligence Inc.
+Courbois Software
+Tabula Digita, Inc.
+FoxySofts
+thatgamecompany
+Sherston Software Ltd
+Digital Jellyfish Design Ltd
+Hungry Software
+Curly Monsters
+Brain Bug
+Chris Crawford Games
+Saru Brunei
+Live Interactive
+Enteraktion, Inc.
+Advanced Software Products
+CodeWriter
+Scope Soft
+W.A.S.P.
+Hammerhead Entertainment
+CrossCut Games
+Ionos
+Media Design Interactive
+Climax London
+Wraith Corporation
+Zombie Chow
+SaNiTaRiUm Inc.
+Run and Gun!
+PlayGames
+4th Generation Studios GmbH
+ATI Technologies, Inc.
+Hue Forest Entertainment
+Softnyx
+PT. Boleh Net Indonesia
+Inner Workings
+Dodgysoft
+Isoco
+Buddiez, Inc.
+Museworthy, Inc.
+Poponchi
+Shoebox
+Attaction
+Discreet Monsters
+Programmer's Guild (UK)
+The Game Designers Studio, Inc.
+Rockpool Games Ltd.
+Livesay Technologies
+Livesay Computer Games, Inc.
+Rino Limited
+Cyclops Software
+Vortex Media Arts
+Softtouch
+LithTech, Inc.
+Fire Storm Games
+Digital Design
+Paisano Productions
+Virtual X-Perience
+Irrational Code
+Superscape Ltd.
+RTZ Interactive
+Wendtware
+United Microware Industries, Inc.
+Reality
+Yellow Horn Co., Ltd.
+Petra
+Goodsol Development Inc.
+Jamopolis Interactive
+Femo Duo Entertainment
+Artificial Studios, Inc.
+Mistkeep Software
+Mediagogo
+Med Systems Software
+Beware The LadyBeetle
+Cornelsen Verlag GmbH & Co. oHG
+Team Hoi
+US Action
+iGerard.com
+Alvion Co., Ltd
+Quality Simulations
+Strategy Lights Studios
+Mystery Studio
+Simage
+Play Byte
+Micro Value
+Computape
+Black Knight Software
+Five Trick Pony
+Ticsoft
+Teacy Entertainment
+Dominator Designs
+Sima System
+Hypervisual
+Farbs
+CSP Mobile GmbH
+MAX Artists
+GoogolTek Software
+Sky Think Systems Co. Ltd.
+Sahmon Studio
+Conexus, Inc.
+Fantasy Software
+Dream Dale
+MachineWorks Northwest LLC
+Sprout Games
+HanaHo Games, Inc
+Sheep Sheet, The
+Raylight Studios s.r.l.
+MasterWorks Software
+Scholastic
+Hikware
+Stonehenge Soft Art
+Shadows in Darkness, Inc.
+Game Village
+Enteractive, Inc.
+Sugar & Rockets, Inc.
+In The Pockets
+Starjammer Studios
+Sland Media
+FiendTeam
+GripDesign
+Studio Ducks
+Macgillivray Freeman Films
+DJL Software Ltd.
+Impact Interactive Publishing Pty Ltd.
+Eyst Pty Ltd.
+Dynafield Systems International
+Megatronix
+Tribeca Interactive
+SCOPS Software
+Valhalla Páholy
+CiD
+C Dream
+Robinson Technologies
+Argonaut Technologies Limited
+Pointsoft S.A.
+Mindsai Productions
+Just Trains
+Oteeva Entertainment
+Large Animal Games
+I/O Product
+Infospace Games Atlas studio
+Mediola
+Omori Electronics Corporation
+En-Tranz Entertainment
+GMM Entertainment
+Giunti Publishing Group
+Pterodon Software
+Infinite Dreams Software (UK) Ltd
+Vochozka Trading
+MadCat Interactive Software GmbH
+4D Rulers Software, Inc.
+Zeus Software
+Gameday
+Anima Ppd Interactive
+CogniToy
+Caldera
+Nestlé Deutschland AG
+ARGON Software GmbH
+Advantec Software
+Evolution Games
+Reality Bytes, Inc.
+ZEMNOTT, Inc.
+California Merchandising Concepts, Inc.
+James Software
+Flying Iron Games
+IDDK Group
+Crazy House
+Super Happy Fun Fun, Inc.
+Microbyte
+VTech Electronics North America, LLC
+TRAVELBOX-Hungária Kft.
+TechFront Studios
+Disc Company, The
+International Software Development Corp.
+Cosmos Designs
+DSD/Camelot
+3D People
+Red Cap Entertainment
+ASF
+Statto Software
+Karstadt
+LightBrain GmbH
+Front Interactive
+Attack Software
+Error Free Productions
+Jemm Productions
+Provox Games
+Nidecom Soft
+Pinball Wizards
+Hands-On Mobile
+Software Resources International
+WeatherMine Software
+Effigy Software
+Blimey! Games Ltd.
+Metamorf Studios
+Diversions Entertainment
+Twisted Minds
+Astral Entertainment
+Lagarto
+R.A.W. Entertainment, Inc.
+Illymani Designs
+IncaGold Ltd.
+Crux
+Mitsubishi Electric
+Knights
+Scottgames
+Riki  Computer Games
+Sintech
+Digital Fiction Inc.
+INTENIUM GmbH
+Shockwave
+The Article 19 Group, Inc.
+Brainfactor Entertainment KFT
+Snowfall Entertainment Limited
+Virgin Interactive Entertainment SARL
+KGD Software Products
+Emma Six Productions
+TGC - The Games Company GmbH
+Multisoft
+Inner Fire Software
+Blue Sphere (France)
+Bundesministerium für Wirtschaft und Arbeit
+Y&R interactive media
+Genimo Interactive LLC
+Stormcloud Creations
+Nori For New
+JMD
+Macsen Software
+Ad Games
+VanDerLee
+Ready at Dawn Studios, LLC
+JAST USA Co. Ltd.
+Orbital Media, Inc.
+Catalyst Coders
+Magmic Inc.
+Reston Software
+HopeLab
+MichTron Corp.
+Computer Shack
+Epic Interactive Strategy
+Apollo Entertainment Software
+AAA Games
+TameStorm Games
+Starplay Productions, Inc.
+Darkblack
+Digital Dreams
+Advanced Systems
+Studio Interactive
+Infinite Interactive Pty. Ltd.
+Netville
+CCP Games
+New Level Software
+Wacom Europe GmbH
+VentureVision
+Professor Fog's Workshop
+Gorilla Systems Corporation
+Gamesquad
+Arcade Zone Ltd.
+Cursor Magazine
+The Softworks Factory
+Beenox Studios
+Pure Entertainment Games Plc
+Insignificant Studios
+258 Productions AB
+N-Lightning Development
+Hwy 1 Productions, Inc.
+Virtual Sports Interactive
+ZX Data
+Twisted Pine Software
+Intergalactic Development Incorporated
+mfn
+Triffix Entertainment Inc.
+PixelArts
+Emme
+Hyptique
+ImproGames
+Hammond & Leyland
+Climax LA
+Absurdus
+Divide By Zero Software Inc.
+Dynamic Adventures, Inc.
+Interbrew Nederland N.V.
+De Ondernemers
+Folklife Terminal Club
+Kaneko USA, Ltd.
+Free Games Blot
+Genus Microprogramming, Inc.
+Crystal Shard
+Mindscape Bordeaux
+Traveling Bits Production
+New Bits on the Ram
+Cases Computer Simulations Ltd.
+Soggybread Software
+Fury Software
+PC Research Inc.
+Alpha72 Games
+Backbone Charlottetown Ltd.
+Express Programmes Company
+Adventions
+Akai Company
+Computec Media AG
+Viridis
+BUG Multisystem Ltd.
+Lenny's Ecstazy
+Shamusoft Designs
+Axela
+Volkswagen
+BBDO Interactive GmbH
+IBM Multimedia
+Jim Henson Interactive
+Flogsoli Productions
+Smart Bomb Interactive
+Spark Entertainement
+Windward Studios
+team smartyPants!, Inc.
+Touchlink Mobile ApS.
+Spellbound Interactive
+Ideaworks Game Studio
+Elixir Studios
+Cajji Software
+Easy User Production
+T.C.S.
+Androsoft
+Firm, The
+2 by 3 Games
+click-pool Entertainment
+Infomedia France
+Codesmiths, Inc.
+Xdyne, Inc.
+MOVIC Inc.
+MaxFive
+Carr Software
+MiniVisions
+Menara Games
+Sega Studios San Francisco
+Cerny Games, Inc.
+KarmaSoft
+Epileptic Fish
+Pathos Learning
+TLC The Learning Company Deutschland GmbH
+Commercial Data Systems
+Ware-Wolf Games
+BumbleBeast
+SunStar Publishing
+DVKSoft
+Pier 57
+moderngroove entertainment, inc.
+MyPlayCity.com
+DRON Software
+Mind multimedia
+Cougar Interactive
+Vicious Byte
+CPIO Multimédia
+Pandora Box
+SPS
+Hill MacGibbon
+2000 A.D.
+Logic System
+Century Electronics
+Fireball Software Limited
+Tomo Soft International
+Darkworks SA
+Hidden Treasures
+Intelligent-Digital
+Sony Studio Foster City
+Mindscape Northern Europe B.V.
+Givro
+United States Navy
+Whatif Productions LLC
+Level Systems
+Geleos Media
+Alexandria, Inc.
+Indiepath Ltd
+Chaosium Inc.
+Red Rover Games
+Pacific Beach Digital
+GOTO Software
+Digital Concepts
+Micronics
+Quantum Productions
+Power House, The
+Oxford Mobius
+Penguin Development Team
+Nightrider Software
+The Software Factory
+Classica Entertainment
+Reston Computer Group
+Admacadiam
+Digital Dreams Entertainment
+ESP Software
+GrandPrix
+Prograph Research S.r.l.
+Ambertec, Inc.
+Pedersen Systems, Inc. (PSI)
+Mulawa Dreaming
+Intelligent Statements, Inc.
+Hirameki International Group Inc.
+Harlequin
+Stars Ashes
+Axlon
+KryptKoderz
+Metropolis Digital
+POV Entertainment Group
+Entertainment Software Partners
+Stywox
+Rotobee Realtime 3D GmbH
+Elliott Portwood Productions
+Peaksoft
+ImpactGames
+Genetic Anomalies
+Wicked Studios Inc.
+Power Up S.r.l.
+Answer Software
+The X Studio Productions
+Packrat Video Games
+Ensign Software
+Fat Girl in Ohio
+Unikgame
+3LV Games
+Momentum AS
+ICD, Inc.
+Dash Digital
+Procedural Arts LLC
+Anchor, Inc.
+Chilli
+Avaria Corp
+Paradox Software
+NISSO Corporation
+Beyond Games
+Boss Games
+Cheesy Software
+Cocktail
+Yoshidayama-Workshop Co., Ltd.
+HandMade Games
+P.Z.Karen Co. Development Group
+Slash Corporation
+Leland Interactive Media
+Global A Entertainment
+ESPN the Games
+Metanet Software
+Software Foundation
+11th Dimension Entertainment
+WJS Design
+OctagonSoft Inc.
+The Majestic 12
+High Score Entertainment
+Quickdraw Developments Ltd.
+Spieleentwicklungskombinat GmbH
+Saurus Co., Ltd.
+TAM, Inc.
+TechnoBrain Co.,Ltd.
+221B Software Development
+Skill Art
+Sugar Games
+Johnson-Voorsanger Productions
+Control Video Corporation
+Anark
+3Vision Games
+Psyonix Studios
+Scion Studios, LCC
+Simmer Software
+Time Warp Productions
+Sundial Interactive
+F4
+Panasoft
+Jawx
+Sadeness Software
+Invictus Team
+Small Fry Studios
+Screenplay
+Shadow Development
+Thinking Tools, Inc.
+CBS/Sony Group Inc.
+Klear Games, LLC
+Nerlaska
+ESD Games
+Aquaplus
+JAST Japan
+Comp-U-Sports
+Lauer Learning
+Eon Software, Inc.
+Chantemar Creations
+Russian Soft
+Systematics
+Microdaft
+Load Inc.
+Shifting Suns Studios, LLC
+Funline Animation
+Gee Whiz! Entertainment
+VictoryGames.com.pl
+SeaSoft
+Champ Team
+Micro Selection
+Tanager Software Productions
+Unnatural Games Studio
+Abracadata Ltd.
+Dill Software
+Explosive-Software
+Field Co Ltd
+Maverick Software
+Pax Softnica
+Flying Lab Software
+LatticeWorks Software
+KE-Soft
+Panoramic Software
+DICE Canada
+TBG Software
+Pottsware
+Atanak
+Ark Multimedia Publishing
+MIA
+Cerebral Gaming Systems
+Virtually Real
+Brain Storm
+Venom Games
+ATMOS Software Productions Pty. Ltd.
+Chuanpu Technologies
+Triangle Service
+Virtuos Ltd.
+Tiburon Entertainment
+Horst Graphics
+Studio Trophis
+Howard W. Sams & Co., Inc.
+Computer Applications Unlimited
+Triton Productions
+9thNight
+Digital Illusions, Inc.
+Disk-Count Software, Inc.
+Sega AM7 R&D Division
+Roadshow Interactive
+Brilliant Interactive
+Family Production
+Ringler Studios
+Changeling Software
+Amanita Design
+AlwaysNeat.com
+Heart Soft
+hemming GmbH
+Blimb Entertainment GmbH
+Nuclearvision Entertainment GmbH
+Instant Software, Inc.
+CVRS
+The Clusters
+LowFuel
+REVOgames GbR
+OnGames
+Novarama
+Sega Rosso
+Supernova Creations
+Digital Studios Limited
+PCM Complete
+Shirogumi, Inc.
+Home Sweet Pixel
+Acornsoft
+High Moon Studios, Inc.
+LTI
+PC-Magic Software
+Irrational Games
+AKA Studios
+Rudeware
+Sykhronics Entertainment
+Quest Software, Inc.
+Dardari Bros.
+Mogul Communications
+Digitalware, Inc.
+Lunagames International B.V.
+Nuclear Monkey Software
+MediaKite
+VMI
+Whitespace Unlimited
+Learning Technologies Interactive
+CAPS Softwaredesign ULM
+Oz Software
+SuSE GmbH
+Ebenel Enterprises
+Quaker Oats
+Cobalt Interactive
+Studio Blum
+Dunhill Electronic Media Corp.
+Alpha Helix Productions
+YuS Design Studio
+Beck-Tech
+Bright Star Technology
+Micro Lab
+Creepsoft
+Cascoly Software
+Extreme FX
+7FX, s.r.o.
+Singularity Software
+MythPeople
+Action Sixteen
+KOG Studios
+Lightspeed Games
+American Action AB
+Greve Graphics
+Ignite Games
+Beavis-Soft
+Ascon Ltd. U.K.
+Trecision Net-ert@inment
+Cognito
+SimRon Interactive Programming
+H.N.C. Sofware Solutions
+P. Boulton Software
+NetIntellGames
+Xänte
+Polestar Co., Ltd.
+Howling Dog Systems
+GAMESPACE24
+Lager Interactive Inc.
+Pacific Century Cyber Works Japan
+Circular Logic
+True Soft
+Daze Marketing Ltd.
+Clockwork Tortoise Inc.
+Megadream Software
+TwoPointZero
+Cinergi Interactive LLC
+Software Dynamics, Inc.
+Shining Star Software
+Teatime
+The Software Farm
+Toygardens Media
+Turbine, Inc.
+Sofsource, Inc.
+SGuerra Design Ltda.
+Rainbow Software
+EA Digital Illusions CE
+Slippery Snake
+TableStar Games, LLC
+Critical Mass Interactive, Inc.
+Vap Inc.
+Black Run Software
+Night Sky
+FumiFumiKICK
+Studio SiestA
+Jeff Silvers Software
+Free Mind Software
+AukioGames
+HAL Corporation
+Halfbrick Studios
+UDS
+Imagexcel
+Anim-X
+Solid Image Ltd.
+Renovation Game
+Pai, Inc
+Magellan Consulting Neue Medien GmbH
+SEGA Wow Inc.
+Hed Arzi Multimedia
+Guillotine
+Tigress Marketing
+Jazz Software
+Ego Software
+L'Art
+Rainbow America
+Dell, Inc.
+JVC Digital Studios
+Most Wanted Entertainment Ltd.
+Tactical Neuronics
+Kedamonoware
+Disney Imagineering
+Dreaming Media
+Atmosphere Studios
+Kitty Media
+Active Software
+Inhome Software Inc.
+Edensoft
+Elo Interactive Media GmbH
+Pride Interactive
+Zes't Studio
+Abandon Entertainment
+Rocketbox GmbH
+Aevum Obscurum Entertainment
+Intellectronics
+Dan Gorlin Productions
+Walk On media publishing
+Graphicfinal Ltd.
+In2Games Ltd
+TopWare CD-Service AG
+UEP Systems
+Rasputin Software
+Virtual Toys
+RISC
+LMNOPC
+MediaMobsters Aps.
+MBL Research
+Popcorn Soft
+Polydor
+Carbonated Games
+Gigawatt Studios
+Omegavision
+Lupine Games
+Max Design GmbH & Co.
+MARTIN Gesmbh & Co. KG
+collision-studios GmbH
+TamTam
+Alpha-Unit
+TAMM
+Mirage Media S. C.
+Beer Boys
+oeFun, Inc.
+Trendmasters
+SuperSet Software Corp.
+SG Interactive, Inc.
+Program Ace
+Alfaline
+Rocket Company
+Mind's Eye Entertainment
+Terrific Software
+A+ Magazine
+Pacific Gameworks
+Sith
+King of the Jungle Ltd.
+MST Inc.
+Everett Kaser Software
+Armageddon Games
+Attica
+Image Tech
+Charybdis Enterprises
+Crucial Entertainment
+Misosys, Inc.
+MindStorm Software
+Hitech Studio
+Eurosoft
+Children's Television Workshop
+Nihon Application Co., Ltd.
+Akaido Arcade Systems
+Formosoft VR
+Dragonfire Services
+The New Image
+Contrail
+Monarch Software
+Monarch Development
+Progressive Peripherals & Software
+Copya System Ltd.
+Team Neo Blood
+Dream Factory Co., Ltd.
+Shadow Tor Studios
+ST Software
+Being the Game
+Joyboost
+Slam Games Ltd.
+Darklegion Development
+Smart Egg Software
+SoftSide Magazine
+AGCrump Software
+Big Red Computer Club
+10tons Ltd.
+Bubball
+Lead Pursuit, LLC
+Horizon Simulation Ltd
+ALO-Software
+Split
+Fill-in-Cafe
+Victory Games
+German Design Group
+Dempa Micomsoft
+Radical Tubes
+Clapping Hands
+Midnight Software, Inc.
+HomeComputer Software
+Christian Software Development
+Some Interactive
+Abyss
+1C: Ino-Co
+Turtle Rock Studios, Inc.
+Digital Marketing Corporation
+NR, utd.
+Swicked Softworks
+Philips P.O.V. Entertainment Group
+Visual War Lab
+Edson Software
+AcePlatinous Family
+S+F Software
+Indie Games Productions
+OMK Software
+Warcry Corp
+Phenom Productions
+Shade, Inc.
+Stainless Steel Studios Inc.
+IDG Media
+Fox Williams
+Media Interactive Studios
+Armonk Corporation
+Piggyback Interactive Limited
+MagnaMedia
+Hitech Studio Designs
+First Step
+Flight One Software, Inc.
+The Pokémon Company
+Black Hole Entertainment
+ByteShock
+Mir Dialogue
+Aterdux Entertainment
+AIM Software Ltd.
+AGEIA Technologies, Inc.
+Virtual X-citement
+HAMSTER Corporation
+Westka
+The Rugby Circle Inc.
+clickBOOM Interactive
+RTL Playtainment
+Exozet Games GmbH
+O~3 Entertainment
+Terzio Verlag GmbH
+Taldren, Inc.
+Coleco Industries, Inc.
+Mind’s Eye Technology
+M4 Ltd.
+Pseudo Interactive
+Codo Technologies Ltd.
+Hamumu Software
+J-Force
+RealArcade
+Anarchy Enterprises
+RTL Sports
+Impulse Games, Inc.
+RetroStyle Games
+MCM Productions
+Karma Labs Inc.
+Electric Brains
+Nice-Games
+Infinite
+Opcode Games
+Joy Van
+Cavalier Computer
+Paranoid Productions
+IE Institute Co., Ltd.
+Tycoon Systems
+SportTime
+Blue Pony, INC
+Price Central Network, Inc.
+Soldak Entertainment, Inc.
+Midnight
+MIT Media Lab
+BSP Design Software
+Konami TYO
+Happo Entertainment
+TAG
+Silicon Sorcery
+Revell, Inc.
+FLOYDESIGN
+Wildfire Studios Pty. Ltd.
+Twin Eagles
+Terebilov K.A.
+Nexus Software
+Synthetic Dreams
+Kerberos Productions
+Konami Computer Entertainment Sapporo Co., Ltd
+AniVision
+Eko System
+BMB Compuscience
+Shadowsoft
+Adventure's Planet
+S&G Software
+ELOI Productions
+Strangelite Limited
+Island Games
+Haiku Studios
+Ácaro Multimedia
+Fruitsoft
+Moto1.net
+Chameleon Software
+Tate Interactive Sp z.o.o
+G&T Multimedia
+Entity
+apocalypse inc.
+Nicely Crafted Entertainment
+Denki Ltd
+Exakt Entertainment
+JVA Microcomputadores Ltda
+Cpsoft
+Suomi-Peli
+3D Kaleidoscope
+CLR Licenseware
+Polygon Magic
+VTech Electronics Europe GmbH
+Interactive Designs
+YupGames
+Streko-Graphics Inc.
+Sickworld Software
+Ubi Soft SRL
+Quarium Inc.
+Orion Interactive
+Alliance Interactive, Inc.
+Virtanen
+Rampant Games
+Iliad
+Game Crafters
+Wisemen Productions Ltd.
+Odesys, LLC
+B-Rush Entertainment
+Sayonara Software
+Electra
+321-Software
+Time Warner Interactive Ltd.
+Wahoo Studios, Inc.
+EK Corporation
+Main Street Publishing
+Insomnia Entertainment
+Positive Solutions
+Rodge Rock Software
+21-6 Productions, Inc.
+AIA USA, Ltd.
+Weltenschmiede
+KNURDZ Entertainment
+Armid
+GameDreamer
+Hertz Co. Ltd
+Virtual Image Productions
+Indigo Moon Productions
+Epic Banana
+Castleworks Gameware
+Rare Medium, Inc.
+Emerald Forest Toys
+Pathworks Interactive
+BrezzaSoft
+ImagiSoft, Inc.
+Phoenix Studio
+Sorrent Inc.
+Xanth Software F/X, Inc.
+Budcat Creations
+Rock Brigade
+Play Systems
+Vanbrio Entertainment, Inc.
+Dual Corporation
+Pinsoft
+Strategic Visions, Inc.
+Worldweaver Productions Ltd
+Tianben Co., Ltd.
+Ving
+Micro Gold
+Gigabit Systems, Inc.
+Running Dog Software
+Bravetree Productions
+Guild Software, Inc.
+Floodgate Entertainment, LLC
+VSTEP B.V.
+Tranquil Revolt in Computer
+Zero Entertainment Inc.
+Eidos Studios Hungary
+Playlogic Game Factory BV
+Picmatic, S.A.
+GameMill Entertainment
+centrum.pl
+Cactus Games
+Jorudan Co., Ltd.
+Antidote Entertainment
+Tech-Noir
+Applied Systems Knowledge Ltd.
+E&J Software
+The Mauretania Import Export Company (TMIEC), Inc.
+New Phaze Development, LLC.
+Suomen Kotijaatelo Oy
+Detonium Interactive Ltd.
+Melody Hall Publishing Corp.
+Snow Lion Entertainment
+GameFactory Inc.
+Ntreev Soft Co., Ltd.
+CoGS Games
+Panther Programs
+Widescreen Games SARL
+Rose Company
+S.K.I.F.
+KAZe Co., Ltd.
+PsychoHazard Software
+Teknogames
+GASPOP Software
+CiRCLE plc
+Lonely Troops
+Kobi
+Byte & Brothers
+Magic Wand Productions
+Unimatrix Productions
+PC Globe Inc.
+Trimark Interactive
+International Hobo Ltd
+Qube Software Limited
+Besier 3D-Edutainment
+Virtuality Entertainment Ltd.
+Stainless Games Ltd.
+Pod Bay Enterprises
+Glamus GmbH
+BigSky Interactive, Inc.
+Madlab Software
+Astatix Software
+Nibble Magazine
+Tuna Technologies Ltd.
+Magnificent 7
+Toggle Booleans
+Byte Back
+Cloud Nine Developments
+Delta Code
+Absolutist Ltd.
+Programmer's Guild Inc.
+Tamtex
+Zoetrope Interactive
+Living Mobile GmbH
+General Quarters Software
+Mercury Steam Entertainment S.L.
+Alchemic Productions, LLC.
+Evolution Studios Ltd
+Spiral House Ltd.
+Chronic Logic LLC
+720games
+Genias
+EDV CD-ROM GmbH
+Mediaglobe GmbH
+Osamu Sato Productions
+STeam
+H&H Software
+Digital Persuasion
+Future Concepts Ltd.
+Subway Software
+Mackoy
+Outback Pty. Ltd.
+93 Games Studio
+Virtual Playground
+Reptilia Designs
+Map Japan
+SOCKO! Entertainment
+Baroque Gaming
+Health Media Lab, Inc.
+Smiling Assassin
+Fallen Angel Industries
+JAGUAR
+Hyperion Entertainment
+OSP Enr.
+Hypa Hypa
+Aqua System Co., Ltd.
+Studio Mythos Inc.
+Beautiful Game Studios
+Cardoza Entertainment, Inc.
+Touchdown Entertainment, Inc.
+Pop Rocket
+Big Huge Games
+Gemsoft Corp.
+Funatics Development GmbH
+Montparnasse Multimedia
+Ralston-Purina
+Digital Cafe
+D.O. Corp.
+Sweet Tooth Games
+SpeedStrip Interactive
+Jagged Blade Software
+Canvas
+VZ.lab
+NBG EDV Handels- und Verlags GmbH & Co. KG
+Cosmigo
+SAck Enterprizes
+Eastridge Technology
+Accursed Toys, Inc.
+Sierra Coktel Deutschland GmbH
+Pocket Studios
+Anguilla Software Limited
+Lore Design Limited
+Space Dream Factory
+Rocket Science Games, Inc.
+Gabriel Entertainment
+plan_b media AG
+Digital Chocolate, Inc.
+Exus Corporation
+Termite Games
+Tower
+Pick & Choose Ltd.
+American Treco Corporation
+American Eagle Software, Inc.
+TNN
+Team 7 International
+Eclipse Entertainment
+CP Software
+Unexpected Development
+New Line Productions
+LOZC/G. Amusements Co., Ltd.
+A. Company co., ltd.
+GTI
+Group SNE
+Sonoma Multimedia
+WB Games
+Collision Studios
+Ehrgeiz
+Gameblend Studios
+Liquid Entertainment
+SMK Software
+ECP Pty. Ltd.
+Discis Knowledge Research Inc.
+InterServ International Inc.
+RAD Game Tools, Inc.
+Artworld UK Ltd.
+Suricate Software
+Applications Software Specialists
+Gilsoft
+Queasy Games
+7th Sense s.r.l.
+Karma Studios
+Optik Software, Inc.
+IO Design Group Inc.
+Creative Dimensions
+Addison-Wesley Publishing Company, Inc.
+Binary Vision Ltd.
+Peter Pan Industries
+Right Angle, Inc.
+Way Limit
+Side City Studios Inc.
+DreamOn Studio
+Excellents Japan
+Wise Owl Software
+Vanguard Works
+Renaissance
+Postern
+Transatlantic Simulations
+YUSHO GmbH
+Idee Software
+TransMedia Productions, Inc.
+S&M Software
+Project-Z development
+MTV Games
+Arcadia Corporation
+Atlantis Interactive Entertainment
+SilverBack Studios
+Instinct Design
+Warthog Sweden
+Tatsumi
+Wild Divine Project, The
+Games Ltd., The
+Mitsui & Co. Deutschland GmbH
+Cineplay Interactive, Inc.
+Tad Corporation
+Richard Shepherd Software
+Cristal Dream
+King Records
+Marti and Starsky Wong
+Moonbyte Studios
+Clockwork Pixels Ltd.
+Artifact Entertainment
+Pixelogic Limited
+Bit²
+Piste Gamez
+Skitso Productions
+Don Bluth Multimedia, Inc.
+FreeStyleGames Ltd.
+Archgames Inc.
+Say Design
+Thalean Software
+Tortyfoo Software Limited
+Mightygames
+NetDevil
+Solecismic Software
+Brat Designs Ltd.
+Uplay-Istrip
+Naked Sky Entertainment, Inc.
+Bikuta
+Razbor Studios
+Last Day of Work
+Zig Zag Creations
+Spirit of Discovery
+Colossal Pictures
+DarXabre Games
+Micomeq
+Bundeswehr
+A.S.K. Homework
+Black Hammer Productions, Inc.
+Spielwerbung.de
+Steel Monkeys
+SolWorks
+Rebel Games
+46TSM Games
+Psikyo
+Multitude Inc.
+Multitude
+Spice Interactive
+CPV Productions Inc.
+NovaLight Software
+Big Blue Bubble Inc.
+Smart Games
+Smart Dog
+Skynet Corporation Inc.
+Team Evolve
+Battlegoat Studios
+CTA Developments
+Alucine Soft
+BrainBank, Inc.
+Apus Software
+KrabbitSoft Studios
+Art & Magic
+A.I Co., Ltd.
+Aniware AB
+HiHiSoft
+eSim Games
+Casablanca Software Inc.
+F1 Licenceware
+Lobotomy Software, Inc.
+Shoeisha Co., Ltd.
+Qute
+M-KAI
+Thorn EMI Video Ltd.
+Just Add Monsters Ltd.
+Unobstructed Reason Corporation, The
+T1 New Media
+McGraw Hill Home Interactive
+Mikev Design
+Left Field Entertainment
+M-Pen Inc.
+SYSTEM 4 de España, S.A.
+Swordfish Studios Limited
+Ted Gruber Software Inc.
+Interactivision A/S
+Yestersoft
+tAAt
+Ubisoft Casablanca
+Omiya Soft, Co. Ltd.
+Playing Games Interactive
+Arcanum Computing
+Atreid Concept SA
+HermitWorks Entertainment
+Hokus Pokus
+AngelSmile
+Broadsword Interactive Limited
+Nordos Game Studio
+Hyper Entertainment
+Garakuta Studio
+SiliconWorx
+Raks NewMedia
+Compuphiliacs
+Cymbal Software, Inc.
+Framework Studios
+Zorlim Software
+Ignis Entretenimento e Informática S/A
+Jab Software
+Wings Simulations GmbH
+Micro Revelations, Inc.
+Cryptic Allusion
+Micro Projects Engineering
+Xuse
+Razor Games
+Fireline Interactive, LLC
+TeeGee
+Trabulance
+Tetragon
+Adanac Command Systems
+Mistic Software Inc.
+Taco Bell
+BrandGames
+DeaddyBear
+ITE Media ApS (Interactive Television Entertainment)
+SKOB
+Arena Graphics
+QuelleSoft
+Megasoft
+PPA Entertainment
+UXB
+GlyphX Games, LLC
+Farlan Entertainment Ltd.
+NP Cube SARL
+Alchemic Dream Inc.
+Red Lemon Studios
+The Guild Adventure Software
+Recreational Computing
+THQ Studio Australia
+Banana Development, Inc.
+Silicon Software
+JavArt S.r.l.
+E.M.M.E. Interactive
+Pantheon Productions Inc.
+Daylight Productions, Inc.
+Vanillaware Ltd.
+Moloto
+Federation X Media Group AB
+Arcade Ltd.
+Russian Under Wear Inc.
+Out of the Blue Software
+Impact Software Development
+Invasion Interactive Ltd.
+Frozenbyte, Inc.
+Lobstersoft
+Meyer/Glass Interactive
+Mirror Image
+Stormbringer Software
+Snowstep Development
+Walt Disney Feature Animation
+Big Grub
+Bay 12 Games
+Malibu Interactive
+Gamecock Media Group
+Renegade Kid
+Momonoki House
+Miracle Games
+Nirvana Systems
+Publishing International
+Ohio Distinctive Software
+MenAvision
+Taylor Pruitt Software
+EduWare Services, Inc.
+Ironclad Games Corporation
+Prominence S.C.
+Panther Software Inc.
+Malfador Machinations
+Special FX Ltd.
+Kirin Entertainments Inc.
+Mobeus Designs Inc.
+Digital Minds
+Demonware Softwarehaus GmbH
+Heliovisions Productions
+Britannica Software
+Logotron
+Caravel Games
+Crowd Co. Ltd.
+JessCREATIONS
+OutLook Entertainment, Inc.
+Infinity Co., Ltd.
+Ikusabune Inc.
+Confounding Factor
+Bitmasters, Inc.
+Lunatic Software
+Sparklers
+Titus Software Corporation
+funkitron, Inc.
+bitlab Information Design & Entertainment GmbH
+Cosine
+The Neverhood, Inc.
+Zylom
+Stanley Associates
+IBS
+Mute Fantasies
+Mousechief
+Gainstar Software Ltd.
+Eagle Interactive
+Black Cactus
+Elite Software
+Boris Games
+stage-nana
+Ego
+BnB Software
+Lacral
+PSI Software Designers
+G2M Games
+Brightstar Entertainment Ltd.
+Eagle Peak Interactive Corporation
+Network Entertainment
+Mac Soft
+Rainbow Products Limited
+Moving Imagem e Editora Ltda.
+Whiz Kidz, The
+Mythicon, Inc.
+Artmunk Games
+Bomb
+Synsoft
+Gabriel Interactive, Inc.
+High Impact Games
+Positron Co., Ltd.
+Alphabatim
+Pocketeers
+Mis Ladrillos
+3d-io
+Parsec Software
+Lost Craft
+Hayden Software
+Plastic Reality Technologies, s.r.o.
+Maxwell Technology Ltd.
+zSlide S.A.S.
+Silverfish Studios, LLC
+CPC Amstrad International
+R&P Electronic Media
+Nival Entertainment
+K-Tek Software
+General Masters Corp.
+Egmont Interactive GmbH
+Cronosoft
+AmigaKit.com
+Perspective Visuals
+Deepfried Ltd.
+Project Two Interactive BV
+Wordworks Software
+Bryo Srl
+IQ Publishing
+DGS Software
+Taniko, LLC
+Lockpick Entertainment
+Atomic Elbow AB
+Snap-on
+Mekada
+Flashpoint AG
+Hect
+Big Ape Productions, Inc.
+WEG Management, Ltd.
+Softwin Associates
+BeeWorks Co., Ltd.
+Digital Treasures
+Cinegram Media Inc.
+Grenadios
+NYX
+exoSyphen Studios LLC
+mhs Studio
+Arena Games
+ioproductions
+Nic-Ty Entertainment
+Merckle GmbH
+CnC Darkside
+PawleyScape
+Xing Entertainment
+Jackpot
+Sherwood Media
+Gaping Wolf Software
+Artificial Intelligence Design
+SkyFallen Entertainment
+GTE Vantage Inc.
+Agenda
+Wargaming.net
+Mirage Interactive LLC
+EMG
+Syntax Error
+Exxos
+Sphinx
+X-ample Architectures
+Virgin Interactive Entertainment (Deutschland) GmbH
+Glorious Trainwrecks
+Mark Data Products
+Sammy Europe Ltd.
+Caspian Software Ltd.
+Japan System Supply
+Miles Computing
+Shadowfax Software Inc.
+NetFarm Communications, Inc.
+AlphaDream Corporation, Ltd.
+Paragon Five, Inc.
+Red Sky Interactive
+The Toxic Zombies
+Lemma Soft
+EA Salt Lake
+Playtime Software
+Grolier Electronic Publishing Inc.
+Friendly Software Corporation
+Cornutopia Software
+Glass Eye Entertainment, LLC
+Pepper Games
+Fishlabs Entertainment GmbH
+Retrotopia
+Cheshire Engineering
+Greentube I.E.S. AG
+Pukka Games
+Organizações Globo SA
+Continuum Entertainment
+Creat Studios, Inc
+Check Six Studios
+Breakpoint Sp. z o.o.
+ErrorFree
+Educational Insights
+Impact Productions
+Blockdot, Inc.
+Aardvark Action Software
+Valadon Automation
+Aardvark-80
+One Games
+Cover3D
+LittleWing Co. Ltd.
+Nekrosoft
+FlatCat
+Cybron Corporation
+Synergenix Interactive AB
+Snowball.ru
+Caravan Interactive
+Springboard
+Bunch Games
+Coldwood Interactive AB
+Fragment
+Ninelives
+Stormregion Software Development Kft.
+NHK Service Center
+SpecNG
+TecMagik Entertainment Ltd.
+Arcana Software Limited
+GT Interactive Software (UK) Ltd.
+Milbus
+SoundSupport
+Avantage
+JV Software, Inc.
+Kamehan Studios
+Brightstar Games
+HAMCO Software
+Lance Haffner Games
+3d6 Games, Inc.
+Goliath Games
+Kuju Sheffield
+Micro Fun
+Paragon Visual Systems
+Studio B Ltd.
+Pack Media Company, Inc.
+Esprit Software Programs Ltd.
+Mr. Micro Ltd.
+Painting by Numbers, Ltd.
+Froggo Games Corporation
+Twilight
+Deep Shadows
+Sachen
+Crystal Computing
+Tokyo Shoseki Co., Ltd.
+ScandSoft
+Human Creative Products
+Gaia Industries LLC
+JimiSoft, Inc.
+Interdisc
+Freestyle
+Electric Transit, Inc.
+Titan Computer Products
+T7 Games
+inXile Entertainment, Inc.
+Crytek UK
+TM Games
+EA Chicago
+Entertainment Software Publishing
+Paon Corporation, Ltd.
+Prikol  Software
+FluidGames
+On-Line Entertainment Ltd.
+Monster Studios, LLC
+Savage Entertainment, LLC
+Key
+A-Wave
+Sumo Digital Ltd.
+PowerVision
+Guildsoft
+Nayantara Studios LLC
+Iron Lore Entertainment Ltd.
+EA Mobile
+Little Devils Inc.
+Applaud Software Ltd
+Red Mile Entertainment, Inc.
+Swingin' Ape Studios
+Ahoy!/Ion International, Inc.
+Intime Corporation
+Voyager Company, The
+Cryptic Corporation, The
+The Big Red Software Company Ltd.
+Visiware
+Eclipse Entertainment Ltd.
+G3 Interactive Ltd.
+Power and Magic Development
+RNASoft Pvt. Ltd.
+Frog City Software, Inc.
+Avatar Consulting
+tri-Crescendo Inc.
+ISA Software, Inc.
+BC Software
+Action Byte
+Amstrad
+Hot Lava Games
+Sports Mogul Inc.
+Beep Industries
+MidNite Entertainment Group Inc.
+Sillysoft
+Marvin Glass and Associates
+Bits Corporation
+Celebrity Software International Ltd.
+Gamart
+Psionic Systems
+gamigo AG
+Three Rings Design, Inc.
+Ubisoft Montpellier Studios
+Compu-Teach
+Ninja Theory
+Konami Computer Entertainment Nagoya Co., Ltd.
+DreamWorks
+Cranberry Source
+Freeze Tag
+Emotional Pictures
+Squashy Software
+Boomzap Pte. Ltd.
+Slightly Subtle Technology Inc.
+VectorScope Software
+SelectWare Technologies, Inc.
+Sucker Punch
+Game Thoughts
+Jade Interactive Entertainment
+PlayWorks
+Deirdra Kiai Productions
+Carousel Software
+Eldritch the Cat Ltd
+Bluebush Software
+Destineer
+Juice Games Ltd
+Wizard Games
+Nex Entertainment
+Inner Circle Creations
+CDV Software Entertainment USA, Inc.
+Design Design
+Interactive Fantastic Fiction
+Titan Games
+Real World Multimedia
+SCEE Studio Camden
+Digital Tome
+Flashpoint Productions, Inc.
+Pulser Software
+Toptronics Oy
+KOCH Media srl
+Ninjaforce
+Stalker Entertainment
+Spellcraft Studio GmbH
+Target Games Interactive AB
+ComputerEasy
+Joriko Interactive Limited
+R-Games
+Panda Entertainment Technology Co., Ltd.
+Phipps Associates
+SuperVillain Studios, Inc.
+Monkeystone Games
+Platinum Productions
+Cybernetic Corporation
+Prolixity
+Salu Ltd.
+Midway Studios Los Angeles
+Timeline Computer Entertainment
+Coyote Developments Ltd
+Game Titan
+Reeware
+Leaf Sverige AB
+Int:act Media & Communication
+Agentix Software
+Liquid Games
+Metro Games
+Adeline Software International
+Hollywood Mogul Company
+Revistronic
+Oracle Software Enr.
+Magenta Software Ltd.
+StarWraith 3D Games LLC
+FreshGames, LLC
+PM Studios
+Game Republic
+Atod AB
+Ubisoft Quebec
+Ludi Media
+Destan Entertainment
+FunYours Technology Co. Ltd.
+Les Animaux Mecaniques
+Lost Toys Ltd
+KOCH Media
+AnimaTek
+Eurogold
+WildSnake Software
+Vestel A.Ş.
+Son Işık
+HomeBrew Software
+Mycroft Systems
+Jaeger Software, Inc.
+K2 LLC
+Digital Dialect
+Axes Art Amuse
+Off The Wall Productions
+Leader S.p.a.
+Manta
+Induction Produce
+Blue52 Games Limited
+Wunderkind
+Kryptronic
+Unalis Corporation
+Meridian'93
+Robin Games
+Citizen Software
+Headfirst Productions
+Software Shed, The
+Real.com Games
+Gameness Art Software Inc.
+Fuji Television Network, Inc.
+Nai'a Digital Works
+Nicolas Entertainment Group
+Magnum Games
+MTG Modern Games
+Ludodelire
+PlayAround
+USC Interactive Media
+Multimedia Store, The
+Compedia Software & Hardware Ltd.
+Raywireless
+NovaGame, Inc
+Genius Sonority, Inc.
+Alcatraz Entertainment Software
+Targem Games
+On Time Software
+HuneX
+Nuclide.com BVBA
+Powerhouse Entertainment
+ACME Interactive
+Infocity Inc.
+Snowball Interactive
+Tranji Studio
+Soleil Software
+Brooklyn Multimedia
+Enginuity
+Jamul Software
+Sandlot
+D3 Publisher of Europe Ltd.
+Database Software
+Team .366
+Avex Inc.
+SYBEX-Verlag GmbH
+Art Data Interactive, Inc.
+Cryptic Studios
+Inrac Corporation
+Edge of Reality, Ltd.
+Blue Monkey Studios, Inc.
+Aardvark Software
+Sonnori Co., Ltd.
+Ice-Pick Lodge
+G2 Games
+C4M Prod SARL
+Software Marketing Corporation
+Hipnotic Software
+Pulse Interactive, Inc.
+Remar Games
+Xcel
+Bit Managers
+Starfish
+Saturn Developments Limited
+Intergalactic Development Inc.
+D'India Software
+Kesmai Corporation
+Maitai Entertainment
+AWE Games
+Crack dot Com
+RedHat
+Palmetto Bay Publishing
+tewi Verlag GmbH
+Bardworks
+Imitation Pickles
+Paxman Promotions Ltd.
+Robin Antonick Games, L.L.C.
+Odysseus Software
+ArtePiazza
+Scandinavian PC Systems
+Galago Games
+Pressimage
+Morning Star Multimedia
+Shawno
+Foppygames
+SEGA Studios
+Action Forms Ltd.
+ASAP Games, Inc.
+P.U.R.E. Design
+L.S.P
+Locomotive Games, Inc.
+Macrocom, Inc.
+Developer Resources
+GameOn Sweden
+BearWare
+Alawar DreamDale
+Prolific Publishing, Inc.
+Jaishaw Games
+CrunchTime Games Inc.
+PSYOP
+Korkeken Interactive Studio AB
+Pagan Games
+Battlefront.com
+Unreal Software
+KnowWare
+Happy Happening
+Progressive Media ApS
+Burst
+Hexerei Games
+Media Factory
+Fever Pitch Studios
+CyberVision
+Enigma Software Productions
+Near Death Studios, Inc.
+Gamepro
+CBS Software
+Connelley Group, The
+Littlewing
+Actura Software
+Tom Create Co., Ltd.
+Arcade Masters
+Object Software Limited
+Headgames, Inc.
+Super Fighter Team
+Dar al Fikr
+Afkar Media
+Epoch Co., Ltd.
+BlueLine Games
+IncaGold GmbH
+Media-Servce-2000
+Summitsoft Entertainment
+RA-Dev
+GrimmWare, Inc.
+Cyparade
+Doka
+OSI
+TexaSoft
+Funhouse Design
+FACE
+Meridian93
+Any River Entertainment
+Advance Reality
+gameLab
+SCE Santa Monica Studio
+Bright Side Software
+EMAP images
+Software Express
+Mark of the Unicorn
+D3 Publisher of America, Inc.
+Nazca Corporation
+Squirrely Productions
+Clipper Software
+MadGames
+NanaOn-Sha Co., Ltd.
+Oxygen Games, Inc.
+Malinche Entertainment
+Apex Computer Productions
+Silver Lightning Software
+CleverMedia
+Image Producers
+Actualize Ltd.
+Binary Zoo
+Silicon Commander Games
+Genuine Games Ltd.
+Incredible Simulations
+Out of the Park Developments
+Hell-Tech
+Software Publishing Associates
+Sand Grain Studios
+NCsoft Corporation
+NCsoft Austin
+NC Interactive
+NCsoft Santa Monica
+NCsoft NA
+Mission Studios
+BOMB Software
+CTXM Ltd.
+Theatrix Interactive, Inc.
+SEGA Studios USA
+Digital Bridges Ltd.
+dbi Mobile Entertainment
+CLOAD
+CANO-Lab
+Pantera Entertainment
+Actionsoft
+KRU Interactive, Inc.
+Ronin Entertainment
+Wild Brain, Inc.
+Natomic Studios
+Great Outdoors Multimedia
+eV Interactive LLC
+Sandbox Studios
+Computerware
+PyroTechnix, Inc.
+Lunar Explorer LLC
+VirtuePlay, Inc.
+XSIV Games
+Cygnus Software
+Beaucomm Interactive
+Midnight Synergy
+Charybdis Entertainment
+Boeder Games
+ToeJam & Earl Productions, Inc.
+Vektor Grafix
+Learning Technologies, Inc.
+Stargazy Studios
+Bantam Software
+Sun Electronics Corp.
+Metro3D Europe Ltd.
+Digital Mining
+Space Time Simulations
+Novastar Game Co.
+Eternal Warriors LLC
+Gizmondo Studios Manchester
+Trauma Studios
+Union Software Ltd.
+Gainax
+Major Developments
+Pan Metron Ariston
+Reservoir Gods
+Dragonstone Software
+Electronic Pencil Co. Ltd., The
+Big City Games
+Brainchild Design
+Punk PRoductions
+NSG
+Sunspire Studios
+Aisystem Tokyo
+Crea-Tech
+Paprikari
+The Pitbull Syndicate Limited
+Bit Blot, LLC.
+FAKT Software GmbH
+Simon Hessel Software
+Gold Medallion Software
+Rockland Software Productions
+Simulmondo
+Random Programming
+Microtec Entertainment
+Xilam
+Graffiti
+Interstel
+Northwest Software
+Elmsoft
+IO Interactive
+Mystery Machine, The
+Viz Design
+Catware, Inc.
+New Horizon Studios S.L.
+Chuck Brenner Games
+Morgen Studios
+Eden Games S.A.S.
+Electronic Design Hannover
+Softstone Ltd
+Budgie UK
+Blue Ribbon Software Ltd.
+NEON Software GmbH
+Digital Eel
+Cheapass Games
+Caliber Software
+EA Studios Japan
+Epic/Sony Inc.
+ISCO, Inc.
+IDL Group
+Cyberlife Technology, Ltd.
+Expert Source Code, Inc.
+AQ Interactive, Inc.
+XSEED Games
+Flying Bear Entertainment
+Nihon Create
+Voodoo
+Paralela
+Team Ico
+CrioLand
+Ask Kodansha
+Flying Tiger Development
+Pinhead Games
+Free Lunch Design
+Morbid Visions
+Saturn Plus
+Tokuma Shoten Publishing Co., Ltd.
+Freegamer
+Corkers
+Himalaya Studios, LLC
+Thor Computer Software
+Micro Forté Pty. Ltd.
+Character Soft
+FlyOrDie
+PC Design Associates
+MM Software Productions
+RetroWare
+CSK Research Institute Corp.
+Micro Sports Inc
+Addix Software Development, Inc.
+Visao
+Ciberbit
+Incognito Entertainment
+Insight Software
+Imagination Pilots
+Universal Gamex Corporation
+Blue Sky Productions
+Zio Interactive, Inc.
+SETA Corporation
+Gameleons Sp z o. o.
+Game Mill Publishing, Inc.
+5th Interactive
+Tex-Comp
+Cryo Studios North America
+Napoleon Games
+Kirin Entertainment
+Awesome Studios
+Sarbakan, Inc.
+Sunny Games LLC
+Golden Goblins
+Madivar Games
+Cirrus Software
+Enteron
+Arsenal
+Toka
+Dipl-Ing.
+Gamer's Edge
+Heuristic Park, Inc.
+Ultrasoft, s.r.o.
+Microtech Systems
+Boys Without Brains
+Edusoft
+MEDIA Programme of the European Union
+ISM Interactive
+Thunderstorm Games
+General Computer Corporation
+Games Express
+Promethean Designs Ltd.
+BMGenius Co.
+RedOctane, Inc.
+Decision Development Corp.
+Digital Mayhem
+BluMiAl Studios
+Cobra Team
+EIPC
+Capcom Production Studio 5
+Saltmine Creative, Inc.
+Hoodoo Studios
+Kron Simulation Software
+Wizbang! Software Productions
+5th Cell Media
+Durell Games Ltd
+Kingsoft GmbH
+Prestige Softwareentwicklung GmbH
+Kaneko Co., Ltd.
+Racjin Co., Ltd.
+Severn Software
+Aztec Design
+Demon Star
+Virtual Studio
+Quixel
+Silver Wish Games
+B&N Companies, Inc.
+Safari Software Ltd.
+Digital Frontier Inc.
+SaNaPe Software
+Ultimate Software Inc.
+La Plata Studios
+Locatha Industries Inc.
+ACA Soft, S.L.
+Junkyard
+Sonalysts, Inc.
+Utopia Technologies Inc.
+Poke 53280
+Nintendo Software Technology Corporation
+Kush Games
+Hip Interactive Europe
+Tivola International, LLC
+Frame Studios Interactive
+Unbalance Corporation
+Scenario Software
+Destineer Publishing Corp.
+Ubisoft Massive
+Disco
+Lenar
+Argent
+Greenstreet Software Ltd.
+Puffin Books Ltd.
+Black Sheep Studio
+Project Soul
+Toptronics AB
+Skunk Studios, LLC.
+Instant Access International Ltd.
+Escape
+ChiselBrain
+Krome Studios Melbourne
+NiHiLiS
+Datawest
+Langin Software
+Channel 7
+MPlayer
+TimeSink
+Micro Academy
+Byte Enchanters
+Conosis
+Reef Entertainment Ltd.
+Parallax Arts Studio
+Ébivision
+Random House, Inc
+Ibidinc
+Fish (UK) Ltd.
+PC Arcade
+Verbatim PC disk
+Mobile2win Ltd.
+Jadestone Group AB
+Images Software Ltd.
+Authentic Entertainment
+Destination Design
+Diamond Software
+Turcan Research Systems Limited
+Mayhem Studios s.r.o.
+Evertt.com
+Demiurge Studios
+Plaid Banana Entertainment
+Hulabee Entertainment Inc.
+Soft-World
+ZootFly, LLC.
+Gyoza Media
+Taito GM R&D Sect. #2
+Turtle Byte Software Ltd.
+Focus Multimedia Ltd.
+JoWood Vienna
+Mutilation Software Independent
+SourceNext
+Game Factory, The
+ACRO Studio
+East Point Software
+Papaya Studios
+StateVector Games
+Most Wanted Games
+CGS Software
+NHN Games Corporation
+Asylum Entertainment Ltd.
+Yosemite Entertainment
+Alpha-Omega Software
+Triumph Studios
+Cricket Software
+United Soft Media Verlag GmbH
+Alternative Games
+Reactor Inc.
+VR Sports
+Padded Cell Studios
+Actual Entertainment, Inc.
+Clover Studio
+Katz Media AS
+Twilight Zone Software
+Turn 10 Studios
+Marigul Management, Inc.
+Front Street Publishing
+Rockstar Leeds
+Rockstar San Diego
+A.N.A.L.O.G. Software
+JoyOn
+TopWare Interactive Poland Sp. z o.o.
+Lay-Up
+Ark Studios, Inc.
+Icestone Trustee Limited
+Heartline Software GmbH
+Joined Up Writing Software
+Ravensburger Interactive Media GmbH
+Haemimont Games AD
+Marjacq Micro Ltd.
+Super Mega
+Idea-Tek, Inc.
+Backbone Emeryville
+Tommo Inc.
+Athena Co., Ltd.
+Philips Fantasy Factory
+Planet Interactive Development
+Nuvision Entertainment
+Coolhand Interactive
+Jamsworks Co., Ltd.
+DaRK CaVErN Productions, The
+Monkey Byte
+The Mental Crew
+Byte Engineers
+City Factory
+Wah-Software
+Mind's Eye
+Real Sports
+Inline Software, Inc.
+Level-10
+Metropolis, Inc.
+Master Designer Software, Inc.
+Konami Studios
+Radish Works
+Silver Spaceship Software
+Realms of Fantasy
+King Games
+Blitz Arcade
+Actionware Corporation
+Vectorcom Development
+Flagship Studios
+Canopy Games
+Plazon
+FRACTiLE Games
+Angle Park Computing Centre
+Rastersoft
+Chaos89.com
+Trecision S.p.A.
+White Elephant Games
+Meridian 4, Inc.
+Viking Technologies
+Eagle Tree Software
+Crush Ltd.
+Harper Collins Interactive
+Interactive Telecommunications Program at New York University's Tisch School of the Arts
+Quadra Interactive
+Viking Entertainment
+Illwinter Game Design
+H+A Entertainment
+HandyGames
+Omega Integral Systems
+iSeeSoft
+Moraffware
+AlexPowered.com
+VIS Interactive Plc
+Quest, Inc.
+Nexus Productions Ltd.
+General Coffee Company Film Productions, The
+Matrix Software
+Zoom, Inc.
+Pulse Entertainment
+Digital Anvil
+Sensory Sweep Studios
+Winking Technology Co. Ltd.
+Art Department, The
+DigiTales GmbH
+VTech
+pixelpark
+Kuju Wireless Publishing
+California Pacific Computer
+Koei Tecmo Europe Ltd.
+Gilligames
+Hitech Productions
+NEW Corporation
+Williams Electronic Games, Inc.
+Rionix
+C-Soft
+39 Steps
+Ultimation Inc.
+Cornered Rat Software
+Shouei System
+Compuclassics Corporation
+TechnoCrafts Unlimited Inc.
+InfoSpace Mobile
+Infospace Games Elkware
+Zono, Inc.
+Xtreme Games LLC
+Diabolic Soft
+New Matter
+Banana Games
+Evolved Games
+Sony Corporation
+ZAP Corporation
+Artificial Software, LLC
+K-Byte
+PMC
+Shot Sports Software
+Ellipse Studios
+NMK Co. Ltd.
+Nikitova LLC
+Magic Storm
+Media Rings Corporation
+SCS Software
+ASI Ltd.
+Cope-com
+Axxiom
+ZeexSoft
+1 Step Software, Inc.
+AndNow LLC
+VSBgames
+Twin Dolphin Games
+BVS Development
+Rayland Interactive
+Infinite Vision Technologies
+Amccus
+Off Studio
+AlterAction,Inc.
+RamJam Corporation, The
+Fusion Software
+Vektor Graphics, Ltd.
+DayTerium
+Master Creating
+Blaze
+Planeta DeAgostini Interactive
+Gaelco, S.A.
+Magic Games
+Ukiyotei Company, Ltd.
+Similis Software GmbH
+Gremlin Ireland
+Toaplan Co., Ltd.
+Microsphere
+Serma Software
+Brainbox Games
+Creative Technology Group Ltd.
+Simtex
+ANTIC Magazine
+Pop Software
+Matchbox International Ltd
+Source Research & Development Ltd.
+Cyberscape Graphics
+InfoBank Technology Corp
+Armor Project
+Cursoft@
+MiCROViSion Inc.
+Foursfield
+Soft Enterprises
+Rogue Synapse
+GT Interactive Software GmbH
+Studio Ego
+Pie in the Sky Software
+360KID
+Pallas
+OlderGames
+Roklan Corporation
+IDSI
+Knight Technologies
+Super X Studios
+Betop
+Sinister Games
+Action Graphics
+Software Refinery, Ltd., The
+Nintendo R&D2
+Erosoft
+Quintet Co., Ltd.
+Chameleon
+Bi-Fi Roll
+Freelance Development
+Dynalogic/298
+Typhoon Games Ltd.
+Montadori New Media
+Kokopeli Digital Studios
+AS-Freegames
+Ultra Graphix
+Wanako Games
+Graffiti Entertainment, LLC
+Sabarasa Entertainment
+Eclypse
+Funtastic, Inc.
+Kheops Studio
+TOTM Studio
+Moonlight games
+The Collective
+CTO S.p.A.
+Optyk
+Norsehelm Production
+Nexa Corporation
+Pyva.net
+4J Studios
+Desert Planning
+The Poppenkast
+Playmobil Interactive
+Techiko
+HiSoft Ltd
+Softek International Ltd.
+Data Age, Inc.
+DesignStar Consultants, Inc.
+J. Morrison (Micros) Ltd.
+Daisy Field Software Development Group
+Blue Valley Software
+Wilco Publishing
+Param
+Rockstar Toronto
+Blue Beck Ltd., The
+Random Access
+Fugu Mobile Ltd.
+Datei Digital Entertainment
+Surveyor Corp.
+The Alcor Group, Inc.
+Neuro Productions
+Eagle Dynamics
+Magnetic Images
+B.I.T.S., Ltd.
+LightWeight Co., Ltd.
+Neural Storm Entertainment
+Prosoft
+GamesLab Productions
+Capital PC User Group, Inc.
+Nufekop
+The Computer Room
+Century Interactive
+Amber Company
+Animation Magic Inc.
+QV Software International
+Global Distributie B.V.
+Play.com.pl
+InterWeave Entertainment
+Enypsox enr.
+TRANS Fiction Systems
+Page 44 Studios
+Romox Inc.
+Skonec Entertainment
+Aurona Technologies Ltd.
+Octagon Entertainment, Inc.
+SibGame
+Redfire Software
+CDV Software GmbH
+XXv Productions
+Traffic Management Ltd.
+Flare Media Limited
+Punk Development
+SRB Software
+Digital Artists
+United Software
+MCM Software
+Pixel Shop Inc., The
+Lifeboat Productions
+REMedia Inc.
+Compro Games Ltd.
+Insolita Studios
+Universal Digital Arts, Inc.
+Art Of Mind Productions
+HeavyReign Software
+Extreme Entertainment Group
+Jolly Bear Games
+Ratbag Pty, Ltd.
+Jetsoft
+Health Hero Network, Inc.
+JumpStart Solutions Ltd.
+Cytherean Adventures
+Maelstrom Games
+ASK Co. Ltd.
+Bally Mfg. Corp.
+Crossroads
+Hookstone Ltd.
+GameBridge
+Kingformation Co., Ltd.
+Shards Software
+Aegis Simulation Technologies
+MarkSoft
+GAME STUDIO Inc.
+Exocet Software
+Kerian UK
+Nightingale
+PC Treasures, Inc.
+3Romans LLC
+Ontario Europe SA
+Dragonware Games
+Open Book 9003
+DesignWare
+Fishtank Interactive
+TriNode Systems
+Limbic Entertainment GmbH
+The Human Edge
+[hyper]media limited
+MGM Interactive
+Team Angry Robot
+Data Design Interactive
+Galiléa
+Deep Thought
+Brain in a Jar
+Microgame Simulations
+Carts Entertainment
+Third Wire Productions, Inc.
+Swoop Software
+Blue Turtle
+Takka Takka
+Walking Circles
+Massive Development GmbH
+PAL SOFT
+Scipio
+Vaill Co., Ltd.
+Summit Software
+Microfolie's
+ZAO MiST land South
+Porto Editora
+Typosoft
+Discovery Software International, Inc.
+Innerprise Software, Inc.
+dk'tronics
+Sigil Games Online, Inc.
+There Inc
+Capcom Production Studio 3
+Quantum Axcess
+Ratloop
+Schanz Interactive
+Excite Japan Co., Ltd.
+Nocturnal Software
+Bubble Bus Software
+Daedalic Entertainment
+ABTS Intelligent Group
+Alientrap
+Endurance Games, Ltd.
+Muse Software
+PomPom Games
+Paramount Digital Entertainment
+CyberFlix
+Crossover Technologies, Inc.
+Hummer Software
+Neurosport
+3A Studios Inc.
+Brian A. Rice, Inc.
+KEMCO U.S.A., INC.
+Radiance Software
+NMS Software Ltd.
+Volume 11 Software
+DataBiotics
+Software Specialties, Inc.
+Wild Hare Entertainment, LLC.
+Cendant Software Deutschland GmbH
+funpac
+Protek
+Microparadise Software
+Odin Computer Graphics Ltd.
+Micromania
+Horizons Interactive
+Amtex
+SimGraph
+NinjaBee
+Scoop Software Productions
+Mindscape International GmbH
+NashiIgry Llc.
+Meldac of America Inc.
+C&E INC.
+Rebellion
+Croft Soft Software
+Cartoon Animation Studios
+Powwow
+Topologika Software Ltd.
+BCI Software
+Petroglyph Games Inc.
+BoMbErGaMeS
+REALITY PUMP Sp. z o.o.
+Inverse Ink
+Oxiana Edizione
+MOPS Computer Systems, Inc.
+EA Australia
+Manaccom Pty Ltd.
+Novasa Interactive
+ImageBuilder
+Sierra Online
+France Télécom Multimédia
+Inhuman Games
+Pyramid
+DMA Systems Ltd.
+Imagitec Design Ltd.
+Dice Multi Media Europe B.V.
+Mind Control Software, LLC
+rondomedia Marketing & Vertriebs GmbH
+L39 Studios GmbH i. Gr.
+Unreal Visions
+Caesar Studio
+iGames Publishing
+S2 Games, LLC
+St. Bride's School
+Major A
+Matsushita Electric Industrial Co., Ltd.
+Decroix - Garofalo
+Digital Village, The
+Will Japan
+Shadow Software
+HAL America Inc.
+Artematica
+WXP, Inc.
+2015, Inc.
+Shatterstorm
+Landmark Solutions, Inc.
+Spectrum Pacific Publishing
+SW Games
+Astor Software
+Colgate-Palmolive A/S
+SilverRock Productions
+Nihilistic Software
+Mindmeld Multimedia,  Inc.
+Birthday
+Vatical Entertainment LLC
+General Admission Software
+KOEI Korea Corporation
+Digital Awe
+Ventamatic Software
+Total Entertainment Network
+SDJ Enterprises, Inc.
+CommaVid, Inc.
+CD Projekt RED Sp. z o.o.
+Ninja Studio
+ASYLUM Games
+Cyberdyne Systems
+No.2 Games
+Image Smith
+Shades
+Gametec
+Vasara Games
+Gravity-i Ltd
+Fathammer Ltd.
+Ninai Games
+Indy Games Limited
+ECC Publications Ltd.
+MD Software
+Taxan USA Corp.
+Colorado Computer Creations
+Saicon Software
+NStorm
+Shout!Designworks Co., Ltd.
+Animal Joy, Inc.
+Genesis Soft
+I. C. E. Multimedia
+DQ Entertainment Ltd
+Dreams
+nFusion Interactive LLC
+Logical Design Works, Inc.
+Blue Fang Games, LLC
+Bold Games
+Tripwire Interactive, LLC
+Excalibur Publishing Limited
+IJK Software
+Toxic Dream, The
+Neolithic Software
+Looking Glass Studios, Inc.
+Screen 7 Ltd.
+Emerald Software Ltd.
+Gravity, Inc.
+Divo Games
+Awem Studio
+Machination
+TNSsoft
+Synetic GmbH
+Zhengpu Software
+Wandering Adventures
+Magitech Corporation
+Interactive Entertainment
+Intense Entertainment
+Tribal Dreams
+Catnap Games
+Invictus Games, Ltd.
+Vision Park AB
+Zafiro
+Leviathan Games, Inc.
+Left Field Productions
+Eclipse Design
+CCR Inc
+Level UP! Interactive S/A
+Outrigger Koubou
+Alive Mediasoft
+Zero Gravity Entertainment
+Artworx Software Co, Inc.
+Advantage Computer Accessories, Inc.
+Bally Sente
+8th Day, The
+Titan Programs
+Midway Studios Austin
+XYPE
+Terramarque Ltd.
+Games Machine Ltd.
+Fuse Games Limited
+Legendo Entertainment AB
+JROK
+MP Entertainment
+Ojom GmbH
+Gang of Five
+Graphic Research Co., Ltd.
+Buena Vista Software
+Dazz Co Ltd
+Goldtree Enterprises
+Campina
+Compute! Publications
+Hyper-Quest, Inc.
+Ringling Multimedia Corp.
+Telesys
+Holodream Software
+Made in Spain
+Kadokawa Shoten
+Global Games
+Redspotgames
+NG:DEV.TEAM
+Lesta Studio
+Deadline Games A/S
+Blue Shift, Inc.
+U.S. Army
+Softie, Inc.
+Trillium Corp.
+Kaitsu Software
+cavia inc.
+Tonkin House
+Castle Software
+NovaTrix GmbH
+Gekkou
+Multimedia Intelligence Transfer Co., Ltd.
+Coreland
+Colosoftware
+CINEMAX, s. r. o.
+Rainbow Rhino
+Phoenics
+G-Craft
+Freedom Games Inc.
+Trend Redaktions- und Verlagsgesellschaft mbH
+Infinite-X
+ZUXXEZ Entertainment AG
+Productive Playtime
+Kompart UK, Ltd.
+Psytronik Software
+Blue Planet Software, Inc.
+ManMachineGames
+Intelligent Chess Software
+Exient Entertainment
+One Of The Bruces
+Kylotonn Entertainment
+CBS Electronics
+Fully Ramblomatic
+e-vision.pl
+Torquemada Games
+Cool Blue Game Studios
+Redward Studios
+Clover
+Anuman Interactive
+Atari2600.com
+Camaj Interactive
+Advanced Projects
+Meridian4
+Rebelmind
+Digital X-citement
+Black Legend Software GmbH
+Panic Video Games
+Starsphere Interactive, Inc.
+Odyssey Software, Inc.
+Impulze
+Byron Preiss Video Productions, Inc.
+Mutation Software
+Rockstar Vancouver
+Imperial Software Designs
+Sesame Workshop
+Micro F/X Software
+T&T-Soft
+Cavebug Games
+dB-SOFT
+A&F Software
+Symtus
+Revolution Software Ltd.
+WC-Game Studio, Inc.
+GMA Games
+Madia Entertainment
+Progame
+Polyvox
+Realtime Worlds Ltd.
+Xen Services, Ltd.
+Omni Creative
+Omni Creative Group International
+Real Networks, Inc.
+Gamenauts, Inc
+UFO Interactive Games, Inc.
+NEC Home Electronics, Ltd.
+American Game Cartridges, Inc.
+Telarium
+Idealogic S.A.
+Impact Software Development, Ltd.
+Blaby Computer Games
+Digital Dreams Multimedia
+pixelStorm entertainment studios, Inc.
+Aegis International
+Artesian Software Labs
+Rainbow Studios
+Omega Micott Inc.
+Astral Software
+Nikita
+Stern Pinball
+Factor 5, LLC
+Media Art, Inc.
+SoftLab-Nsk Ltd.
+Mirage Software
+World Software
+Nautilus
+MiG Outpost
+Blackstar Interactive GmbH
+Pinnacle Software
+MicroMagic, Inc.
+Exact
+Ultra Co., Ltd.
+Flood Light Games
+East Entertainment Media GmbH
+Independent Arts Software
+Mean Hamster Software, Inc.
+Liquid Dragon Studios
+Inter State Software
+The Coca-Cola Company
+iX Entertainment
+PXL computers
+Softbank Corp.
+Technical Group Laboratory, Inc.
+Big Bang Software, Inc.
+Eclipse Software Design
+Aruze Corp.
+Sacnoth
+Computer's Dream
+Cia do Software
+Oniria Entertainment Ltda.
+Leisuresoft GmbH
+Futura
+Ingenuity Works, Inc.
+Palladium Interactive
+Parroty Interactive
+Berliner Morgenpost
+Promotion Software GmbH
+Erudite Software
+Appaloosa Interactive
+Hi Tech Entertainment
+H.M.S.
+Animation F/X
+TMA
+JVC Musical Industries Europe Limited
+Funcom Dublin Ltd.
+Coconuts Japan Entertainment Co., Ltd.
+Phoenix Simulation Software
+Stickman Games
+Stick Man Studios
+Absolute Studios
+Chaos Works
+Light & Shadow Productions
+Titus Japan K.K.
+Toshiba Corporation
+E.L.S.
+Asobo Studio
+Stunt Puppy Entertainment, Inc.
+Halestorm, Inc.
+BEC Co., Ltd.
+Mythic Entertainment
+GOA
+XL2S Entertainment
+GameXtend
+Park Productions
+Sproing Interactive Media GmbH
+Rewolf Entertainment
+Mobile Scope AG
+In Images
+Computer and Video Games Magazine
+Vision Videogames, LLC
+DigiPen Institute of Technology
+Nexus Information Systems & Marketing inc.
+Eighting Co., Ltd.
+Atlantis Software Limited
+Lindholt Elektronikk & Data
+Surreal Software, Inc.
+Encore Software, Inc.
+Crobasoft
+Brainstorm
+Xplorys BV
+ACE
+iEntertainment Network
+University of Maine at Fort Kent
+Digital Spray Studios
+Wicked Software
+Artech
+Russell
+Phelios Inc.
+Space Ewe Software
+Sizzlers
+Cattle Call
+ANG Software
+Pocket Money Software
+Pacific Softscape
+Zaifrun
+I-Motion Interactive
+Warp Inc.
+Rozner Labs Software Group
+Forgotten Sages
+Databyte
+Ape
+Irem America Corp.
+JRC Interactive
+Montsoft
+Bright Future GmbH
+Human Soft Inc.
+Rocksteady Studios Ltd
+Argo Games
+MPS Labs
+Software Demon
+Gizmo Industries
+Relentless Software Ltd
+Sega AM1 R&D Division
+S.A.R.L. TLK Games
+Studio 33 (UK) Ltd.
+Drago Entertainment
+Hydravision Entertainment
+Tremor Entertainment
+On Hand Software, Inc.
+Lasersoft
+Manta Soft
+Rival Interactive, Inc.
+Edward Grabowski Communications Ltd.
+Mr.Goodliving Ltd
+Phase
+Creative Wonders
+PlayMaker, Inc.
+Team Andromeda
+Vivid Interactive
+Oddworld Inhabitants
+Office Create
+Team6 game studios
+Xing Interactive C.V.
+Cunning Developments
+FairyTale
+NetherRealm Studios
+Gamesoft
+Stone Jackal Studios
+h.a.n.d. Inc.
+International Center on Nonviolent Conflict
+Maris Multimedia Ltd.
+7 Studios
+Shaba Games LLC
+Dark Crystal Entertainment
+Blittersoft
+Morpheme Wireless Ltd.
+Affect Co.,Ltd
+Game Freak, Inc.
+Hi2 Limited
+softjoy
+Infospace Games - IOMO studio
+Smoking Car Productions, Inc.
+Aztech New Media
+EHM-Team
+Splinter Vision LTD
+Loki Entertainment Software, Inc.
+Ritual Entertainment
+Peakstar Software
+Art of Dreams
+White Wolf Productions
+Illusions Game Company, The
+Rix Soft
+Dale Disharoon, Inc.
+Eidolon
+Incentive Software Ltd.
+TriSoft
+KIDDINX Entertainment GmbH
+Game On
+Computer Rentals Limited
+Cascade Games, Ltd.
+Maxx Marketing Inc.
+Webserum
+Centauri Production
+Ingames Interactive AS/UK
+Bunkasha Games
+Tiburon Interactive Publishing
+Media Station, Inc.
+Piranha Interactive Publishing Inc.
+Iron Byte
+GBH Gold
+DC Studios, Inc.
+Taldren
+Paradox Entertainment AB
+No Cliché
+MASA
+Software Sorcery
+Joymania Development
+Tiger Electronics, Ltd
+Barking Lizards Technologies
+SWFTE International
+Pixel Multimedia
+Micro-Ware
+Personal Software
+Pandora
+Euphoria
+PopTop Software Inc.
+Topheavy Studios
+monochrom
+DreamForge Intertainment, Inc.
+Kozmogames Inc.
+Andrew Spencer Studios
+Kuma Computers Ltd.
+KIDSMIND, Inc
+Cloud Nine Entertainment
+Starvingeyes Studios
+Tru Blu Entertainment Pty Ltd
+SCE Japan Studio
+Istvan Pely Productions
+Toro-Publishing
+Owl Studio
+Pin-Ball Games Ltd.
+Perfect 10 Productions
+Teeny Weeny Games, Ltd.
+Media Entertainment
+Perfect Entertainment
+Birdy Soft
+PBI Software, Inc.
+Riggs International
+Central Solutions
+Blue Tongue Entertainment Pty, Ltd.
+DaimlerChrysler Corporation
+Beachware, Inc.
+Detalion
+CCS
+Dongleware Verlags GmbH
+Creative Game Design
+Rovio Mobile Ltd.
+Highland Computer Services
+Molleindustria
+this is the end
+EMI Records
+Nova Spring
+Silent Software
+Binary Emotions
+Beyond Entertainment
+Kritzelkratz 3000 GmbH
+A. Eddy Goldfarb and Associates
+Almanic Corp.
+Blue Water Entertainment
+Terminal Zero
+Omnicron Software
+Modern Games
+Triggerlab GmbH
+QQP
+Kemco/Seika
+Extended Play Productions
+Yuki Enterprise
+Magic Touch
+Atomic Entertainment
+Bokförlaget Opal AB
+Bajoum Interactive AB
+XYZ Productions
+Reflective Designs
+GAIA
+Norsk Strek AS
+Raymond E. Tobey, Inc.
+micro-partner Software GmbH
+MileStone Inc.
+Calaris Studios
+Frictional Games
+Kyiv's Games
+Burut Creative Team
+Euroline
+Alcachofa Soft S.L.
+Geek Hideout
+Players Software
+Computersmiths
+SouthEnd Interactive AB
+Graftgold Creative Software
+Ubisoft Bucharest
+Rainmaker Software, Inc.
+NoriaWorks Entertainment
+Glass Ghost
+GameTek Deutschland GmbH
+Hacker International
+Panesian
+Byron Preiss Multimedia
+Kogado Software Products
+Digital Magic
+OC-Software Ltd.
+Kodansha Ltd.
+Graphic State Limited
+Yoogi Logic Games
+Guerrilla Games
+Thundervision
+Time Warp Software GmbH
+In-Cubus Inc.
+KingSoft
+Retro64, Inc.
+Pyro Studios S.L.
+Proein S.L.
+FarSight Studios
+Sennari Interactive
+Ort Software
+Sick Puppies Studio
+Syscom Entertainment Inc.
+Digital Concept
+Game Design Sweden AB
+BBC Multimedia
+Gamezlab
+Sports Interactive Limited
+Xplosiv
+Illusion Software
+AIM Productions NV
+Two Tribes
+Boeder Software GmbH
+Bit Star Games
+Casterman
+Manyk
+Gogii Games
+Fairchild Semiconductor
+T-Time Technology Corp.
+Spark Unlimited
+Beyond - Challenging Software
+Silhouette Software
+Hollyware Entertainment
+Phoenix Software, Inc.
+Laser Magic, Inc
+Dimple Entertainment
+Micro Power
+Big Red Software
+1st Playable Productions, LLC
+Konami Digital Entertainment Limited
+Eon Digital Entertainment
+Rabbit Software LTD
+Comm*Data
+Double Density
+The Final Byte Softwareproductions
+Box Office
+Treco
+Magnetic Fields (Software Design) Ltd.
+Trip Media
+McSebi
+EC Interactive, Ltd
+PTERODON, Ltd.
+Outsider Develoment s.r.o.
+Blackeye Software
+RFX Interactive
+Digital Wizardry
+Black Ship Games
+VR1 Entertainment, Inc.
+Mirage Technologies (Multimedia) Ltd.
+Children's Computer Workshop, Inc.
+Interworks
+Snowblind Studios
+Soundware
+Inscape
+Virgin PLAY S.A.
+Systems Editoriale
+Infomaster Italia
+Havas Interactive
+Winner
+Moonlite Software
+Schweiger InterActive
+LimpingFish
+Signum
+Insanity
+APC&TCP
+Ludimate
+Aftermath Media LLC
+Blitter Animations
+Platform Publishing
+Sidhe Interactive
+Black Magic Software
+Silltunna Software Ltd.
+Hammer Technologies
+Celeris
+Islona Entertainment Ltd.
+Laguna GmbH
+Supervision Entertainment Ltd.
+Hidden, The
+Maverick Simulation
+Sound Source Interactive, Inc.
+WayForward Technologies
+MAUS
+Micro Graphic Image
+Wizard Systems Software
+Big Ant Studios Pty Ltd
+Beyond Software, Inc.
+Piccadilly Software
+Logic Factory, Inc., The
+Toho Cinefile-Soft Library
+Add-on Electronics
+Human Engineered Software
+Handic software AB
+Salamander Software
+Century Software
+Saber Interactive
+Levande Böcker
+ELD Interaktiv Produktion AB
+Avalanche Productions Inc.
+Mental Image Software Design
+Cobra Soft
+Computec Verlag GmbH & Co. KG
+D-Lite
+GarageGames, Inc.
+Nerd Riot Games
+RetroActive
+AGD
+D&K Softwaredevelopments
+Climax Studios
+Pixel Blue
+Zed Two Game Design Studio
+Thin Chen Enterprise
+Frontline Software
+Myelin Media, LLC
+Ribes Informatica S.p.A.
+Impressionware S.r.l.
+Fusionsphere Systems Ltd.
+Firstlight
+Webfoot Technologies, Inc.
+Overloaded Pocket Media BV
+ZX Games
+Bend Game Studio
+Radical Entertainment Inc.
+TV Games
+Consult Computer Systems
+Mindware Studios s.r.o.
+Big Tuna New Media, LLC
+Virtue Creations
+Zigurat
+Minds-Eye Productions
+Lucky Chicken Games, Inc.
+20th Century Fox
+Essential Games
+Andromeda Software
+Sony Electronic Publishing Ltd.
+PLBM Games
+FantasyWare, Inc.
+Fisher-Price Learning Software
+Frieda Lekkerkerker Inc.
+Legacy Software
+Troma Entertainment
+Bloodlust Software
+Jamdat Mobile Inc.
+Flarb LLC
+Paradise Programming
+Image Space Inc.
+Made By KIDDIES, Inc.
+AGD Interactive
+Ethereal Darkness Interactive Games
+Astraware Limited
+Raptisoft, LLC
+Visual Sciences Ltd.
+LavaMind
+Bandai UK Ltd.
+Double Fine Productions, Inc.
+ZyX Inc.
+Pixels Past
+Outrage Games
+Mountain King Studios Inc.
+Pearl America Inc.
+Proline Software
+Game Designers' Workshop
+Paragon Software Corporation
+Behaviour Interactive
+Edgeworks, Inc.
+Sprites
+Dark Unicorn Productions
+Wiering Software
+Nadeo
+Overland Co., Ltd.
+Colpax
+Crytek Black Sea
+Conmeg Spielart
+Asylum Studios
+Thorsoft of Letchworth
+dbaza, inc.
+Flying Edge, Inc.
+Arc Developments
+Misawa Entertainment Co.,Ltd.
+Synergy Interactive Corp.
+Synergy Inc.
+Grasshopper Manufacture inc.
+Rising Star Games Ltd.
+Auran Games Pty Ltd.
+TecnoSoft
+Sigma Team
+Brighter Child Interactive
+Momor Productions
+Oxygen Interactive Software Ltd.
+EnjoyUp
+EKO Software
+Hip Games
+Manic Media Productions Ltd.
+Worwyk Software
+Hoplite Research, LLC
+EleFun Multimedia Games
+Day Late & Dollar Short Software
+Neurostone
+Equilibrium, Inc.
+Channel 42 Software Developer Ltd.
+Hozer Video Games
+Fighting Chance, Ltd.
+New Generation Software
+RocketScience Games Development GmbH
+Zampano Studios
+Splatter House Studios
+VeriSoft Works
+On-Line PLC
+Pipeworks Software, Inc.
+Spirit Software
+Wadjet Eye Games
+Innonics GmbH
+Digital Extremes
+CP Verlag
+Electralyte
+Logotron Entertainment
+Apache Software Limited
+Amaranth Games, LLC
+Tsumiru Studio
+Home Entertainment Suppliers Pty. Ltd.
+Siemens Nixdorf
+Rauser Advertainment GmbH
+The Assembly Line
+Vision Works
+Medalist International
+Best Ever Games Company
+Milton Bradley Co.
+M / K Productions
+K. Amusement Leasing Co.
+Sai-Mate
+Karoshi Corporation
+Storm Computers Ltd.
+Internecine
+RAW Simulations
+Fireglow Games
+ADI Development Inc.
+iROCK Games
+Micro World
+SierraVenture
+The Public Domain Exchange
+Kraisoft Entertainment
+Synapse Software Corporation
+Elektrogames Limited Company
+Nobilis Ibérica
+SCEE Studio Liverpool
+Whoopee Camp
+Oxford Softworks
+Amazing Media
+MicroLeague Sports Association
+Sapient Gaming
+Epic Marketing
+CineTech
+IVI Publishing, Inc.
+ASCARON Entertainment UK Ltd.
+Creative Edge Software
+Phoenix Games B.V.
+Mud Duck Productions
+Binary Asylum
+Tron Software
+Himeya Soft, Inc
+Housemarque
+Season Ticket Productions
+Mylstar Electronics, Inc.
+Microsmiths, Inc.
+Bits Studios Ltd.
+Makh-Shevet
+Idol FX AB
+Ultrasoft, Inc.
+Ariolasoft
+2WG Media, Inc.
+Shockwave Productions Inc.
+Best Way
+CoGS: Digital Amusements
+Graphic Simulations Corporation
+Rogue Entertainment
+Troika Games L.L.C.
+Appeal S.A.
+Electrocoin
+Artech Digital Entertainments, Inc.
+Tsunami Games
+iMagic Labs
+Zoë Mode
+Marcolosoftwares
+Rushware
+Nuclear Games, LLC
+Superior Software
+reLINE Software
+Villa Crespo Software
+Canal+Multimédia
+Novagen Software Ltd
+Verkosoft Publishing
+Five Stars VG Studio
+Gray Matter Interactive Studios, Inc.
+Threewave Software Inc.
+Mutant Productions
+Sierra-Coktel Deutschland
+Sierra-Coktel Espana
+Spotlight Software
+AEC Software
+Cavedog Entertainment
+Konami Computer Entertainment Japan, Inc.
+Black Lantern Studios, Inc.
+Lomax Software
+Trigger Soft
+JC Research
+CTSP Games
+Blitwise Productions
+Kojima Productions
+ScottTown Software
+Artech Digital Productions
+HeadGames Publishing, Inc.
+Diversions Software, Inc
+Softstar Entertainment Inc.
+Oberon Games, Inc.
+NevoSoft
+Puzzlekings
+GameBank Corp.
+Intermediaware
+Infernal Byte Systems
+Abel Inc.
+INTV
+Megadodo Software
+Access co., ltd.
+Yano Electric Co., Ltd.
+Soft Edge Inc.
+Virtual Programming Ltd.
+Dagger Interactive Technologies, Ltd.
+Mixx Entertainment
+Headroom
+Metro3D, Inc.
+Full Fat Productions Ltd.
+Magic Soft
+Personal Software Services
+House of Tales Entertainment GmbH
+Dreamer's Guild, The
+Amoeba Software
+Big Top Productions
+TOM Productions
+Knowledge Adventure, Inc.
+Pryority Software
+M.C. Lothlorien
+Gamesauce
+Texas Instruments
+Chivalry Software, Inc.
+Albino Frog Software
+Metro Graphics
+Lionsoft Amatorial Development
+Razorback Developments Ltd
+Mechadeus
+Enigma Variations Ltd.
+Educational Simulations
+IntelliCreations, Inc.
+VIS entertainment plc
+VIS entertainment ltd
+Casio Co. Ltd.
+MegaSoft Entertainment, Inc.
+Software Values International, Inc.
+Dennis Publishing
+Riedel Software Productions, Inc.
+Lead Dog Software
+Quantic Dream
+Commodore
+Creative Materials
+Improvisation ManyMedia
+Item Multimedia, Ltd.
+EAI Interactive
+Amaze Entertainment, Inc.
+Idea Factory
+Eugen Systems
+Viable Software Alternatives
+Quest Corporation
+Kattmann Publishing
+Teque Software Development Ltd.
+Argus Press Software Ltd.
+Cable Software, Ltd.
+Novell
+Telstar Electronic Studios Ltd.
+Games Workshop Ltd.
+Bug-Byte Software Ltd.
+American Laser Games, Inc.
+Openbook Ltd.
+Tonka Corp.
+DE Act Team
+Lego Media
+Flipside Ltd.
+Next Level Games, Inc.
+Dice Creative
+Switchsoft
+G-mode, Inc.
+O2Media
+K.E. Media
+Panini Group
+ApeZone
+Scholastic, Inc.
+Thinking Rabbit
+God Games
+Polyphony Digital Inc.
+Thalion Software
+Takeru
+Remedy Entertainment Ltd.
+Yamikumo Communications
+AKI USA, Inc.
+Pixel Painters Corporation
+Enlight Software Ltd.
+Enlight Interactive Inc.
+Dartmoor Softworks
+Lightwave Consultants
+Milky House
+Tachyon Studios Inc.
+Load'N'Go Software
+Stosser Software
+Mystique
+Daydream Software
+Green Valley Publishing
+All American Adventures
+GolemLabs
+Moonpod
+Foxy Soft
+Magic Productions
+Logical Relations
+Orion Software, Inc.
+Typhoon
+BB France
+Halifax S.R.L.
+GSC World Publishing
+Balance Games
+Riverhill Software Inc.
+DreamCatcher Europe SA
+Warp Factory, The
+Luxoflux Corp.
+HammerHead Ltd.
+Pi Studios, LLC.
+ATVI France SARL
+Runecraft, Ltd.
+HotGen Ltd.
+GAGA Communications Inc.
+Ion Storm Inc.
+Boston Animation, Inc.
+Ripcord Games
+Cyberdreams, Inc.
+FastTrak Software Publishing Ltd.
+ClearWater Interactive
+Microforum
+Z-Logics Development
+Creative Multimedia Corporation
+Fun Labs
+Scavenger, Inc.
+MTO Co., Ltd.
+Edmark Corporation
+JAKKS Pacific, Inc
+Lab Rats
+InterAction studios
+Sterling Silver Software
+Chip
+Greenwood Entertainment
+Nippon Dexter Co., Ltd.
+Creative Software Designs, inc.
+SUZAK Inc.
+Noise
+Probe Entertainment
+Vicious Cycle Software, Inc.
+Panther Games
+Tommy's Toys
+Pixelmusement
+Altron Corporation
+Pacific Coast Power & Light
+3VR, Inc.
+Game Refuge Inc.
+Jagex Ltd.
+Interphase Technologies Inc.
+Spinnaker Software Corporation
+Stepping Stone Software
+Expert Software, Inc.
+U.S. Games
+Hitmaker
+Heart Beat
+HB Studios
+Event Horizon Software, Inc.
+Brownie Brown Co. Ltd.
+Skyworks Interactive
+LJN
+Patch Products
+Perpetual Motion Enterprises, Inc.
+Zombie Studios
+Zeta Multimedia S.A.
+Red Ant Enterprises Pty Ltd.
+Gramis
+Miniclip Limited
+Artic Computing
+49Games GmbH
+2K Sports
+Ybarra Productions
+Media.Vision Entertainment Inc.
+DTF Games
+Krobon Station
+Electronic Arts Victor
+Sanoma Magazines Finland
+LanguageArts
+Jocke The Beast
+Mitchell Corporation
+Amwa (HK) Computer Co.
+Aeon Electronic Entertainment, Inc.
+Fube Industries Ltd.
+Westone Co. Ltd.
+Magic Lantern
+Gamevil Inc.
+Raven Software
+Alligata Software Ltd.
+Treasure
+High Score Productions
+G5 Software
+4Play/ScatoLogic
+Kewlbox
+Intense! Interactive, Inc.
+Binary Spells Industries
+dtp young entertainment GmbH & Co. KG
+MacRun Games
+Sirius Software, Inc.
+Keen Games GmbH
+Virgin Lands
+Sega AM3 R&D Division
+Bit Corp
+Samourai
+Queen Soft
+Ganbarion Co., Ltd.
+Genesis Software
+Romantic Robot
+Devonshire House
+Particle Systems Ltd.
+X-bow Software
+Brigades
+Tec Toy Mobile
+True Emotions Software
+Visions (Software Factory) Ltd.
+IntraCorp, Inc.
+First Row Software Publishing, Inc.
+Three Rivers Software
+Alpha Denshi Co., Ltd.
+D4 Enterprise, Inc.
+Houghton Mifflin Interactive
+Red Hill Studios
+Living Books
+FTL Games
+Winds Co., Ltd.
+Relic Entertainment
+G-Collections
+Zerocool
+Newtopia Planning
+Interactive Girls Club
+Pivotal Games Ltd.
+Digital Horizons
+GTE Entertainment
+Second Vision
+Big Blue Box Studios
+Idea Software
+Sixteen Tons Entertainment
+Romik Software Ltd
+Sammy Entertainment Inc.
+Electro-Brain
+Imagineering Inc.
+SCE Studios San Diego
+Plex
+Etranges Libellules
+Pandemic Studios
+Silverbird Software Ltd.
+Sysoft
+California Dreams
+Magic Partners
+Paragon Publishing
+Cyclone Studios
+Ford Motor Company
+SoftAd Group, The
+Marvelous
+Laminar Research
+Sandlot Games
+Ares Interactive
+Wizard Video Games
+BrainGrey
+Deibus Studios Ltd.
+Razorworks
+Starbreeze Studios AB
+Conspiracy Games
+MicroStyle
+Press Start Inc
+Team Ninja
+LiveMedia UK
+Casady & Greene
+Gizmondo Games
+AI Factory Limited
+Mobile21 Co., Ltd.
+Video System Co., Ltd.
+McO'River
+Red Orb Entertainment
+Victor
+Cinematix Studios, Inc.
+Mastiff, LLC
+Crimson
+Acclaim Studios Teesside
+Eden Studios
+Dallas Multimedia
+MEGA Enterprise Co., Ltd.
+Evryware
+Nucleosys
+Norbyte
+XPEC Entertainment Inc.
+NEC Technologies, Inc.
+Manley & Associates, Inc.
+Small Rockets
+Ma-Ba
+Angel
+L.K. Avalon
+AK Software
+Egmont Interactive
+TetraEdge Games
+FireFly Studios Ltd.
+Bits Laboratory
+Turbo Technologies, Inc.
+Capstone Software
+Microvalue
+E-Pie Games
+Hesware
+Digital Image Design Ltd.
+Wesson International
+KDT Industries Inc.
+Tiger Electronics, Inc.
+Mattel Media
+Digital Domain
+InSide Team
+Moulinsart Multimedia
+PF Magic
+Exidy, Inc.
+Froggman
+Sage's Creation, Inc.
+Opera House
+Light Shock Software s.n.c.
+Silicon Beach Software, Inc.
+Destination Software, Inc.
+Engine Software B.V.
+PMP Software
+Denda Multimedia
+GCE
+Riot
+Direct Action Games
+Bothtech, Inc.
+NEC Avenue, Ltd.
+index+
+Digital Fantasia
+Ghostlight Ltd.
+Freeverse, Inc.
+Nival, Inc.
+Ubisoft Italia
+Frontier Groove, Inc.
+PC-SIG
+MVP Software
+Marvelous Interactive
+Smoking Gun Productions
+Information Global Service
+Micronet Co. Ltd.
+Holocronet
+Eaglesoft
+The Bytebusters
+SOUNDBOSS games
+Xpiral
+AWE Productions, Inc.
+Blitz Games Studios
+AcademySoft
+Orange Software
+Homegrown Games
+Lore Games Ltd.
+BreakAway Games Ltd.
+Five Ways Software
+Ed Magnin and Associates
+Motorsims
+In-Fusio
+Unreal Voodoo
+Inland Productions, Inc.
+Poppy Soft
+Jarhead Games Inc.
+Cygnus Software Inc.
+InterQuest Productions
+Level-5 Inc.
+Electric Dreams Software
+Varie
+Digitalo Studios, Inc.
+ARUSH Entertainment
+Sanctuary Woods, Inc.
+Radiola
+Cactus Software
+Sunrise Software, Inc.
+VSS, Inc.
+SystemSoft Alpha
+Amsoft
+The English Software Company
+Dynamics Marketing
+Datamost, Inc.
+Pellenc Software
+Tiertex Design Studios
+EA Black Box
+Zippo Games
+Mirror Images Software, Inc.
+Sting Entertainment
+Automata UK
+Creatures, Inc.
+Positive
+InterActive Vision Games
+Rainbow Arts Software
+Human Head Studios, Inc.
+Kinesoft Software
+Adventure International
+Micro Star
+Tec Toy S.A.
+Sleepless Knights
+PCCW Japan
+Rideon Incorporated
+NTVIC
+Innerloop Studios
+Waywardxs Entertainment S.R.L.
+Americana Software Limited
+JV Games, Inc.
+Gearbox Software LLC
+Gargoyle Games
+Silversoft
+Channel 8 Software
+Climax Entertainment
+Slurpysoft
+GSC Game World
+Tandy Corporation
+Trainwreck Studios
+Hitmen Productions
+Black Pearl Software
+Hi-Score Media Work
+NEXOFT Corporation
+Anne Carrière Multimedia
+Selectsoft Publishing
+Merit Software
+Linel
+Cinemaware
+H2O Entertainment
+ARI Data CD GmbH
+twinbits entertainment
+JAST USA
+JAST Co., Ltd.
+Dragonfly Game Design, LLC
+Oberon Media, Inc.
+PoBros Inc
+XOR Corporation
+Mandarin Software
+Gas Powered Games
+Datam Polystar
+Sweet Basil
+Challenge Software
+Astros Productions
+The Kremlin
+Atlam Toys
+Philips Media France
+Top Ten
+Ignition Banbury
+Playmates Interactive Entertainment, Inc.
+CLICK Entertainment
+Retrodesign
+Elf Co., Ltd.
+Opus Corp.
+Technopop, Inc.
+Zyrinx
+MindSpan
+Columbia Data Products
+Toys for Bob
+Infinite Machine
+CyberConnect2 Co., Ltd.
+Fluid Studios
+Ubisoft Montreal Studios
+Parallax Software Corp.
+Anarchy Entertainment
+Media Research Group
+Driver-Inter, Ltd.
+Tom Mix
+The Edge
+Softek
+Xatrix Entertainment, Inc.
+Dragon Data Ltd.
+Spectral Associates
+Panasonic Interactive Media
+Micro Cabin Co.
+Free Spirit
+David A. Palmer Productions
+MumboJumbo, LLC
+Reflexive Entertainment Inc.
+P.O.F. Corporation
+Aspect Co. Ltd.
+Paul Burgin Software
+Precision Software Applications
+Philos Laboratories
+LSP Games
+uclick, LLC
+Playtonium
+Acclaim Studios Austin
+Tamsoft Corporation
+Brighter Minds Media, Inc.
+Finite Monkeys, Inc.
+Electric Software Limited
+Terminal Reality, Inc.
+Infinity Ward
+American Videogame
+Tilted Mill Entertainment
+Dekovir Entertainment
+90° Winkel
+VCC Entertainment GmbH & Co. KG
+Sullivan Bluth Interactive Media, Inc.
+Magicom Multimedia Corp.
+Big Time Software, Inc.
+Obsidian Entertainment
+IQ Media Nordic
+TATI Mixedia
+Malmberg
+UserJoy Technology Co. Ltd.
+Overworks
+Amaranth Productions
+Blue Arrow, Inc.
+Argonaut Games
+Retro Studios
+divot
+On-Line Systems
+Aventuras AD
+ValuSoft, Inc.
+Third Law Interactive
+TimeGate Studios, Inc.
+Red Storm Entertainment, Inc.
+Smart Games, Inc.
+Shine Studio
+Capcom Production Studio 4
+Sunshine Books
+Bovine Software
+Capcom Production Studio 2
+Working Designs
+Treyarch
+Baudville
+JAM software
+Games Magnet Ltd.
+Commodore Electronics Ltd.
+Rockstar New England
+Soft Club
+MDNA games
+MFORMA Group Inc.
+The Mighty Troglodytes
+Vic Tokai Corporation
+Cinematronics
+Alternative Software Ltd.
+Clockwize Software Developments
+Celery Software
+Eighty Dimensional Software, Inc.
+Fantastic Four
+Clap Hanz Ltd.
+Playrix Entertainment
+Pers' Wastaiset Produktiot
+Uptime Disk Monthly
+Capitol Ideas Software
+Pipe Dream Interactive
+Semi Logic Entertainments, Inc.
+Killer Game
+Microplay Software
+Firebird Software Ltd.
+Wisdom Tree, Inc.
+Iron Will Games
+TKO Software
+HD Interactive
+Santa Cruz Games
+Ikarion Software GmbH
+Teque London Ltd.
+Grolier Interactive
+Key Game
+Newsfield
+Centuri, Inc.
+Adventure International (UK)
+JAM Productions
+Player1
+Kingsoft Corp.
+Aqua Pacific Ltd.
+Black Element Software
+G.rev Ltd.
+Bandai Games Inc.
+Realtime Games Software Ltd.
+2.99 Classics
+Neversoft Entertainment
+Zemina Co.
+Bluemoon Interactive
+Mass Tael Ltd.
+Americana software
+RCS - Rizzoli New Media
+Bedroom Studios
+Parsoft Interactive
+BrainGame Publishing, GmbH
+ZEAL GmbH
+Plato
+Wolfpack Studios Inc.
+Linux Game Publishing Ltd.
+Slingshot Game Technology
+On Deck Interactive
+New Media Generation
+Craftpath Software
+3000AD, Inc.
+Fountainhead Entertainment, Inc.
+Monster Games, Inc.
+Warashi
+Riverdeep Interactive Learning Limited
+Oldfield Interactive Ltd.
+BASS Software
+TOSE Co., Ltd.
+Ocean Europe Limited
+Arkane Studios SA
+Kuju Entertainment Ltd.
+Rockstar North
+Rockstar Lincoln
+iFone
+Psion Software Ltd.
+Atomic Planet Entertainment Limited
+Horrorsoft
+Kuju Surrey
+Discovery Channel Multimedia
+Human Code, Inc.
+Game Square Interactive Co., Ltd.
+Sega AM9 R&D Division
+Interactive Studios
+Bits of Magic
+Epsited SA
+Coresoft, Inc.
+Sony Music Entertainment (Japan), Inc.
+Black Bean
+Ultra Games
+Sega Technical Institute
+Addictive 247
+Hurtownia Oprogramowania USER
+DeLyric Games
+TLC Multimedia LLC
+EA Los Angeles
+Quantum Factory, Inc
+Bandai America, Inc.
+CI Games
+Insomniac Games
+Llamasoft Ltd.
+Idigicon Limited
+Valve Corporation
+QI Creations
+Merscom LLC
+Punchline
+Macmillan Ltd.
+Delta 4 Interactive
+Konami Software Shanghai, Inc.
+Med Systems
+Digital Zero Inc.
+Private Moon Studios
+Rebel Act Studios
+Paradox Interactive AB
+Chaos Concept
+Ensemble Studios
+Vivid Image
+Mass Media, Inc.
+Iber Soft
+Vision Software
+Cosmi Corporation
+SoftServ, Inc.
+Walt Disney Computer Software, Inc.
+Grundislav Games
+Realtime Associates, Inc.
+Terra Nova Development
+Wyrmkeep Entertainment Co
+Scubb.com B.V.
+Cypron Studios
+Soar Software
+Impressions
+Golden Sector
+Keypunch Software, Inc.
+Starsoft Development Laboratories
+3D Ages
+NuFX, Inc.
+Vingt-et-un Systems
+Postlinear Entertainment
+Megaware Multimedia B.V.
+Lankhor
+Skinflake
+Motion Picture House
+Charybdis Limited
+Sphere, Inc.
+DragonWorks Interactive
+Production I.G, Inc.
+Saffire Corporation
+Generation Stars
+Crawfish Interactive
+Tomy
+Funnybone Interactive
+Chris Sawyer Productions
+Just Flight
+Dejavu Worlds
+Got Game Entertainment, LLC
+Project Three Interactive BV
+Midway Studios Newcastle
+Icon Design Ltd.
+Jeff Tunnell Productions
+Artoon Co., Ltd.
+DTMC, Inc.
+Motivetime Ltd.
+Asmik Corp. of America
+Asmik Corporation
+Disney Interactive
+Acclaim Studios Salt Lake City
+Diamond Mind
+Creative Software
+Sea Dog
+Playlogic International N.V.
+HPS Simulations
+ChamProgramming Corporation
+Soliton Soft
+Erbe Software, S.A.
+DigiTek Software
+EA Phenomic
+Compton's New Media
+Tiger Media
+Big Fish Games
+Encore, Inc.
+Infocom
+Magnetic Scrolls
+Visco Corporation
+Romstar Incorporated
+Imagine Software
+Binary Systems
+Cubiform Games Lab.
+Proporta
+Yadabyte
+Matsushita Electric Corporation of America (Panasonic)
+GameTek UK Ltd.
+Bomico Entertainment Software
+Groove Games
+Southlogic Studios
+GameTap
+GSP
+Kemco
+Flagship Co., Ltd.
+Vic Tokai Europe Ltd.
+Divide By Zero, Ltd.
+System 3 Software, Ltd.
+Kaiko
+GO!
+Omega Force
+Mindware Limited
+Runesoft GmbH
+DECK13 Interactive GmbH
+bhv Software GmbH & Co. KG
+XIDER
+Take 2 España
+GameHouse, Inc.
+Puzzle Lab
+Humming Bird Soft
+Indiagames Ltd.
+Studio Tara
+FormGen, Inc.
+SE Software
+Nevrax SARL
+Pack-In-Video Co., Ltd
+Ashby Computers and Graphics Ltd.
+Freeloader
+Dawn Interactive, The
+Softeyes
+Monolith Software, Inc.
+MacSoft
+International Computer Entertainment Ltd.
+ArtGame
+Ascon GmbH
+ASCARON Entertainment GmbH
+Kodiak Interactive Software Studios, Inc.
+Lemon Interactive Sp. z o.o.
+Arcadia Systems, Inc.
+Eleven/Gavaking Co. Ltd.
+AM Factory
+Ablaze Entertainment
+Falke Verlag
+Artronic Limited
+WizKids Games
+Random Games
+Marionette Co., Ltd.
+Fujisankei Communications International Inc.
+1C: Maddox Games
+Thalamus
+ICOM Simulations, Inc.
+Victor Entertainment
+Transposia
+Larian Studios
+SG Diffusion
+Domark Software Ltd.
+Headstrong Games
+Apollo, Inc.
+Human Entertainment, Inc.
+Anco Software Ltd.
+B-Factory
+Viacom New Media
+Valkyrie Studios
+Amnesty Design
+CING, Inc.
+Winter Wolves Studio
+ColdFusion
+Digi4Fun Corp.
+Champion Soft
+Hip Interactive Corp.
+Mad Data
+Liquid Dezign HB
+Unique Development Studios Sweden
+Ambrella
+Rockstar Games
+Angel Studios
+Domark Group Ltd.
+SouthPeak Interactive, LLC
+Asmik Ace Entertainment, Inc.
+Camerica
+Idol Minds L.L.C.
+Nathan Sorenson Inc.
+Digital Learning Systems, Inc.
+Loriciel
+RTL Enterprises GmbH
+Silver Style Entertainment e.K.
+Blue Byte Software
+Windham Classics
+Tom Snyder Productions, Inc.
+CD Projekt Sp. z o.o.
+Blizzard North
+Fathom Pictures, Inc.
+Quality Software
+Cenega Publishing, s.r.o.
+Mithis Entertainment
+Universal Co., Ltd.
+MicroDeal
+BitFusion Virtual Realities
+Union Logic Software Publishing, Inc.
+Six Pound Sledge Studios
+Venture Line, Inc.
+Magnavox
+Hasbro Interactive GmbH
+Leaping Lizard Software, Inc.
+Simulations Canada
+Velez & Dubail
+XDGames
+NetBridge
+C's Ware
+Dungeon Dwellers Design
+Indescomp
+Quicksilva Ltd.
+Investronica
+Gathering of Developers
+A Few Screws Loose, LC
+14° East
+Graftgold Ltd.
+Toho Company Ltd.
+PCA Inc.
+Newcom Co., Ltd.
+Mattel Interactive
+Mythos Software, Inc.
+Polarware / Penguin Software, Inc.
+Seismic Software Inc.
+Power Computing Ltd.
+SCEE Studio Soho
+Milestone s.r.l.
+Transmission Games
+Hewson Consultants Ltd.
+RazorSoft, Inc.
+Telcogames Ltd.
+Zipper Interactive
+Cyanide Studio
+Atoll Soft
+Puntosoft
+dtp digital tainment pool GmbH
+Digital Jesters Ltd.
+The Game Factory ApS
+Neko Entertainment
+CutlerCreative, LLC
+Planetwide Games
+Gamasoft
+Pointsoft GmbH
+Grubby Games
+Tri Synergy, Inc.
+Creative Edge Studios, Inc.
+Destroyer Studios
+Aicom Corporation
+Sybex Inc
+Thunder Mountain
+Deep Water
+Abalone
+The Code Monkeys Ltd.
+Péndulo Studios, S.L.
+Crimson Cow
+FX Interactive
+MediaMix Benelux
+Artech Studios
+Fantasy Productions Verlags- und Medienvertriebsgesellschaft mbH
+Soft Pro
+APh Technological Consulting
+Sunflowers Interactive Entertainment Software GmbH
+ND GAMES
+Quest Microsoftware
+Wrebbit
+DYAD Digital Studios
+Frontier Developments Ltd.
+Park Place Productions
+Tactical Design Group
+Sigma Ent. Inc.
+Peach Princess
+Crowd
+Kloonigames
+EuroPress Software
+Pixelkraft
+Blizzard Entertainment
+Studio 3DO
+Nerve Software, LLC
+Krysalide
+Kidsoft
+Lawrence Productions
+Kixx
+Concrete Software, Inc.
+Kyodai Software Marketing, Inc.
+Riversoft
+Tale of Tales BVBA
+Creative Reality
+Denver Software Development Company
+Electronic Zoo
+Doodlebug Designs Ltd.
+Starpath Corporation
+Stardock Corporation
+Winky Soft
+Blue Dojo Studios
+Topo Soft
+Buzz Monkey Software, LLC
+Nival Interactive LLC
+Magnussoft Deutschland GmbH
+Darkage Software
+Longman Group Ltd.
+Gem Software
+369 Interactive
+Platinumware
+Mandingo Entertainment
+Motown Software
+American Sammy Corporation
+Acid Software
+Carnell Software
+Web Production, The
+Lannoo Nieuwe Media
+Zen Room, The
+Salio, Inc.
+Lumis Studios, Inc.
+Humongous Entertainment
+Black Ops Entertainment
+Interactive Magic
+Zellers
+Velocity Inc.
+Cybersoft, Inc.
+Capcom Studio 8
+Sierra
+Micromosaics
+Storm
+Jaleco Ltd.
+ITE ApS
+Kiloo ApS
+Stone House Productions
+NA.P.S. Team
+Bridge Publications, Inc.
+Funatics Software GmbH
+Xicat Interactive, Inc.
+Taxan
+Bits Productions
+NAVIGO Multimedia
+oP Group (Oehler & Partner Computer Creations & Virtuality)
+Xing-Xing
+Sims Co., Ltd.
+Apeiron
+Elkware GmbH
+Chromatrix GmbH
+Magic Bytes
+eleven Software
+Big Time Games, Inc.
+Headgate Studios Inc.
+Copysoft
+Deep Silver Volition, Inc.
+Hot-B Co., Ltd.
+Another Ltd.
+Fusion Digital Games
+Gu, Inc.
+Konami Computer Entertainment Osaka Co., Ltd.
+Software Studios
+Source the Software House Ltd.
+GlenHills Graphics Co.
+Silicon Knights, Inc.
+Imaginative Illusions Sdn. Bhd.
+Sony Computer Entertainment Incorporated
+Matrix Games
+Just Play
+I-Play
+Bugbear Entertainment Ltd.
+Grandslam Entertainment
+Cartoon Time
+Backbone Entertainment
+The Learning Company
+ImaginEngine Corp.
+Chunsoft
+Soft Dorothy
+Computers Communications & Visions
+Totally Screwed Software
+Monsterland Production
+4-Mation Educational Resources
+MacPlay
+Hexacto Games Inc.
+Hard & Software
+Spiderweb Software
+MP Games
+Ixis Research, Ltd.
+HitSoft
+Merit Studios, Inc.
+Songbird Productions
+Visual Impact
+Suicidal Entertainment
+Simulated Environment Systems
+Avalanche Software LLC
+Backbone Vancouver
+HEUREKA-Klett Softwareverlag GmbH
+VideoBionics
+Piranha Games
+Danger
+DigiFX Interactive, Inc.
+Mindcraft Software, Inc.
+Creative Asylum Limited
+Comgame 576 Ltd.
+Iridon Interactive AB
+KOCH Media Deutschland GmbH
+Friendware
+Play Publishing
+XS Games, LLC
+Mad Mouse Games
+U-Neek Software
+Activision Value Publishing, Inc.
+Gunnar Games, Inc.
+GOAT Store, LLC, The
+HarmlessLion
+Crystal Dynamics, Inc.
+Sirtech Canada Ltd.
+Palcom Software Ltd.
+4HEAD Studios
+Clancy Interactive Entertainment
+Condor Software
+Konami Computer Entertainment Hawaii, Inc.
+Mac Joy
+Arcade Lab
+Blade Interactive Studios Ltd.
+Hi-Tech Expressions, Inc.
+Sinclair Research Ltd.
+Mikro-Gen
+Pony Canyon, Inc.
+Carapace
+Nintendo R&D1
+A1 Games
+Amedio Co., Ltd.
+Redwood Games
+Aksys Games
+Sony Online Entertainment
+Eutechnyx Limited
+Arxel Tribe
+Apocalyptic Coders
+Western Technologies Inc.
+Haxoft
+Mistigris
+Ubisoft Reflections
+Datasoft, Inc.
+Atlantean Interactive Games
+electric fantasies
+ASC Games
+Gray Matter
+LTI Gray Matter
+EJSoft
+Radical Poesis Games & Creations
+Sears, Roebuck and Co.
+Sandbird Software
+SingleTrac Entertainment Technologies, Inc.
+Compile
+R/Greenberg Associates Interactive
+Konami Digital Entertainment GmbH
+Epyx, Inc.
+Novotrade International
+American Video Entertainment
+Milmar Indústria e Comércio Ltda.
+Amazing Studio
+D3 Publisher Inc.
+Noviy Disk
+Clever's Games Ltd.
+Techland Sp. z o.o.
+Pangea Software, Inc.
+Ideas From the Deep
+Sunstorm Interactive, Inc.
+Visual Concepts
+Intent Software GmbH & Co. KG
+Barnhouse Effect Co., Ltd
+Conspiracy Entertainment  Corp.
+JoWood Ebensee
+Macmillan Digital Publishing USA
+Nobilis France
+Media Sales & Licensing
+Anvil-Soft
+MECC
+Lionhead Studios Ltd.
+Psyclapse
+Papyrus Design Group, Inc.
+Spectravision
+Cat Daddy Games, LLC
+Ellicott Creek
+Naxat Soft
+KID Corp.
+Masterplay Publishing Corporation
+MasterPlay
+KnowWonder, Inc.
+KD Vision
+Titan Computer GbR
+Monolith Productions, Inc.
+MC2-Microïds
+WRF Studios
+Gamestar
+Helixe
+Nihon Falcom Corp.
+ScriptArts Co., Ltd.
+Yanoman Corporation
+Japan Art Media
+Sammy Studios, Inc.
+Enterbrain, Inc.
+Bigben Interactive GmbH
+Hand Made Software, Ltd.
+Illusion Softworks, a.s.
+Onefog Games
+Konami Computer Entertainment Kobe, Inc.
+Pioneer LDC
+TikGames, LLC
+Alice Soft
+Beau Jolly
+RedWolf Design
+Crazy Hermit Games
+Midas Interactive Entertainment Ltd
+Black Market Games
+Xantera
+Alivesoft
+Animagic S.A.
+Dome Software Developments, The
+Polygames
+GirlGames Inc.
+Razor Entertainment
+ArcMedia.com Inc.
+Windmill Software
+Exolt Software
+Naughty Dog, Inc.
+Bandai S.A.
+Interceptor Micros
+Interceptor Software
+Konami Computer Entertainment Tokyo
+Jane's Combat Simulations
+Virtucraft, LTD
+Success Corp.
+DreamWorks Interactive L.L.C.
+Atari Program Exchange
+Nordmende
+Fairchild Camera and Instrument Corp.
+ITT
+Saba
+Luxor
+AW Software
+Realore Studios
+Rainbird Software
+Free Fall Associates
+ASCII Corporation
+Bullet-Proof Software, Inc.
+Bridgestone Multimedia Group
+Paradigm Entertainment Inc.
+Microïds
+Parker Brothers
+Berkeley Systems
+NCS Corporation
+Interactive Binary Illusions
+Atari Games
+Lexis Numérique
+Cyberlore Studios, Inc.
+Red Marble Games
+Nurium Games
+Boku Strategy Games
+Blade Software Ltd.
+Target Games
+Jester Interactive Publishing
+Sonic Team
+Media Works Inc.
+Glodia
+Logicware, Inc.
+Bethesda Softworks
+Sentient Software
+Software Projects Ltd.
+Spectrum Holobyte, Inc.
+Zig Zag Software
+Mirrorsoft Ltd.
+Choice Software
+Lighthouse Interactive Game Publishing BV
+ClockStone Softwareentwicklung GmbH
+StreamworldDesign
+Play Ten Interactive
+Intelligent Design Ltd.
+Mallard Software
+Bruce Artwick Organization Ltd., The
+Martech
+Tapwave, Inc.
+Forest
+Silver Creek Entertainment
+neo Software Produktions GmbH
+7th Level, Inc.
+UTV Ignition Entertainment
+FromSoftware, Inc.
+ASCII Entertainment Software, Inc.
+tri-Ace Inc.
+HAL Laboratory, Inc.
+Aackosoft International BV
+Al Alamiah
+Microtime
+Team Silent
+Spellbound Studios
+Spellbound Entertainment AG
+HipSoft LLC
+Tengen
+Gameloft S.A.
+Sensible Software
+Corel Corporation
+Kutoka Interactive Inc
+Red Rat Software Ltd
+Acquire
+Nokia
+RedLynx Ltd
+Palace Software, LTD.
+Delphine Software International
+Shiny Entertainment, Inc.
+FASA Studio
+Avalon Hill
+Microcomputer Games, Inc.
+Scorpio Gamesworld
+Attic Entertainment Software GmbH
+People Can Fly
+Softmax Co., Ltd.
+Renovation Products, Inc.
+PlayFirst, Inc.
+Avantage Software
+First Star Software, Inc.
+Heavy Iron Studios
+Ertain Corporation
+Nature Boy Software
+MicroLeague
+Destiny Software Productions, Inc.
+Focus Home Interactive
+Frogwares Game Development Studio
+SEGA Interactive Development Division
+Kotobuki System Co., Ltd.
+Boss Game Studios Inc.
+Enkord
+Bizarre Creations
+syn Sophia
+AxySoft
+Nitro Games, Inc.
+Funsoft
+Kyugo Boueki
+Legend Studios SL
+Capcom Production Studio 1
+Westlotto
+phenomedia publishing gmbh
+Oxford Digital Enterprises Ltd.
+Beyond Belief
+Red Entertainment Corporation
+Spidersoft Limited
+Frames
+Thunderbear Software
+Zsoft
+TDK Mediactive, Inc.
+Cauldron Ltd.
+Nowpro
+WildTangent, Inc.
+CGE Services Corporation
+21st Century Entertainment Ltd.
+Team TNT
+SCi Games Ltd.
+Yutaka
+Atelier Double
+Interchannel, Ltd.
+ERE Informatique
+Denton Designs
+Dentons
+Simis Limited
+Imposter, The
+Team17 Software Limited
+Feral Interactive
+Absolute Entertainment
+Codeblender Software
+Clockwork Games Limited
+Fenris Wolf Ltd.
+Computer Systems Odessa Corp.
+Black Dragon Publishing, Inc.
+PC Aviator Inc.
+AEROSOFT Corporation
+DreamCatcher Interactive Inc.
+Earthlight Productions Inc.
+Nordic Softsales AB
+Disney Software
+Skip, Ltd.
+Monte Cristo Multimedia
+Deep Red Games Ltd.
+Eidos Interactive
+Eclipse Software
+CDV Software Entertainment AG
+Black Label Games
+Computer Artworks Ltd.
+Novalicious
+Toolbox Design Ltd.
+Konami Digital Entertainment, Inc.
+Harmonix Music Systems, Inc.
+Q-Games Ltd.
+Otaku Publishing, Ltd.
+Soleau Software
+Vic Tokai, Inc.
+LucasArts Entertainment Company LLC
+NovaLogic, Inc.
+Global Software Publishing Limited
+Studio Gigante
+Starship Software
+Compulogical
+Yavsoft
+Running With Scissors
+House of Moves, Inc.
+GT Interactive Software Europe Ltd.
+Ballistic
+ZapSpot
+Black Legend Ltd.
+Talking Birds
+Fiendish Games
+InFluid Software
+Legend Software
+Gebelli Software, Inc.
+D&H Games
+Ubisoft Shanghai Studios
+Ubisoft Milan Studio
+Nippon Ichi Software Inc.
+NIS America, Inc.
+Egosoft
+STV Software
+G-Stars
+DK Games
+GOST Publishing
+Eolith Co., Ltd.
+SNK Playmore
+North American Philips Consumer Electronics Corp.
+Philips do Brasil Ltda.
+Shall Luck
+Telenet Japan Co., Ltd.
+Shin-Nihon Laser Soft Co., Ltd.
+Edicola
+Taskset Ltd.
+Media Factory Inc.
+Wizards of the Coast, Inc.
+Syrox Developments, Ltd.
+Sacis
+Dynabyte
+Access Software, Inc.
+ShareData, Inc.
+I.J.E., Inc.
+Totally Games, Inc.
+Studio 3 Interactive
+Wow Entertainment, Inc.
+eGames, Inc.
+Fanda
+Xonox
+Vulcan Software Limited
+Phoenix Interactive Entertainment
+ANACONDA
+Funcom Productions A/S
+Frogster Interactive Pictures AG
+MOSS
+Seibu Kaihatsu Inc.
+CyberFront Corporation
+Interplay Entertainment Corp.
+Sales Curve Ltd., The
+Seika Corporation
+Sammy Corporation
+Arc System Works Co., Ltd.
+Ubisoft Annecy Studios
+Micromega
+ABC Soft
+Mucky Foot Productions Limited
+subLOGIC
+Jupiter Corp.
+Millennium Interactive Ltd.
+Vectordean Ltd.
+Play It Ltd
+Valcon Games LLC
+American Softworks Corporation
+Atari SA
+High Voltage Software, Inc.
+Digital-Muses.Com
+Godly Games
+Bullfrog Productions, Ltd.
+Introversion Software Limited
+Purple Hills
+Ambrosia Software, Inc.
+Silmarils
+Software 2000
+BAM! Entertainment, Inc.
+Intelligent Games, Ltd.
+Takumi Corporation
+Static X Studio
+SSG Strategic Studies Group Pty Ltd.
+Hasbro Interactive, Inc.
+Digital Eclipse Software, Inc.
+Crystal Interactive, Inc.
+Impact Magazines
+Addictive Games
+Longbow Games
+Akaei plc
+Angelsoft, Inc.
+Delta Tao Software
+Vicarious Visions
+Playful Minds
+Legacy Interactive Inc.
+Animax Entertainment
+Audiogenic Software Ltd.
+Gottlieb
+Color Dreams, Inc.
+Creature Labs Ltd
+Rowan Software Ltd.
+Buena Vista Interactive
+Ozark Softscape
+media Verlagsgesellschaft mbH
+TASK four
+GameTek, Inc.
+Imagitec Design Inc.
+Incredible Technologies, Inc.
+Media Vision, Inc.
+Communication Wave
+Victor Interactive Software, Inc.
+Feelies.org
+Jolt Country
+Animators
+Yumekobo Co., Ltd.
+Codemasters
+Smilebit
+Mr Chip Software
+Future Publishing
+Binary Design, Ltd.
+Creative Sparks
+Dalali Software Ltd.
+Empire Software
+Rage Software Ltd.
+Koei Tecmo
+IDEA Games
+ALTAR Games
+Russobit-M
+Experience Entertainment Software
+Al Baker & Associates
+Bungie
+Orca Corporation
+Buena Vista Games, Inc.
+GT Interactive Software Corp.
+3D Realms Entertainment
+Sanritsu
+Tynesoft Computer Software
+Adventuresoft UK Ltd.
+Westwood Associates
+Time Warner Interactive, Inc.
+Digital Fusion, Inc.
+Kool Kizz Amusement Works
+GBH
+Buka Entertainment
+Hothouse Creations Ltd.
+UPL Co., Ltd
+Mattel Electronics
+Irem Corp.
+Nintendo EAD
+Celestial Software
+Vision Scape Interactive, Inc.
+Lasersoft, Inc.
+Tomahawk
+Psygnosis Limited
+Attention to Detail Limited
+Take-Two Interactive Software, Inc.
+ATD
+Technos Japan Corp.
+MTV Networks
+Spiderdance Inc.
+Synthetic Dimensions
+Dimension Creative Designs, Ltd.
+Toei Animation
+Miltronec
+Atlus Co., Ltd.
+Bee Games
+Renegade Software
+The Bitmap Brothers
+Wanadoo Edition
+Arena Entertainment
+Infinite Ventures, Inc.
+Empire Interactive Entertainment
+EA Tiburon
+Yermani Soft
+Mastertronic Ltd.
+Swing! Entertainment Media AG
+Warthog Plc
+Point of View, Inc.
+Adrenalin Entertainment
+Hudson Entertainment, Inc.
+Twilight Games
+Distinctive Software, Inc.
+GUST Co., Ltd.
+10tacle studios AG
+SimBin Development Team AB
+Impressions Games
+Omnitrend Software
+Camelot Software Planning
+Vivarium Inc.
+Wizarbox
+GFI Russia
+Brøderbund Software, Inc.
+GRIN
+Sydney Development Corp.
+Accolade, Inc.
+ZOO Corporation
+Telltale Games
+Ubisoft Madrid
+Megamedia Corp.
+Eldritch Games
+Game Arts Co., Ltd.
+Church of Electronic Entertainment
+Aspyr Media, Inc.
+Wideload Games, Inc.
+Chewy Software, LLC
+Pixel Mine Productions
+Auric Vision Ltd.
+Maddox Games
+Genki Co., Ltd.
+Zeppelin Games Limited
+iNiS Corp.
+Namco Tales Studio Ltd.
+Bandai Namco Games Inc.
+Wolf Team
+Crystal Vision Software
+Mindscape International Ltd.
+Imagineer Co., Ltd.
+Griptonite Games
+ZOO Digital Publishing Ltd
+Simian Industries
+Game Factory Interactive Ltd.
+Capcom
+Active Enterprises Ltd.
+TERMINAL Studio
+Majesco Entertainment
+Dragon's Den Unlimited
+MegaTech Software
+Prelusion Games Inc.
+GMX Media
+KatGames
+Presage Software, Inc.
+2K Games
+Firaxis Games
+Future Games s.r.o.
+Unknown Identity
+Micro Application, S.A.
+The Adventure Company
+Easy Computing B.V.
+dtp Vertrieb und Marketing GmbH
+Microsoft Studios
+Phantagram Co., Ltd.
+KOCH Media UK Ltd.
+Origin Systems
+FCI
+Apogee Software, Ltd.
+id Software
+Flair Software Ltd.
+Abstrax
+Legend Entertainment Company
+Intelligent Systems Co., Ltd.
+MainReactor
+Parallel Realities
+Virtualogic
+Davilex Games B.V.
+Arika Co., Ltd.
+CAVE Co., Ltd.
+NewKidCo
+Core Design Ltd.
+Ancient
+Infinite Loop
+O3 Games AB
+1C Company
+Strategy First, Inc.
+PAN Vision
+BigBig Studios Ltd.
+Spike Co., Ltd.
+Sony Computer Entertainment America
+Criterion Games
+QASoft
+NCsoft Europe Ltd.
+ArenaNet, Inc.
+Brilliant Digital Entertainment
+WizardWorks Software
+Tantalus Media
+Pathé Interactive
+Mythos Games Ltd.
+Coleco
+Paradigm Creators, Inc.
+Best Buys Interactive
+Stellar Stone LLC
+Locis
+Noise Factory
+CRL Group PLC
+Stormfront Studios
+GlobalFun AB
+NGD Studios
+Intersect Software Corp.
+New Crayon
+PopCap Games, Inc.
+Mastertronic Group Ltd.
+Zenobi Software
+Vertigo Games
+Elite Systems Ltd.
+Encore
+Morphicon Limited
+Bohemia Interactive Studio
+Licomp Empik Multimedia Sp. z o.o.
+505 Games
+Guerrilla Cambridge
+TalonSoft
+T&E Soft, Inc.
+Crytek GmbH
+Neverland Co., Ltd.
+Bandai Digital Entertainment
+Presto Studios, Inc.
+Bandai Co., Ltd.
+Trilobyte, Inc.
+Hyperspace Cowgirls
+Westwood Studios, Inc.
+Softkey
+ComputerHouse GBG AB
+Produce Co., Ltd.
+Three-Sixty Pacific, Inc.
+Acme Animation Inc.
+Flight-Plan
+BlueSky Software, Inc.
+Cheetahsoft Ltd.
+e.p.i.c. interactive entertainment gmbh
+Adventure Soft Publishing Ltd.
+Adventuresoft Ltd.
+Kalisto Entertainment SA
+Laxius Power
+Foster
+Nihon Bussan Co., Ltd.
+Krome Studios Pty Ltd.
+Imagic
+Silicon Dreams Studio Ltd
+Tivola Publishing, Inc.
+BVM Produktion GmbH
+Ubisoft Paris Studios
+Coktel Vision
+Quantum Quality Productions
+Dynamix, Inc.
+Softgold Computerspiele GmbH
+KATWorks Games, LLC
+Chris Gray Enterprises Inc.
+26k Games
+Ninth Wave Software
+Global Software
+Handheld Games
+Atomic Games, Inc.
+Kronos Digital Entertainment
+AtariAge
+The 3DO Company
+Wide Games
+Masque Publishing, Inc.
+Ant Software
+Crazy Games, Inc.
+Amusement Interface Associates
+Cryo Interactive Entertainment
+Tek 5
+Macrospace Ltd
+Amusement Vision, Ltd.
+RomTech, Inc.
+The Creative Assembly
+Torus Games Pty. Ltd.
+xLand Games
+Unistar
+WindThunder
+Aliasworlds Entertainment
+Maxis UK Ltd.
+Artdink
+Maxis Software
+SideQuest Studios
+I'Max Corp.
+Starbyte Software
+Softdisk Publishing
+JVC Musical Industries, Inc.
+United Game Artists
+Data Becker GmbH & Co. KG
+Related Designs Software GmbH
+Toshiba-EMI Ltd.
+Softvision Co., Ltd.
+IBM
+Playtronic Industrial Ltda.
+Nintendo R&D3
+Opera Soft S.A.
+Atari
+Mesa Logic
+Midway Games
+Sold Out Sales & Marketing Ltd.
+Global Star Software Inc.
+Leland Corporation
+Tradewest, Inc.
+Rare, Ltd.
+Virgin Interactive Entertainment, Inc.
+Boffo Games, Inc.
+Future Vision Multimedia
+SuperStudio Ltd.
+Tigervision
+Big Five Software
+Data East Corporation
+Synergistic Software, Inc.
+Culture Brain USA, Inc.
+Culture Brain Inc.
+Sir-tech Software, Inc.
+Titus Interactive, S.A.
+X-Ray Interactive
+Sandcastle
+Krisalis Software Ltd.
+ak tronic Software & Services GmbH
+Jackbox Games
+Durell Software Ltd.
+Epic Games
+Image Works
+Mosaic Publishing
+Level 9 Computing, Ltd.
+Hi-Tec Software Ltd.
+PAL Developments
+Natsume
+Banpresto Co., Ltd.
+Alfa System
+Kids Station, Inc.
+Taito Corporation
+SCE London Studio
+Adrenium Games
+Vortex Software
+Shin'en Multimedia
+Gamos Ltd.
+Dextrogames
+Davidson & Associates, Inc.
+Mindscape, Inc.
+Visceral Games
+GameFlow Entertainment, LLC
+Hypnos Entertainment, Inc.
+Universal Interactive Inc.
+Traveller's Tales Ltd.
+Her Interactive, Inc.
+Gotham Games
+Croteam Ltd.
+Dimps Corporation
+TopWare Interactive
+Metropolis Software House
+Adept Software
+TAKARA Co., Ltd.
+Crave Entertainment
+HVB
+BMG Interactive Entertainment
+Z-Axis, Ltd.
+Koei Co., Ltd.
+BAP Interactive
+Tec Toy Indústria de Brinquedos S.A.
+GraphSim Entertainment
+BioWare
+Black Isle Studios
+Virgin Interactive Entertainment (Europe) Ltd.
+Square Enix
+Ubisoft Entertainment
+Cyan Worlds, Inc.
+Magic Pockets
+Konami Corporation
+Acclaim Entertainment, Inc.
+Acclaim Studios Cheltenham
+Nintendo
+NDCube Co., Ltd.
+Abacus Software, Inc.
+Sylum Entertainment Ltd.
+Novitas GmbH
+Activision
+Quicksilver Software, Inc.
+SEGA-AM2
+Eurocom Entertainment Software
+MicroProse Software, Inc.
+U.S. Gold Ltd.
+EA Bright Light
+EA Canada
+Team Fusion
+Mana Games
+R&R Software
+MicroIllusions
+Nottinghamshire Constabulary
+Sega
+Digital Pictures, Inc.
+ReadySoft Incorporated
+Philips Interactive Media, Inc.
+Don Bluth Ltd.
+Digital Leisure Inc.
+Positech Computing Ltd.
+Deep Silver
+Pluto 13 GmbH
+JoWooD Productions Software AG
+Anirog Software
+Pastel Games
+Max Design GesMBH
+Shrapnel Games, Inc.
+Tiny Hero Game Studios
+Fox Interactive
+Hyperbole Studios
+Sony Computer Entertainment Europe
+n-Space, Inc.
+Strategic Simulations, Inc.
+Radon Labs GmbH
+Agetec, Inc.
+SunSoft
+Tokai Engineering
+Sunsoft of America
+Halycon Media GmbH & Co. KG
+ChessBase GmbH
+Viva Media, LLC
+Mindscape Entertainment
+Centron Software, Inc.
+Progressive Peripherals and Software
+Whiptail Interactive
+Pixel Studio
+Akella
+Dinamic Multimedia
+Simon & Schuster Interactive
+Hypnotix, Inc.
+THQ
+Yuke's Co. Ltd.
+Ariolasoft UK
+Dinamic Software
+Software Storm, Inc.
+Alawar Entertainment, Inc.
+Kernel Kaput
+The Software Toolworks
+Software Country
+Dro Soft
+Electronic Arts
+The Hit Squad
+Gremlin Interactive Ltd.
+Delete
+Domark Software, Inc.
+Telegames, Inc.
